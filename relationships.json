@@ -147,6 +147,7 @@
         { "from": "109", "to": "113", "label": "Gf", "color": "6aa84f" },
         { "from": "110", "to": "600", "label": "Ex", "color": "ff0000" },
         { "from": "110", "to": "396", "label": "Ex", "color": "ff0000" },
+        { "from": "110", "to": "215", "label": "Rumor", "color":"ab57ff" },
         { "from": "111", "to": "115", "label": "Gf", "color": "6aa84f" },
         { "from": "112", "to": "274", "label": "Gf", "color": "6aa84f" },
         { "from": "114", "to": "305", "label": "Ex", "color": "ff0000" },
