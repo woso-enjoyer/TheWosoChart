@@ -1,6 +1,6 @@
 {
     "relationships": [
-        { "from": "0", "to": "503", "label": "Gf", "color": "6aa84f" },
+        { "from": "0", "to": "503", "label": "Ex", "color": "ff0000" },
         { "from": "1", "to": "599", "label": "Ex", "color": "ff0000" },
         { "from": "2", "to": "62", "label": "Gf", "color": "6aa84f" },
         { "from": "3", "to": "4", "label": "Ex", "color": "ff0000" },
