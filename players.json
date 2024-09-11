@@ -5511,6 +5511,14 @@
             "shape": "circularImage",
             "value": 24,
             "image": ""
+        },
+        {
+            "id": "689",
+            "label": "Elodie Thomis",
+            "group": "France",
+            "shape": "circularImage",
+            "value": 38,
+            "image": ""
         }
     ]
 }
