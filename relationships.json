@@ -460,6 +460,7 @@
         { "from": "656", "to": "657", "label": "Gf", "color": "6aa84f" },
         { "from": "662", "to": "667", "label": "Wife", "color": "9cc2e5" },
         { "from": "663", "to": "666", "label": "Ex", "color": "ff0000" },
-        { "from": "674", "to": "33", "label": "Ex", "color": "ff0000" }
+        { "from": "674", "to": "33", "label": "Ex", "color": "ff0000" },
+        { "from": "676", "to": "677", "label": "Wife", "color": "9cc2e5"}
     ]
 }

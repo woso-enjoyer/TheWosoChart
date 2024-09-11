@@ -5407,6 +5407,22 @@
             "shape": "circularImage",
             "value": 4,
             "image": ""
+        },
+        {
+            "id": "676",
+            "label": "Claire Savin",
+            "group": "Germany",
+            "shape": "circularImage",
+            "value": 31,
+            "image": ""
+        },
+        {
+            "id": "677",
+            "label": "Jana Vojtekova",
+            "group": "Slovakia",
+            "shape": "circularImage",
+            "value": 32,
+            "image": ""
         }
     ]
 }
