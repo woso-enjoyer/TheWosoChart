@@ -83,7 +83,6 @@
         { "from": "56", "to": "568", "label": "Ex", "color": "ff0000" },
         { "from": "56", "to": "454", "label": "Ex", "color": "ff0000" },
         { "from": "56", "to": "531", "label": "Rumor", "color": "ab57ff" },
-        { "from": "56", "to": "65", "label": "Rumor", "color": "ab57ff" },
         { "from": "57", "to": "66", "label": "Wife", "color": "9cc2e5" },
         { "from": "58", "to": "64", "label": "Gf", "color": "6aa84f" },
         { "from": "58", "to": "664", "label": "Ex", "color": "ff0000" },
