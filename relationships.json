@@ -35,7 +35,6 @@
         { "from": "23", "to": "209", "label": "Gf", "color": "6aa84f" },
         { "from": "24", "to": "217", "label": "Ex", "color": "ff0000" },
         { "from": "25", "to": "37", "label": "Ex", "color": "ff0000" },
-        { "from": "25", "to": "487", "label": "Rumor", "color": "ab57ff" },
         { "from": "25", "to": "329", "label": "Rumor", "color": "ab57ff" },
         { "from": "25", "to": "26", "label": "Rumor", "color": "ab57ff" },
         { "from": "26", "to": "572", "label": "Ex", "color": "ff0000" },
