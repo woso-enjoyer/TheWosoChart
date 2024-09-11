@@ -5495,6 +5495,22 @@
             "shape": "circularImage",
             "value": 24,
             "image": ""
+        },
+        {
+            "id": "687",
+            "label": "Sydney Lohmann",
+            "group": "Germany",
+            "shape": "circularImage",
+            "value": 24,
+            "image": ""
+        },
+        {
+            "id": "688",
+            "label": "Sam Kerr",
+            "group": "Scotland",
+            "shape": "circularImage",
+            "value": 24,
+            "image": ""
         }
     ]
 }
