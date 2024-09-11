@@ -301,7 +301,7 @@
         { "from": "299", "to": "458", "label": "Wife", "color": "9cc2e5" },
         { "from": "300", "to": "649", "label": "Gf", "color": "6aa84f" },
         { "from": "301", "to": "518", "label": "Wife", "color": "9cc2e5" },
-        { "from": "302", "to": "572", "label": "Gf", "color": "6aa84f" },
+        { "from": "302", "to": "572", "label": "Ex", "color": "ff0000" },
         { "from": "306", "to": "530", "label": "Wife", "color": "9cc2e5" },
         { "from": "307", "to": "592", "label": "Wife", "color": "9cc2e5" },
         { "from": "308", "to": "500", "label": "Wife", "color": "9cc2e5" },
