@@ -230,7 +230,7 @@
         { "from": "197", "to": "200", "label": "Wife", "color": "9cc2e5" },
         { "from": "198", "to": "338", "label": "Ex", "color": "ff0000" },
         { "from": "202", "to": "309", "label": "Gf", "color": "6aa84f" },
-        { "from": "203", "to": "233", "label": "Rumor", "color": "ab57ff" },
+        { "from": "203", "to": "678", "label": "Rumor", "color": "ab57ff" },
         { "from": "204", "to": "333", "label": "Ex", "color": "ff0000" },
         { "from": "205", "to": "581", "label": "Gf", "color": "6aa84f" },
         { "from": "206", "to": "303", "label": "Gf", "color": "6aa84f" },

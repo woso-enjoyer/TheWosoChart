@@ -5423,6 +5423,14 @@
             "shape": "circularImage",
             "value": 32,
             "image": ""
+        },
+        {
+            "id": "678",
+            "label": "Kyra Cooney-Cross",
+            "group": "Australia",
+            "shape": "circularImage",
+            "value": 22,
+            "image": ""
         }
     ]
 }
