@@ -5471,6 +5471,14 @@
             "shape": "circularImage",
             "value": 25,
             "image": ""
+        },
+        {
+            "id": "684",
+            "label": "Emily Shaw",
+            "group": "Nonplayer",
+            "shape": "circularImage",
+            "value": 25,
+            "image": ""
         }
     ]
 }

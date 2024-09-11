@@ -446,6 +446,7 @@
         { "from": "578", "to": "635", "label": "Gf", "color": "6aa84f" },
         { "from": "578", "to": "634", "label": "Ex", "color": "ff0000" },
         { "from": "582", "to": "593", "label": "Ex", "color": "ff0000" },
+        { "from": "582", "to": "684", "label": "Wife", "color": "9cc2e5" },
         { "from": "583", "to": "667", "label": "Ex", "color": "ff0000" },
         { "from": "9", "to": "667", "label": "Ex", "color": "ff0000" },
         { "from": "586", "to": "644", "label": "Wife", "color": "9cc2e5" },
