@@ -5479,6 +5479,14 @@
             "shape": "circularImage",
             "value": 25,
             "image": ""
+        },
+        {
+            "id": "685",
+            "label": "Anna-Lena Stolze",
+            "group": "Germany",
+            "shape": "circularImage",
+            "value": 24,
+            "image": ""
         }
     ]
 }
