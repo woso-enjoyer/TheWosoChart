@@ -5403,7 +5403,7 @@
         {
             "id": "675",
             "label": "Grace aka gkbarry",
-            "group": "",
+            "group": "Nonplayer",
             "shape": "circularImage",
             "value": 4,
             "image": ""
@@ -5439,6 +5439,14 @@
             "shape": "circularImage",
             "value": 21,
             "image": "GraceClinton.png"
+        },
+        {
+            "id": "680",
+            "label": "Nora Holstad Berge",
+            "group": "Norway",
+            "shape": "circularImage",
+            "value": 37,
+            "image": ""
         }
     ]
 }
