@@ -5430,7 +5430,15 @@
             "group": "Australia",
             "shape": "circularImage",
             "value": 22,
-            "image": ""
+            "image": "KyraCooneyCross.png"
+        },
+        {
+            "id": "679",
+            "label": "Grace Clinton",
+            "group": "England",
+            "shape": "circularImage",
+            "value": 21,
+            "image": "GraceClinton.png"
         }
     ]
 }
