@@ -5487,6 +5487,14 @@
             "shape": "circularImage",
             "value": 24,
             "image": ""
+        },
+        {
+            "id": "686",
+            "label": "Taylor Ziemer",
+            "group": "USA",
+            "shape": "circularImage",
+            "value": 24,
+            "image": ""
         }
     ]
 }
