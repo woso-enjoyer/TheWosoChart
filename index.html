@@ -33,6 +33,16 @@
                 padding: 10px;
                 border-radius: 0 0 5px 0;
             }
+            #playerInfo {
+                position:absolute;
+                z-index: 10;
+                background-color: #898989;
+                border-radius: 0 0 5px 0;
+                display: none;
+                padding: 10px;
+                right: 0px;
+                color: white;
+            }
         </style>
 
         <script type="text/javascript" src="vis-network.min.js"></script>
@@ -42,6 +52,7 @@
             let lookupCount = 0;
             let nodes;
             let edges;
+            let selectedNode;
             const DIR = "img/";
 
             const playerData = await fetch('./players.json')
@@ -83,6 +94,20 @@
 
             window.lookup = lookup
             window.draw = draw
+            window.nodes = nodes
+            window.selectedNode = selectedNode
+
+            function selectPlayer(player) {
+                selectedNode = player;
+                const playerInfoDiv = document.getElementById("playerInfo");
+                console.log(playerInfoDiv);
+                if(!selectedNode) {
+                    playerInfoDiv.style.display = "none";
+                } else {
+                    playerInfoDiv.innerHTML = `<div>ID: ${selectedNode.id}</div><div>Name: ${selectedNode.label}</div><div>Nation: ${selectedNode.group}</div>`;
+                    playerInfoDiv.style.display = "block";
+                }
+            }
 
             function draw() {
                 var container = document.getElementById("mynetwork");
@@ -133,6 +158,27 @@
                     },
                 };
                 network = new vis.Network(container, data, options);
+
+                network.on("selectNode", function (params) {
+                    const playerId = params.nodes[0];
+                    if(!playerId) return;
+
+                    const player = nodes.find(node => node.id == playerId)
+
+                    if(!player) return;
+
+                    selectPlayer(player)
+
+                    console.log("selectNode Event:", selectedNode);
+                });
+
+                network.on("deselectNode", function (params) {
+                    const playerId = params.nodes[0];
+                    if(!playerId) {
+                        selectPlayer(undefined)
+                        console.log("deselectNode Event:", selectedNode);
+                    }
+                });
             }
         </script>
     </head>
@@ -147,6 +193,7 @@
             />
             <input type="submit" value="Search" />
         </form>
+        <div id="playerInfo"></div>
         <div id="mynetwork"></div>
     </body>
 </html>
