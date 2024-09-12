@@ -438,7 +438,7 @@
             "group": "Spain",
             "shape": "circularImage",
             "value": 16,
-            "image": "AitanaBonmatí.jpg"
+            "image": "AitanaBonmati.jpg"
         },
         {
             "id": "55",
@@ -842,11 +842,11 @@
         },
         {
             "id": "105",
-            "label": "Amy Rodger",
+            "label": "Amy Rodgers",
             "group": "Scotland",
             "shape": "circularImage",
             "value": 4,
-            "image": "AmyRodger.jpg"
+            "image": "AmyRodgers.png"
         },
         {
             "id": "106",
@@ -1990,7 +1990,7 @@
             "group": "Brazil",
             "shape": "circularImage",
             "value": 4,
-            "image": "GeyseFerreira.jpg"
+            "image": "GeyseFerreira.png"
         },
         {
             "id": "249",
