@@ -5533,6 +5533,7 @@
             "label": "Georgia Stanway",
             "group": "England",
             "shape": "circularImage",
+            "value": 24,
             "image": ""
         },
         {
@@ -5540,6 +5541,7 @@
             "label": "Camilla Kemp",
             "group": "Nonplayer",
             "shape": "circularImage",
+            "value": 24,
             "image": ""
         }
     ]
