@@ -5559,6 +5559,14 @@
             "shape": "circularImage",
             "value": 24,
             "image": ""
+        },
+        {
+            "id": "695",
+            "label": "Elle Smith",
+            "group": "Nonplayer",
+            "shape": "circularImage",
+            "value": 24,
+            "image": ""
         }
     ]
 }
