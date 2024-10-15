@@ -1,6 +1,8 @@
 # WOSO Chart
 The ultimate women's soccer relationship chart
 
+https://woso-enjoyer.github.io/TheWosoChart/
+
 ## Contributing
 Contributing information to the chart is easy, even if you don't know how to code, or how to use GitHub. There are two ways you can contribute:
 
