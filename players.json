@@ -5524,7 +5524,22 @@
             "id": "690",
             "label": "Ella Rutherford",
             "group": "England",
+            "shape": "circularImage",
             "value": 24,
+            "image": ""
+        },
+        {
+            "id": "691",
+            "label": "Georgia Stanway",
+            "group": "England",
+            "shape": "circularImage",
+            "image": ""
+        },
+        {
+            "id": "692",
+            "label": "Camilla Kemp",
+            "group": "Nonplayer",
+            "shape": "circularImage",
             "image": ""
         }
     ]
