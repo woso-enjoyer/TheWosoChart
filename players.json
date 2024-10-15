@@ -5543,6 +5543,22 @@
             "shape": "circularImage",
             "value": 24,
             "image": ""
+        },
+        {
+            "id": "693",
+            "label": "Kim Olafsson",
+            "group": "Luxembourg",
+            "shape": "circularImage",
+            "value": 24,
+            "image": ""
+        },
+        {
+            "id": "694",
+            "label": "Bibi Schulze-Solano",
+            "group": "Germany",
+            "shape": "circularImage",
+            "value": 24,
+            "image": ""
         }
     ]
 }
