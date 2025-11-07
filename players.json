@@ -5655,6 +5655,22 @@
             "shape": "circularImage",
             "value": 23,
             "image": "yazmeen_ryan.png"
+        },
+        {
+            "id": "707",
+            "label": "Geraldine Reuteler",
+            "group": "Switzerland",
+            "shape": "circularImage",
+            "value": 23,
+            "image": "geraldine_reuteler.png"
+        },
+        {
+            "id": "708",
+            "label": "Sophie Nachtigall",
+            "group": "Germany",
+            "shape": "circularImage",
+            "value": 23,
+            "image": "sophie_nachtigall.png"
         }
     ]
 }
