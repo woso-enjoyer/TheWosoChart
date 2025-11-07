@@ -5639,6 +5639,14 @@
             "shape": "circularImage",
             "value": 23,
             "image": "natalia_padilla.png"
+        },
+        {
+            "id": "705",
+            "label": "Martina Lenzini",
+            "group": "Italy",
+            "shape": "circularImage",
+            "value": 23,
+            "image": "martina_lenzini.png"
         }
     ]
 }
