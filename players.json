@@ -5647,6 +5647,14 @@
             "shape": "circularImage",
             "value": 23,
             "image": "martina_lenzini.png"
+        },
+        {
+            "id": "706",
+            "label": "Yazmeen Ryan",
+            "group": "USA",
+            "shape": "circularImage",
+            "value": 23,
+            "image": "yazmeen_ryan.png"
         }
     ]
 }
