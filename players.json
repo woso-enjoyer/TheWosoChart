@@ -5631,6 +5631,14 @@
             "shape": "circularImage",
             "value": 23,
             "image": "charlie_rule.png"
+        },
+        {
+            "id": "704",
+            "label": "Natalia Padilla",
+            "group": "Poland",
+            "shape": "circularImage",
+            "value": 23,
+            "image": "natalia_padilla.png"
         }
     ]
 }
