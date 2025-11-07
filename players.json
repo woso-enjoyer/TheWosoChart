@@ -5582,7 +5582,31 @@
             "group": "USA",
             "shape": "circularImage",
             "value": 24,
+            "image": "catarina_macario.png"
+        },
+        {
+            "id": "698",
+            "label": "Leah Tyrer",
+            "group": "Nonplayer",
+            "shape": "circularImage",
+            "value": 24,
             "image": ""
+        },
+        {
+            "id": "699",
+            "label": "Aggie Beever-Jones",
+            "group": "England",
+            "shape": "circularImage",
+            "value": 24,
+            "image": "aggie_beeverjones.png"
+        },
+        {
+            "id": "700",
+            "label": "Jasmine Bull",
+            "group": "Scotland",
+            "shape": "circularImage",
+            "value": 24,
+            "image": "jazz_bull.png"
         }
     ]
 }
