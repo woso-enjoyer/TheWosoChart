@@ -5671,6 +5671,14 @@
             "shape": "circularImage",
             "value": 23,
             "image": "sophie_nachtigall.png"
+        },
+        {
+            "id": "709",
+            "label": "Sofie Svava",
+            "group": "Denmark",
+            "shape": "circularImage",
+            "value": 23,
+            "image": "sofie_svava.png"
         }
     ]
 }
