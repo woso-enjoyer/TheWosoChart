@@ -5615,6 +5615,22 @@
             "shape": "circularImage",
             "value": 24,
             "image": ""
+        },
+        {
+            "id": "702",
+            "label": "Maisie Symonds",
+            "group": "England",
+            "shape": "circularImage",
+            "value": 24,
+            "image": "maisie_symonds.png"
+        },
+        {
+            "id": "703",
+            "label": "Charlie Rule",
+            "group": "Australia",
+            "shape": "circularImage",
+            "value": 23,
+            "image": "charlie_rule.png"
         }
     ]
 }
