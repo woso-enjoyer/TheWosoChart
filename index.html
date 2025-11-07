@@ -55,6 +55,8 @@
             let selectedNode;
             const DIR = "img/";
 
+            const labelColorMap = { "Gf": "6aa84f", "Rumor": "ab57ff", "Ex": "ff0000", "Wife": "9cc2e5"}
+
             const playerData = await fetch('./players.json')
             const playerDataJson = await playerData.json()
             nodes = playerDataJson.players;
@@ -63,6 +65,7 @@
             const relationshipData = await fetch('./relationships.json')
             const relationshipDataJson = await relationshipData.json()
             edges = relationshipDataJson.relationships;
+            edges.forEach(relationship => relationship.color = labelColorMap[relationship.label])
 
             draw();
 

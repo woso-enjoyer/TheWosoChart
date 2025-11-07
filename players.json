@@ -5575,6 +5575,14 @@
             "shape": "circularImage",
             "value": 24,
             "image": ""
+        },
+        {
+            "id": "697",
+            "label": "Catarina Macario",
+            "group": "USA",
+            "shape": "circularImage",
+            "value": 24,
+            "image": ""
         }
     ]
 }
