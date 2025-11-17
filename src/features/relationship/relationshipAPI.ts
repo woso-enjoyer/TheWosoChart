@@ -1,7 +1,7 @@
 import { Relationship } from "./types"
 
 export const fetchRelationships = async (): Promise<Relationship[]> => {
-  const response = await fetch("/data/relationships.json")
+  const response = await fetch(`./data/relationships.json`)
 
   const json = await response.json()
 

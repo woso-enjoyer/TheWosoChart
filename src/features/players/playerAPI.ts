@@ -1,7 +1,7 @@
 import { Player } from "./types"
 
 export const fetchPlayers = async (): Promise<Player[]> => {
-  const response = await fetch("/data/players.json")
+  const response = await fetch("./data/players.json")
 
   const json = await response.json()
 
