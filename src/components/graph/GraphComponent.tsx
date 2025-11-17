@@ -28,7 +28,7 @@ const defaultOptions: Options = {
   physics: {
     forceAtlas2Based: {
       gravitationalConstant: -26,
-      springLength: 230,
+      springLength: 100,
       springConstant: 0.18,
       centralGravity: 0.001, //springLength: 180, springConstant: 0.02, 
       damping: 0.09, avoidOverlap: 0.8
