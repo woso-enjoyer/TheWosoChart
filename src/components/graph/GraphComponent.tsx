@@ -55,7 +55,10 @@ const defaultOptions: Options = {
     timestep: 0.35,
     stabilization: { iterations: 100, enabled: true },
   },
-  interaction: { hover: true, dragNodes: true, navigationButtons: false, keyboard: true }
+  layout: {
+    improvedLayout: false
+  },
+  interaction: { hover: true, dragNodes: true, navigationButtons: false, keyboard: false }
 }
 
 export interface GraphComponentHandle {
@@ -117,7 +120,6 @@ export const GraphComponent = forwardRef<GraphComponentHandle, {}>(({}, ref) => 
         for(let node of allNodes) {
           // don't hide this node
           if(( type === 'country' && node.group === value) || (type === 'club' && node.club === value) ) {
-            console.log(value)
             nodesToHide.delete(node.id)
             const connectedNodes = current.getConnectedNodes(node.id) as IdType[]
             // also show the connected nodes

@@ -4,10 +4,12 @@ import { selectPlayers } from "../../features/players/playerSlice";
 import { Player } from "../../features/players/types";
 
 interface SearchComponentProps {
-  onSelect: (player: Player) => void
+  onSelect: (player: Player) => void;
+  filterType: 'club' | 'country' | null;
+  filterValue: string | null;
 }
 
-export const SearchComponent: React.FC<SearchComponentProps> = ({ onSelect }) => {
+export const SearchComponent: React.FC<SearchComponentProps> = ({ onSelect, filterType, filterValue }) => {
   const [query, setQuery] = useState("")
   const [isFocused, setIsFocused] = useState(false);
   const players = useAppSelector(selectPlayers)
@@ -15,9 +17,21 @@ export const SearchComponent: React.FC<SearchComponentProps> = ({ onSelect }) =>
   const filteredPlayers = useMemo(() => {
     if (!query) return [];
     return players
+      .filter(p => {
+        if(!filterType || !filterValue) return true;
+
+        switch(filterType) {
+          case 'club': 
+            return p.club === filterValue
+          case 'country':
+            return p.group === filterValue
+          default:
+            return true;
+        }
+      })
       .filter(p => p.label.toLowerCase().includes(query.toLowerCase()))
       .slice(0, 5);
-  }, [query, players]);
+  }, [query, players, filterType, filterValue]);
 
   const handleSelect = (player: Player) => {
     setQuery('');

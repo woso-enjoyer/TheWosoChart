@@ -10,10 +10,9 @@ import {
   fetchRelationshipsAsync,
   selectRelationshipsStatus,
 } from "./features/relationship/relationshipSlice"
-import { SearchComponent } from "./components/search/SearchComponent"
 import { Player } from "./features/players/types"
 import { PlayerComponent } from "./components/player/PlayerComponent"
-import { FilterControlsComponent } from "./components/filter/FilterControlsComponent"
+import { ControlsComponent } from "./components/controls/ControlsComponent"
 
 const App = () => {
   const dispatch = useAppDispatch()
@@ -46,10 +45,7 @@ const App = () => {
   return (
     <main className="relative w-screen h-screen overflow-hidden bg-gray-100 text-gray-800">
       <PlayerComponent />
-      <div className="absolute top-0 left-0 p-6 z-10">
-        <SearchComponent onSelect={handleSelectPlayer}/>
-        <FilterControlsComponent onFilterChange={handleFilter}/>
-      </div>
+      <ControlsComponent onSelectPlayer={handleSelectPlayer} onFilterChange={handleFilter} />
       {playerLoadStatus === "idle" && relationshipsLoadStatus === "idle" && (
         <GraphComponent ref={graph}/>
       )}

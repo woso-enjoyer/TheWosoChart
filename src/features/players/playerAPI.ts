@@ -13,8 +13,6 @@ export const fetchPlayers = async (): Promise<Player[]> => {
 export const sanitizePlayersData = (data: Player[]): Player[] => {
   data.forEach(element => {
     element.image = `img/${element.image}`
-
-    element.shape = "circularImage"
   })
 
   return data
