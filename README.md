@@ -21,11 +21,4 @@ If you want to add the data yourself, you can follow these instructions to creat
 
     The process is the same for editing `relationships.json`
 
-## Relationship Color Scheme
-It is important to adhere to the data format when contributing, so that the output of the program is correct. Relationship color scheme is as follows:
-
-- `"label": "Gf", "color": "6aa84f"`
-- `"label": "Ex", "color": "ff0000"`
-- `"label": "Wife", "color": "9cc2e5"`
-
-When adding missing players to `players.json` you can add the corresponding image to `/img` folder. Be sure to follow the player data format of the existing data.
+When adding missing players to `players.json` you can add the corresponding image to `/public/img` folder. Be sure to follow the player data format of the existing data.
