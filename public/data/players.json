@@ -679,12 +679,12 @@
         },
         {
             "id": "76",
-            "label": "Vicky Lopez",
-            "group": "Spain",
-            "image": "VickyLopez.jpg",
-            "sofascore": 1139757,
-            "dateOfBirthTimestamp": 1153872000,
-            "club": "FC Barcelona"
+            "label": "Camille Abily",
+            "group": "France",
+            "image": "CamilleAbily.jpg",
+            "sofascore": 81073,
+            "dateOfBirthTimestamp": 471052800,
+            "club": "Retired"
         },
         {
             "id": "77",
@@ -2302,12 +2302,12 @@
         },
         {
             "id": "258",
-            "label": "Maiken Bakke",
-            "group": "Norway",
-            "image": "MaikenBakke.jpg",
-            "sofascore": 886373,
+            "label": "Sonia Bompastor",
+            "group": "France",
+            "image": "SoniaBompastor.jpg",
+            "sofascore": 81033,
             "club": "Retired",
-            "dateOfBirthTimestamp": 889488000
+            "dateOfBirthTimestamp": 329270400
         },
         {
             "id": "259",
