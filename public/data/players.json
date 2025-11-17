@@ -888,7 +888,7 @@
             "id": "99",
             "label": "Agata Tarczyńska",
             "group": "Poland",
-            "image": "AgataTarczyńska.jpg",
+            "image": "AgataTarczynska.jpg",
             "sofascore": 105382,
             "club": "Retired",
             "dateOfBirthTimestamp": 583372800
@@ -1443,7 +1443,7 @@
             "id": "161",
             "label": "Esther González",
             "group": "Spain",
-            "image": "EstherGonzález.jpg",
+            "image": "EstherGonzalez.jpg",
             "sofascore": 823108,
             "dateOfBirthTimestamp": 723772800,
             "club": "Gotham"
@@ -1921,7 +1921,7 @@
             "id": "215",
             "label": "Marie Höbinger",
             "group": "Austria",
-            "image": "MarieHöbinge.jpg",
+            "image": "MarieHobinger.jpg",
             "sofascore": 1004992,
             "dateOfBirthTimestamp": 993945600,
             "club": "Liverpool"
@@ -1930,7 +1930,7 @@
             "id": "216",
             "label": "Renata Arango Silva",
             "group": "Colombia",
-            "image": "RenataArango.jpg",
+            "image": "RenataArangoSilva.png",
             "sofascore": 1597635,
             "dateOfBirthTimestamp": 611280000,
             "club": "Llaneros FC"
@@ -2197,7 +2197,7 @@
             "id": "246",
             "label": "Sara Merida",
             "group": "Spain",
-            "image": "SaraMerida.jpg",
+            "image": "SaraMerida.png",
             "club": "Retired",
             "dateOfBirthTimestamp": 734282002
         },
@@ -2241,7 +2241,7 @@
             "id": "251",
             "label": "Tyla-Jay Vlajnic",
             "group": "Serbia",
-            "image": "Tyla-JayVlajnic.jpg",
+            "image": "TylaJayVlajnic.png",
             "sofascore": 1011977,
             "dateOfBirthTimestamp": 657849600,
             "club": "Melbourne City"
@@ -2336,13 +2336,13 @@
             "id": "262",
             "label": "Bruna Gois",
             "group": "Nonplayer",
-            "image": "BrunaGois.jpg"
+            "image": ""
         },
         {
             "id": "263",
             "label": "Erin Caldwell",
             "group": "Nonplayer",
-            "image": "ErinCaldwell.jpg"
+            "image": ""
         },
         {
             "id": "264",
@@ -2401,7 +2401,7 @@
             "id": "272",
             "label": "Carlota Encinas Saiz",
             "group": "Spain",
-            "image": "CarlotaEncinas.jpg",
+            "image": "CarlotaEncinaSaiz.jpg",
             "club": "Retired",
             "dateOfBirthTimestamp": 1006618402
         },
@@ -3380,7 +3380,7 @@
             "id": "431",
             "label": "Jessica Fishlock",
             "group": "Wales",
-            "image": "JessicaFishlock.jpg",
+            "image": "JessicaFishlock.png",
             "sofascore": 93285,
             "dateOfBirthTimestamp": 537580800,
             "club": "Seattle Reign"
@@ -3638,7 +3638,7 @@
             "id": "460",
             "label": "Milagros Menéndez",
             "group": "Argentina",
-            "image": "MilagrosMenéndez.jpg",
+            "image": "MilagrosMenendez.jpg",
             "sofascore": 985626,
             "dateOfBirthTimestamp": 859075200,
             "club": "Al-Amal"
@@ -3805,7 +3805,7 @@
             "id": "479",
             "label": "Gudbjörg Gunnarsdottir",
             "group": "Iceland",
-            "image": "GudbjörgGunnarsdottir.jpg",
+            "image": "GudbjorgGunnarsdottir.jpg",
             "sofascore": 81110,
             "club": "Retired",
             "dateOfBirthTimestamp": 485222400
@@ -3886,7 +3886,7 @@
             "id": "488",
             "label": "Claire Rafferty",
             "group": "England",
-            "image": "ClaireRaferty.jpg",
+            "image": "ClaireRafferty.jpg",
             "sofascore": 113013,
             "club": "Retired",
             "dateOfBirthTimestamp": 600480000
@@ -3929,7 +3929,7 @@
             "id": "493",
             "label": "Amy Kane",
             "group": "England",
-            "image": "AmyKane.jpg",
+            "image": "AmyKane.png",
             "club": "Retired",
             "dateOfBirthTimestamp": 526749202
         },
@@ -3973,7 +3973,7 @@
             "id": "498",
             "label": "Carla Martínez Arjona",
             "group": "Spain",
-            "image": "CarlaMartínez.jpg",
+            "image": "CarlaMartinez.jpg",
             "club": "Retired",
             "dateOfBirthTimestamp": 731261602
         },
@@ -4312,7 +4312,7 @@
             "id": "537",
             "label": "Lisa Eichholz",
             "group": "Germany",
-            "image": "LisaEichholz.jpg",
+            "image": "LisaEichholz.png",
             "club": "Retired",
             "dateOfBirthTimestamp": 655398802
         },
@@ -4354,7 +4354,7 @@
             "id": "542",
             "label": "Lucie Voňková",
             "group": "Czech Republic",
-            "image": "LucieVoňková.jpg",
+            "image": "LucieVonkova.jpg",
             "sofascore": 91199,
             "club": "Retired",
             "dateOfBirthTimestamp": 699235200
@@ -4438,7 +4438,7 @@
             "id": "552",
             "label": "Michelle Noetzel",
             "group": "Germany",
-            "image": "MichelleNoetzel.jpg",
+            "image": "MichelleNoetzel.png",
             "club": "Retired",
             "dateOfBirthTimestamp": 852567202
         },
@@ -5576,7 +5576,7 @@
             "id": "680",
             "label": "Nora Holstad Berge",
             "group": "Norway",
-            "image": "NoraHolstad.jpg",
+            "image": "NoraHolstadBerge.png",
             "sofascore": 25832,
             "dateOfBirthTimestamp": 543715200,
             "club": "Retired"
@@ -5618,7 +5618,7 @@
             "id": "685",
             "label": "Anna-Lena Stolze",
             "group": "Germany",
-            "image": "",
+            "image": "AnnaLenaStolze.jpg",
             "sofascore": 930672,
             "dateOfBirthTimestamp": 963014400,
             "club": "Köln"
@@ -5627,7 +5627,7 @@
             "id": "686",
             "label": "Taylor Ziemer",
             "group": "USA",
-            "image": "",
+            "image": "TaylorZiemer.jpg",
             "sofascore": 1134946,
             "dateOfBirthTimestamp": 900547200,
             "club": "Köln"
@@ -5636,7 +5636,7 @@
             "id": "687",
             "label": "Sydney Lohmann",
             "group": "Germany",
-            "image": "",
+            "image": "SydneyLohmann.jpg",
             "sofascore": 964032,
             "dateOfBirthTimestamp": 961372800,
             "club": "Man City"
@@ -5645,7 +5645,7 @@
             "id": "688",
             "label": "Sam Kerr",
             "group": "Scotland",
-            "image": "",
+            "image": "SamKerrScotland.jpg",
             "sofascore": 964056,
             "dateOfBirthTimestamp": 924307200,
             "club": "Liverpool"
@@ -5654,7 +5654,7 @@
             "id": "689",
             "label": "Elodie Thomis",
             "group": "France",
-            "image": "",
+            "image": "ElodiThomis.jpg",
             "sofascore": 81097,
             "club": "Retired",
             "dateOfBirthTimestamp": 524275200
@@ -5663,7 +5663,7 @@
             "id": "690",
             "label": "Ella Rutherford",
             "group": "England",
-            "image": "",
+            "image": "EllaRutherford.jpg",
             "sofascore": 1020560,
             "dateOfBirthTimestamp": 956880000,
             "club": "Portsmouth"
@@ -5672,7 +5672,7 @@
             "id": "691",
             "label": "Georgia Stanway",
             "group": "England",
-            "image": "",
+            "image": "GeorgiaStanway.png",
             "sofascore": 877167,
             "dateOfBirthTimestamp": 915321600,
             "club": "Bayern Munich"
@@ -5687,7 +5687,7 @@
             "id": "693",
             "label": "Kim Olafsson",
             "group": "Luxembourg",
-            "image": "",
+            "image": "KimOlafsson.png",
             "sofascore": 1836482,
             "club": "Retired",
             "dateOfBirthTimestamp": 904176000
@@ -5696,7 +5696,7 @@
             "id": "694",
             "label": "Bibi Schulze-Solano",
             "group": "Germany",
-            "image": "",
+            "image": "BibiShulzeSolano.jpg",
             "sofascore": 1084042,
             "dateOfBirthTimestamp": 910828800,
             "club": "Athletic Club"
@@ -5711,7 +5711,7 @@
             "id": "696",
             "label": "Julia Mora Tobías",
             "group": "Spain",
-            "image": "",
+            "image": "JuliaMoraTobias.jpg",
             "sofascore": 1408129,
             "dateOfBirthTimestamp": 876787200
         },
