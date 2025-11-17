@@ -6,7 +6,8 @@
             "group": "Austria",
             "image": "CarinaWenninger.jpg",
             "sofascore": 863101,
-            "dateOfBirthTimestamp": 665798400
+            "dateOfBirthTimestamp": 665798400,
+            "club": "Austria Wien"
         },
         {
             "id": "1",
@@ -14,7 +15,8 @@
             "group": "Italy",
             "image": "MartinaPiemonte.jpg",
             "sofascore": 810053,
-            "dateOfBirthTimestamp": 878860800
+            "dateOfBirthTimestamp": 878860800,
+            "club": "Lazio"
         },
         {
             "id": "2",
@@ -22,7 +24,8 @@
             "group": "Italy",
             "image": "LindaTucceri.jpg",
             "sofascore": 358078,
-            "dateOfBirthTimestamp": 670723200
+            "dateOfBirthTimestamp": 670723200,
+            "club": "Sampdoria"
         },
         {
             "id": "3",
@@ -30,7 +33,8 @@
             "group": "Italy",
             "image": "MiriamLongo.jpg",
             "sofascore": 1007134,
-            "dateOfBirthTimestamp": 951264000
+            "dateOfBirthTimestamp": 951264000,
+            "club": "Fiorentina"
         },
         {
             "id": "4",
@@ -46,7 +50,8 @@
             "group": "Australia",
             "image": "JennaMcCormick.jpg",
             "sofascore": 893557,
-            "dateOfBirthTimestamp": 778896000
+            "dateOfBirthTimestamp": 778896000,
+            "club": "Brisbane Roar"
         },
         {
             "id": "6",
@@ -54,7 +59,8 @@
             "group": "The Netherlands",
             "image": "SheridaSpitse.jpg",
             "sofascore": 80741,
-            "dateOfBirthTimestamp": 643939200
+            "dateOfBirthTimestamp": 643939200,
+            "club": "Ajax"
         },
         {
             "id": "7",
@@ -104,7 +110,8 @@
             "group": "Argentina",
             "image": "VirginiaGomez.jpg",
             "sofascore": 985607,
-            "dateOfBirthTimestamp": 667526400
+            "dateOfBirthTimestamp": 667526400,
+            "club": "San Lorenzo"
         },
         {
             "id": "13",
@@ -112,7 +119,8 @@
             "group": "Spain",
             "image": "AndreaPereira.jpg",
             "sofascore": 838442,
-            "dateOfBirthTimestamp": 748396800
+            "dateOfBirthTimestamp": 748396800,
+            "club": "Pachuca"
         },
         {
             "id": "14",
@@ -120,7 +128,8 @@
             "group": "Colombia",
             "image": "DanielaArias.png",
             "sofascore": 2116751,
-            "dateOfBirthTimestamp": 778291200
+            "dateOfBirthTimestamp": 778291200,
+            "club": "San Diego Wave"
         },
         {
             "id": "15",
@@ -146,7 +155,8 @@
             "group": "Bosnia & Herzegovina",
             "image": "DiDiHaracic.jpg",
             "sofascore": 1000083,
-            "dateOfBirthTimestamp": 703036800
+            "dateOfBirthTimestamp": 703036800,
+            "club": "San Diego Wave"
         },
         {
             "id": "18",
@@ -154,7 +164,8 @@
             "group": "USA",
             "image": "SarahGorden.jpg",
             "sofascore": 1025624,
-            "dateOfBirthTimestamp": 716342400
+            "dateOfBirthTimestamp": 716342400,
+            "club": "Angel City FC"
         },
         {
             "id": "19",
@@ -162,7 +173,8 @@
             "group": "USA",
             "image": "PaigeNielsen.jpg",
             "sofascore": 1025416,
-            "dateOfBirthTimestamp": 750556800
+            "dateOfBirthTimestamp": 750556800,
+            "club": "Houston Dash"
         },
         {
             "id": "20",
@@ -170,7 +182,8 @@
             "group": "USA",
             "image": "LilyNabet.jpg",
             "sofascore": 1188646,
-            "dateOfBirthTimestamp": 938131200
+            "dateOfBirthTimestamp": 938131200,
+            "club": "Fort Lauderdale United"
         },
         {
             "id": "21",
@@ -178,7 +191,8 @@
             "group": "England",
             "image": "BethMead.jpg",
             "sofascore": 137258,
-            "dateOfBirthTimestamp": 799977600
+            "dateOfBirthTimestamp": 799977600,
+            "club": "Arsenal"
         },
         {
             "id": "22",
@@ -186,7 +200,8 @@
             "group": "Australia",
             "image": "CaitlinFoord.jpg",
             "sofascore": 154932,
-            "dateOfBirthTimestamp": 784512000
+            "dateOfBirthTimestamp": 784512000,
+            "club": "Arsenal"
         },
         {
             "id": "23",
@@ -194,7 +209,8 @@
             "group": "Norway",
             "image": "FridaMaanum.jpg",
             "sofascore": 878675,
-            "dateOfBirthTimestamp": 932083200
+            "dateOfBirthTimestamp": 932083200,
+            "club": "Arsenal"
         },
         {
             "id": "24",
@@ -202,7 +218,8 @@
             "group": "Ireland",
             "image": "KatieMcCabe.jpg",
             "sofascore": 138357,
-            "dateOfBirthTimestamp": 811641600
+            "dateOfBirthTimestamp": 811641600,
+            "club": "Arsenal"
         },
         {
             "id": "25",
@@ -210,7 +227,8 @@
             "group": "England",
             "image": "LeahWilliamson.jpg",
             "sofascore": 230390,
-            "dateOfBirthTimestamp": 859593600
+            "dateOfBirthTimestamp": 859593600,
+            "club": "Arsenal"
         },
         {
             "id": "26",
@@ -218,7 +236,8 @@
             "group": "Switzerland",
             "image": "LiaWälti.jpg",
             "sofascore": 68299,
-            "dateOfBirthTimestamp": 735177600
+            "dateOfBirthTimestamp": 735177600,
+            "club": "Juventus"
         },
         {
             "id": "27",
@@ -226,7 +245,8 @@
             "group": "Austria",
             "image": "ManuelaZinsberger.jpg",
             "sofascore": 863094,
-            "dateOfBirthTimestamp": 814060800
+            "dateOfBirthTimestamp": 814060800,
+            "club": "Arsenal"
         },
         {
             "id": "28",
@@ -234,7 +254,8 @@
             "group": "The Netherlands",
             "image": "VivianneMiedema.jpg",
             "sofascore": 796534,
-            "dateOfBirthTimestamp": 837388800
+            "dateOfBirthTimestamp": 837388800,
+            "club": "Man City"
         },
         {
             "id": "29",
@@ -242,7 +263,8 @@
             "group": "Italy",
             "image": "ElenaLinari.jpg",
             "sofascore": 96457,
-            "dateOfBirthTimestamp": 766368000
+            "dateOfBirthTimestamp": 766368000,
+            "club": "London City Lioness"
         },
         {
             "id": "30",
@@ -250,7 +272,8 @@
             "group": "Italy",
             "image": "GiadaGreggi.jpg",
             "sofascore": 1000078,
-            "dateOfBirthTimestamp": 950832000
+            "dateOfBirthTimestamp": 950832000,
+            "club": "Roma"
         },
         {
             "id": "31",
@@ -258,7 +281,8 @@
             "group": "Italy",
             "image": "ManuelaGiugliano.jpg",
             "sofascore": 266693,
-            "dateOfBirthTimestamp": 871862400
+            "dateOfBirthTimestamp": 871862400,
+            "club": "Roma"
         },
         {
             "id": "32",
@@ -266,7 +290,8 @@
             "group": "Spain",
             "image": "VickyLosada.jpg",
             "sofascore": 91668,
-            "dateOfBirthTimestamp": 668131200
+            "dateOfBirthTimestamp": 668131200,
+            "club": "Bristol City"
         },
         {
             "id": "33",
@@ -274,7 +299,8 @@
             "group": "Switzerland",
             "image": "NoelleMaritz.jpg",
             "sofascore": 138090,
-            "dateOfBirthTimestamp": 819676800
+            "dateOfBirthTimestamp": 819676800,
+            "club": "Aston Villa"
         },
         {
             "id": "34",
@@ -282,7 +308,8 @@
             "group": "Switzerland",
             "image": "AlishaLehmann.jpg",
             "sofascore": 937402,
-            "dateOfBirthTimestamp": 916876800
+            "dateOfBirthTimestamp": 916876800,
+            "club": "FC Como"
         },
         {
             "id": "35",
@@ -290,7 +317,8 @@
             "group": "Scotland",
             "image": "ChloeArthur.jpg",
             "sofascore": 863047,
-            "dateOfBirthTimestamp": 790646400
+            "dateOfBirthTimestamp": 790646400,
+            "club": "Crystal Palace"
         },
         {
             "id": "36",
@@ -298,7 +326,8 @@
             "group": "Australia",
             "image": "EmilyGielnik.jpg",
             "sofascore": 879828,
-            "dateOfBirthTimestamp": 705715200
+            "dateOfBirthTimestamp": 705715200,
+            "club": "Monterrey"
         },
         {
             "id": "37",
@@ -306,7 +335,8 @@
             "group": "England",
             "image": "JordanNobbs.jpg",
             "sofascore": 68206,
-            "dateOfBirthTimestamp": 723772800
+            "dateOfBirthTimestamp": 723772800,
+            "club": "Newcastle United"
         },
         {
             "id": "38",
@@ -314,7 +344,8 @@
             "group": "England",
             "image": "MazPacheco.jpg",
             "sofascore": 1007398,
-            "dateOfBirthTimestamp": 904003200
+            "dateOfBirthTimestamp": 904003200,
+            "club": "Everton"
         },
         {
             "id": "39",
@@ -331,7 +362,8 @@
             "group": "England",
             "image": "RachelDaly.jpg",
             "sofascore": 841344,
-            "dateOfBirthTimestamp": 691977600
+            "dateOfBirthTimestamp": 691977600,
+            "club": "Aston Villa"
         },
         {
             "id": "41",
@@ -348,7 +380,8 @@
             "group": "England",
             "image": "SarahMayling.jpg",
             "sofascore": 1007365,
-            "dateOfBirthTimestamp": 858816000
+            "dateOfBirthTimestamp": 858816000,
+            "club": "Aston Villa"
         },
         {
             "id": "43",
@@ -356,7 +389,8 @@
             "group": "England",
             "image": "LucyParker.jpg",
             "sofascore": 1139666,
-            "dateOfBirthTimestamp": 911347200
+            "dateOfBirthTimestamp": 911347200,
+            "club": "Aston Villa"
         },
         {
             "id": "44",
@@ -364,7 +398,8 @@
             "group": "Spain",
             "image": "MartaCardona.jpg",
             "sofascore": 999606,
-            "dateOfBirthTimestamp": 801446400
+            "dateOfBirthTimestamp": 801446400,
+            "club": "Parma"
         },
         {
             "id": "45",
@@ -380,7 +415,8 @@
             "group": "Spain",
             "image": "AinhoaMoraza.jpg",
             "sofascore": 1008732,
-            "dateOfBirthTimestamp": 808876800
+            "dateOfBirthTimestamp": 808876800,
+            "club": "R. Sociedad"
         },
         {
             "id": "47",
@@ -388,7 +424,8 @@
             "group": "Spain",
             "image": "CarmenMenayo.jpg",
             "sofascore": 905811,
-            "dateOfBirthTimestamp": 892512000
+            "dateOfBirthTimestamp": 892512000,
+            "club": "Atlético de Madrid"
         },
         {
             "id": "48",
@@ -396,7 +433,8 @@
             "group": "Argentina",
             "image": "EstefaniaBanini.jpg",
             "sofascore": 985611,
-            "dateOfBirthTimestamp": 645926400
+            "dateOfBirthTimestamp": 645926400,
+            "club": "FC Badalona"
         },
         {
             "id": "49",
@@ -404,7 +442,8 @@
             "group": "Colombia",
             "image": "LeicySantos.jpg",
             "sofascore": 796887,
-            "dateOfBirthTimestamp": 832204800
+            "dateOfBirthTimestamp": 832204800,
+            "club": "Washington Spirit"
         },
         {
             "id": "50",
@@ -412,7 +451,8 @@
             "group": "Spain",
             "image": "LolaGallardo.jpg",
             "sofascore": 985241,
-            "dateOfBirthTimestamp": 739670400
+            "dateOfBirthTimestamp": 739670400,
+            "club": "Atlético de Madrid"
         },
         {
             "id": "51",
@@ -420,7 +460,8 @@
             "group": "The Netherlands",
             "image": "MerelVan.jpg",
             "sofascore": 97141,
-            "dateOfBirthTimestamp": 729388800
+            "dateOfBirthTimestamp": 729388800,
+            "club": "Retired"
         },
         {
             "id": "52",
@@ -437,7 +478,8 @@
             "group": "Colombia",
             "image": "DanielaMontoya.jpg",
             "sofascore": 121060,
-            "dateOfBirthTimestamp": 651283200
+            "dateOfBirthTimestamp": 651283200,
+            "club": "Grêmio"
         },
         {
             "id": "54",
@@ -445,7 +487,8 @@
             "group": "Spain",
             "image": "AitanaBonmati.jpg",
             "sofascore": 860751,
-            "dateOfBirthTimestamp": 885081600
+            "dateOfBirthTimestamp": 885081600,
+            "club": "FC Barcelona"
         },
         {
             "id": "55",
@@ -453,7 +496,8 @@
             "group": "Spain",
             "image": "AlexiaPutellas.jpg",
             "sofascore": 98110,
-            "dateOfBirthTimestamp": 760320000
+            "dateOfBirthTimestamp": 760320000,
+            "club": "FC Barcelona"
         },
         {
             "id": "56",
@@ -461,7 +505,8 @@
             "group": "Switzerland",
             "image": "AnaCrnogorcevic.jpg",
             "sofascore": 68296,
-            "dateOfBirthTimestamp": 654912000
+            "dateOfBirthTimestamp": 654912000,
+            "club": "Seattle Reign"
         },
         {
             "id": "57",
@@ -469,7 +514,8 @@
             "group": "Norway",
             "image": "CarolineGraham.jpg",
             "sofascore": 986310,
-            "dateOfBirthTimestamp": 793065600
+            "dateOfBirthTimestamp": 793065600,
+            "club": "FC Barcelona"
         },
         {
             "id": "58",
@@ -477,7 +523,8 @@
             "group": "Norway",
             "image": "IngridEngen.jpg",
             "sofascore": 836948,
-            "dateOfBirthTimestamp": 893808000
+            "dateOfBirthTimestamp": 893808000,
+            "club": "Lyonnes"
         },
         {
             "id": "59",
@@ -485,7 +532,8 @@
             "group": "Spain",
             "image": "IreneParedes.jpg",
             "sofascore": 190051,
-            "dateOfBirthTimestamp": 678585600
+            "dateOfBirthTimestamp": 678585600,
+            "club": "FC Barcelona"
         },
         {
             "id": "60",
@@ -493,7 +541,8 @@
             "group": "Spain",
             "image": "JanaFernández.jpg",
             "sofascore": 992147,
-            "dateOfBirthTimestamp": 1013990400
+            "dateOfBirthTimestamp": 1013990400,
+            "club": "London City Lioness"
         },
         {
             "id": "61",
@@ -501,7 +550,8 @@
             "group": "England",
             "image": "KeiraWalsh.jpg",
             "sofascore": 860622,
-            "dateOfBirthTimestamp": 860457600
+            "dateOfBirthTimestamp": 860457600,
+            "club": "Chelsea"
         },
         {
             "id": "62",
@@ -509,7 +559,8 @@
             "group": "Spain",
             "image": "LaiaCodina.jpg",
             "sofascore": 992146,
-            "dateOfBirthTimestamp": 948499200
+            "dateOfBirthTimestamp": 948499200,
+            "club": "Arsenal"
         },
         {
             "id": "63",
@@ -517,7 +568,8 @@
             "group": "England",
             "image": "LucyBronze.jpg",
             "sofascore": 68201,
-            "dateOfBirthTimestamp": 688608000
+            "dateOfBirthTimestamp": 688608000,
+            "club": "Chelsea"
         },
         {
             "id": "64",
@@ -525,7 +577,8 @@
             "group": "Spain",
             "image": "MapiLeón.jpg",
             "sofascore": 824959,
-            "dateOfBirthTimestamp": 803001600
+            "dateOfBirthTimestamp": 803001600,
+            "club": "FC Barcelona"
         },
         {
             "id": "65",
@@ -533,7 +586,8 @@
             "group": "Spain",
             "image": "MarionaCaldentey.jpg",
             "sofascore": 986383,
-            "dateOfBirthTimestamp": 827193600
+            "dateOfBirthTimestamp": 827193600,
+            "club": "Arsenal"
         },
         {
             "id": "66",
@@ -541,7 +595,8 @@
             "group": "Spain",
             "image": "MartaTorrejon.jpg",
             "sofascore": 99678,
-            "dateOfBirthTimestamp": 636076800
+            "dateOfBirthTimestamp": 636076800,
+            "club": "FC Barcelona"
         },
         {
             "id": "67",
@@ -549,7 +604,8 @@
             "group": "Spain",
             "image": "NuriaRabano.jpg",
             "sofascore": 1008821,
-            "dateOfBirthTimestamp": 929404800
+            "dateOfBirthTimestamp": 929404800,
+            "club": "Utah Royals"
         },
         {
             "id": "68",
@@ -557,7 +613,8 @@
             "group": "Spain",
             "image": "PatriGuijarro.jpg",
             "sofascore": 825484,
-            "dateOfBirthTimestamp": 895363200
+            "dateOfBirthTimestamp": 895363200,
+            "club": "FC Barcelona"
         },
         {
             "id": "69",
@@ -565,7 +622,8 @@
             "group": "Spain",
             "image": "ClaudiaPina.jpg",
             "sofascore": 944517,
-            "dateOfBirthTimestamp": 997574400
+            "dateOfBirthTimestamp": 997574400,
+            "club": "FC Barcelona"
         },
         {
             "id": "70",
@@ -582,7 +640,8 @@
             "group": "Venezuela",
             "image": "DeynaCastellanos.jpg",
             "sofascore": 542250,
-            "dateOfBirthTimestamp": 924393600
+            "dateOfBirthTimestamp": 924393600,
+            "club": "Portland Thorns"
         },
         {
             "id": "72",
@@ -590,7 +649,8 @@
             "group": "Wales",
             "image": "FfionMorgan.jpg",
             "sofascore": 1092664,
-            "dateOfBirthTimestamp": 958003200
+            "dateOfBirthTimestamp": 958003200,
+            "club": "West Ham"
         },
         {
             "id": "73",
@@ -614,7 +674,8 @@
             "group": "Spain",
             "image": "AriArias.jpg",
             "sofascore": 1008943,
-            "dateOfBirthTimestamp": 1053820800
+            "dateOfBirthTimestamp": 1053820800,
+            "club": "C. Adeje Tenerife"
         },
         {
             "id": "76",
@@ -622,7 +683,8 @@
             "group": "Spain",
             "image": "VickyLopez.jpg",
             "sofascore": 1139757,
-            "dateOfBirthTimestamp": 1153872000
+            "dateOfBirthTimestamp": 1153872000,
+            "club": "FC Barcelona"
         },
         {
             "id": "77",
@@ -630,7 +692,8 @@
             "group": "Spain",
             "image": "SalmaParalluelo.jpg",
             "sofascore": 1175890,
-            "dateOfBirthTimestamp": 1068681600
+            "dateOfBirthTimestamp": 1068681600,
+            "club": "FC Barcelona"
         },
         {
             "id": "78",
@@ -638,7 +701,8 @@
             "group": "Spain",
             "image": "MartinaFernandez.jpg",
             "sofascore": 1176749,
-            "dateOfBirthTimestamp": 1132790400
+            "dateOfBirthTimestamp": 1132790400,
+            "club": "Everton"
         },
         {
             "id": "79",
@@ -655,7 +719,8 @@
             "group": "Germany",
             "image": "NinaBrüggemann.jpg",
             "sofascore": 1008941,
-            "dateOfBirthTimestamp": 729388800
+            "dateOfBirthTimestamp": 729388800,
+            "club": "HSV"
         },
         {
             "id": "81",
@@ -663,7 +728,8 @@
             "group": "Germany",
             "image": "CarolinSimon.jpg",
             "sofascore": 885793,
-            "dateOfBirthTimestamp": 722563200
+            "dateOfBirthTimestamp": 722563200,
+            "club": "Bayern Munich"
         },
         {
             "id": "82",
@@ -671,7 +737,8 @@
             "group": "Croatia",
             "image": "IvanaRudelic.jpg",
             "sofascore": 105143,
-            "dateOfBirthTimestamp": 696297600
+            "dateOfBirthTimestamp": 696297600,
+            "club": "Basel"
         },
         {
             "id": "83",
@@ -679,7 +746,8 @@
             "group": "Germany",
             "image": "LeaSchüller.jpg",
             "sofascore": 860816,
-            "dateOfBirthTimestamp": 879292800
+            "dateOfBirthTimestamp": 879292800,
+            "club": "Bayern Munich"
         },
         {
             "id": "84",
@@ -687,7 +755,8 @@
             "group": "Germany",
             "image": "LinaMagull.jpg",
             "sofascore": 114578,
-            "dateOfBirthTimestamp": 776908800
+            "dateOfBirthTimestamp": 776908800,
+            "club": "Inter"
         },
         {
             "id": "85",
@@ -695,7 +764,8 @@
             "group": "Sweden",
             "image": "MagdalenaEriksson.jpg",
             "sofascore": 94322,
-            "dateOfBirthTimestamp": 747446400
+            "dateOfBirthTimestamp": 747446400,
+            "club": "Bayern Munich"
         },
         {
             "id": "86",
@@ -703,7 +773,8 @@
             "group": "Denmark",
             "image": "PernilleHarder.jpg",
             "sofascore": 91248,
-            "dateOfBirthTimestamp": 721699200
+            "dateOfBirthTimestamp": 721699200,
+            "club": "Bayern Munich"
         },
         {
             "id": "87",
@@ -729,7 +800,8 @@
             "group": "Ireland",
             "image": "LucyQuinn.jpg",
             "sofascore": 1007328,
-            "dateOfBirthTimestamp": 749260800
+            "dateOfBirthTimestamp": 749260800,
+            "club": "Birmingham"
         },
         {
             "id": "90",
@@ -737,7 +809,8 @@
             "group": "Sweden",
             "image": "JenniferFalk.jpg",
             "sofascore": 974085,
-            "dateOfBirthTimestamp": 735782400
+            "dateOfBirthTimestamp": 735782400,
+            "club": "BK Häcken"
         },
         {
             "id": "91",
@@ -745,7 +818,8 @@
             "group": "Wales",
             "image": "EllieLeek.jpg",
             "sofascore": 1090588,
-            "dateOfBirthTimestamp": 790646400
+            "dateOfBirthTimestamp": 790646400,
+            "club": "Blackburn"
         },
         {
             "id": "92",
@@ -753,7 +827,8 @@
             "group": "Argentina",
             "image": "JulietaCruz.jpg",
             "sofascore": 1143281,
-            "dateOfBirthTimestamp": 836438400
+            "dateOfBirthTimestamp": 836438400,
+            "club": "Boca Juniors"
         },
         {
             "id": "93",
@@ -761,7 +836,8 @@
             "group": "Argentina",
             "image": "LorenaBenítez.jpg",
             "sofascore": 985619,
-            "dateOfBirthTimestamp": 912643200
+            "dateOfBirthTimestamp": 912643200,
+            "club": "Boca Juniors"
         },
         {
             "id": "94",
@@ -778,7 +854,8 @@
             "group": "Portugal",
             "image": "DoloresSilva.jpg",
             "sofascore": 863081,
-            "dateOfBirthTimestamp": 681523200
+            "dateOfBirthTimestamp": 681523200,
+            "club": "Levante UD"
         },
         {
             "id": "96",
@@ -786,7 +863,8 @@
             "group": "Spain",
             "image": "LauraCasanovas.jpg",
             "sofascore": 1614109,
-            "dateOfBirthTimestamp": 807462802
+            "dateOfBirthTimestamp": 807462802,
+            "club": "Viktoria Berlin"
         },
         {
             "id": "97",
@@ -794,7 +872,8 @@
             "group": "Portugal",
             "image": "LauraLuis.jpg",
             "sofascore": 863083,
-            "dateOfBirthTimestamp": 713836800
+            "dateOfBirthTimestamp": 713836800,
+            "club": "Valadares Gaia"
         },
         {
             "id": "98",
@@ -820,7 +899,8 @@
             "group": "Sweden",
             "image": "EmmaKullberg.jpg",
             "sofascore": 68180,
-            "dateOfBirthTimestamp": 685756800
+            "dateOfBirthTimestamp": 685756800,
+            "club": "Juventus"
         },
         {
             "id": "101",
@@ -828,7 +908,8 @@
             "group": "Sweden",
             "image": "JuliaZigiotti.jpg",
             "sofascore": 798581,
-            "dateOfBirthTimestamp": 882921600
+            "dateOfBirthTimestamp": 882921600,
+            "club": "Man Utd"
         },
         {
             "id": "102",
@@ -836,7 +917,8 @@
             "group": "Ireland",
             "image": "MeganConnolly.jpg",
             "sofascore": 1000508,
-            "dateOfBirthTimestamp": 857692800
+            "dateOfBirthTimestamp": 857692800,
+            "club": "Lazio"
         },
         {
             "id": "103",
@@ -844,7 +926,8 @@
             "group": "USA",
             "image": "TaylorNicole.jpg",
             "sofascore": 1025485,
-            "dateOfBirthTimestamp": 754704000
+            "dateOfBirthTimestamp": 754704000,
+            "club": "Club León"
         },
         {
             "id": "104",
@@ -852,7 +935,8 @@
             "group": "Australia",
             "image": "TamekaYallop.jpg",
             "sofascore": 1005417,
-            "dateOfBirthTimestamp": 677030400
+            "dateOfBirthTimestamp": 677030400,
+            "club": "Brisbane Roar"
         },
         {
             "id": "105",
@@ -860,7 +944,8 @@
             "group": "Scotland",
             "image": "AmyRodgers.png",
             "sofascore": 1007411,
-            "dateOfBirthTimestamp": 954892800
+            "dateOfBirthTimestamp": 954892800,
+            "club": "Nottingham Forest"
         },
         {
             "id": "106",
@@ -877,7 +962,8 @@
             "group": "Germany",
             "image": "IngaSchuldt.jpg",
             "sofascore": 1009212,
-            "dateOfBirthTimestamp": 859852800
+            "dateOfBirthTimestamp": 859852800,
+            "club": "HSV"
         },
         {
             "id": "108",
@@ -894,7 +980,8 @@
             "group": "Germany",
             "image": "Ann-KatrinBerger.jpg",
             "sofascore": 168415,
-            "dateOfBirthTimestamp": 655430400
+            "dateOfBirthTimestamp": 655430400,
+            "club": "Gotham"
         },
         {
             "id": "110",
@@ -902,7 +989,8 @@
             "group": "England",
             "image": "ErinCuthbert.jpg",
             "sofascore": 822911,
-            "dateOfBirthTimestamp": 900806400
+            "dateOfBirthTimestamp": 900806400,
+            "club": "Chelsea"
         },
         {
             "id": "111",
@@ -910,7 +998,8 @@
             "group": "England",
             "image": "FranKirby.jpg",
             "sofascore": 796770,
-            "dateOfBirthTimestamp": 741312000
+            "dateOfBirthTimestamp": 741312000,
+            "club": "Brighton"
         },
         {
             "id": "112",
@@ -918,7 +1007,8 @@
             "group": "Norway",
             "image": "GuroReiten.jpg",
             "sofascore": 96004,
-            "dateOfBirthTimestamp": 775180800
+            "dateOfBirthTimestamp": 775180800,
+            "club": "Chelsea"
         },
         {
             "id": "113",
@@ -926,7 +1016,8 @@
             "group": "England",
             "image": "JessCarter.jpg",
             "sofascore": 939330,
-            "dateOfBirthTimestamp": 877910400
+            "dateOfBirthTimestamp": 877910400,
+            "club": "Gotham"
         },
         {
             "id": "114",
@@ -934,7 +1025,8 @@
             "group": "Canada",
             "image": "KadeishaBuchanan.jpg",
             "sofascore": 276441,
-            "dateOfBirthTimestamp": 815529600
+            "dateOfBirthTimestamp": 815529600,
+            "club": "Chelsea"
         },
         {
             "id": "115",
@@ -942,7 +1034,8 @@
             "group": "Norway",
             "image": "MarenMjelde.jpg",
             "sofascore": 25728,
-            "dateOfBirthTimestamp": 626313600
+            "dateOfBirthTimestamp": 626313600,
+            "club": "Everton"
         },
         {
             "id": "116",
@@ -950,7 +1043,8 @@
             "group": "Australia",
             "image": "SamKerr.jpg",
             "sofascore": 154933,
-            "dateOfBirthTimestamp": 747619200
+            "dateOfBirthTimestamp": 747619200,
+            "club": "Chelsea"
         },
         {
             "id": "117",
@@ -958,7 +1052,8 @@
             "group": "Wales",
             "image": "SophieIngle.jpg",
             "sofascore": 71643,
-            "dateOfBirthTimestamp": 683769600
+            "dateOfBirthTimestamp": 683769600,
+            "club": "Bristol City"
         },
         {
             "id": "118",
@@ -966,7 +1061,8 @@
             "group": "England",
             "image": "NiamhCharles.jpg",
             "sofascore": 1007446,
-            "dateOfBirthTimestamp": 929923200
+            "dateOfBirthTimestamp": 929923200,
+            "club": "Chelsea"
         },
         {
             "id": "119",
@@ -983,7 +1079,8 @@
             "group": "USA",
             "image": "EllaStevens.jpg",
             "sofascore": 1034189,
-            "dateOfBirthTimestamp": 881798400
+            "dateOfBirthTimestamp": 881798400,
+            "club": "Gotham"
         },
         {
             "id": "121",
@@ -991,7 +1088,8 @@
             "group": "USA",
             "image": "RachelHill.jpg",
             "sofascore": 1025594,
-            "dateOfBirthTimestamp": 798076800
+            "dateOfBirthTimestamp": 798076800,
+            "club": "Bay FC"
         },
         {
             "id": "122",
@@ -999,7 +1097,8 @@
             "group": "USA",
             "image": "TatumnMilazzo.jpg",
             "sofascore": 1115740,
-            "dateOfBirthTimestamp": 892771200
+            "dateOfBirthTimestamp": 892771200,
+            "club": "Utah Royals"
         },
         {
             "id": "123",
@@ -1007,7 +1106,8 @@
             "group": "USA",
             "image": "TiernaDavidson.jpg",
             "sofascore": 973855,
-            "dateOfBirthTimestamp": 906163200
+            "dateOfBirthTimestamp": 906163200,
+            "club": "Gotham"
         },
         {
             "id": "124",
@@ -1023,7 +1123,8 @@
             "group": "Spain",
             "image": "AndreaFalcon.jpg",
             "sofascore": 1173949,
-            "dateOfBirthTimestamp": 857088000
+            "dateOfBirthTimestamp": 857088000,
+            "club": "Benfica"
         },
         {
             "id": "126",
@@ -1040,7 +1141,8 @@
             "group": "Brazil",
             "image": "LeticiaIzidoro.jpg",
             "sofascore": 1023760,
-            "dateOfBirthTimestamp": 776736000
+            "dateOfBirthTimestamp": 776736000,
+            "club": "Corinthians"
         },
         {
             "id": "128",
@@ -1048,7 +1150,8 @@
             "group": "Brazil",
             "image": "TamiresDias.jpg",
             "sofascore": 796778,
-            "dateOfBirthTimestamp": 560822400
+            "dateOfBirthTimestamp": 560822400,
+            "club": "Corinthians"
         },
         {
             "id": "129",
@@ -1056,7 +1159,8 @@
             "group": "Ireland",
             "image": "DanBurke.jpg",
             "sofascore": 2075345,
-            "dateOfBirthTimestamp": 944524800
+            "dateOfBirthTimestamp": 944524800,
+            "club": "Waterford FC"
         },
         {
             "id": "130",
@@ -1082,7 +1186,8 @@
             "group": "Sweden",
             "image": "MatildaPlan.jpg",
             "sofascore": 907348,
-            "dateOfBirthTimestamp": 901843200
+            "dateOfBirthTimestamp": 901843200,
+            "club": "AIK"
         },
         {
             "id": "133",
@@ -1107,7 +1212,8 @@
             "group": "Austria",
             "image": "LauraFeiersinger.jpg",
             "sofascore": 863114,
-            "dateOfBirthTimestamp": 733968000
+            "dateOfBirthTimestamp": 733968000,
+            "club": "Köln"
         },
         {
             "id": "136",
@@ -1115,7 +1221,8 @@
             "group": "Germany",
             "image": "LauraFreigang.jpg",
             "sofascore": 883571,
-            "dateOfBirthTimestamp": 886291200
+            "dateOfBirthTimestamp": 886291200,
+            "club": "Frankfurt"
         },
         {
             "id": "137",
@@ -1123,7 +1230,8 @@
             "group": "Germany",
             "image": "SaraDoorsoun.jpg",
             "sofascore": 838495,
-            "dateOfBirthTimestamp": 690336000
+            "dateOfBirthTimestamp": 690336000,
+            "club": "Angel City FC"
         },
         {
             "id": "138",
@@ -1131,7 +1239,8 @@
             "group": "Austria",
             "image": "VerenaAschauer.jpg",
             "sofascore": 863116,
-            "dateOfBirthTimestamp": 759024000
+            "dateOfBirthTimestamp": 759024000,
+            "club": "West Ham"
         },
         {
             "id": "139",
@@ -1139,7 +1248,8 @@
             "group": "Austria",
             "image": "VirginiaKirchberger.jpg",
             "sofascore": 863107,
-            "dateOfBirthTimestamp": 738288000
+            "dateOfBirthTimestamp": 738288000,
+            "club": "Austria Wien"
         },
         {
             "id": "140",
@@ -1147,7 +1257,8 @@
             "group": "Italy",
             "image": "AuroraGalli.jpg",
             "sofascore": 186241,
-            "dateOfBirthTimestamp": 850435200
+            "dateOfBirthTimestamp": 850435200,
+            "club": "Everton"
         },
         {
             "id": "141",
@@ -1155,7 +1266,8 @@
             "group": "Sweden",
             "image": "HannaBennison.jpg",
             "sofascore": 982629,
-            "dateOfBirthTimestamp": 1034726400
+            "dateOfBirthTimestamp": 1034726400,
+            "club": "Real Madrid"
         },
         {
             "id": "142",
@@ -1163,7 +1275,8 @@
             "group": "France",
             "image": "KenzaDali.jpg",
             "sofascore": 92400,
-            "dateOfBirthTimestamp": 680918400
+            "dateOfBirthTimestamp": 680918400,
+            "club": "San Diego Wave"
         },
         {
             "id": "143",
@@ -1171,7 +1284,8 @@
             "group": "Sweden",
             "image": "NathalieBjörn.jpg",
             "sofascore": 953785,
-            "dateOfBirthTimestamp": 862704000
+            "dateOfBirthTimestamp": 862704000,
+            "club": "Chelsea"
         },
         {
             "id": "144",
@@ -1179,7 +1293,8 @@
             "group": "The Netherlands",
             "image": "JacinthaWeimar.jpg",
             "sofascore": 1389960,
-            "dateOfBirthTimestamp": 897523200
+            "dateOfBirthTimestamp": 897523200,
+            "club": "Feyenoord"
         },
         {
             "id": "145",
@@ -1196,7 +1311,8 @@
             "group": "Italy",
             "image": "RacheleBaldi.jpg",
             "sofascore": 1007240,
-            "dateOfBirthTimestamp": 781056000
+            "dateOfBirthTimestamp": 781056000,
+            "club": "Roma"
         },
         {
             "id": "147",
@@ -1212,7 +1328,8 @@
             "group": "Italy",
             "image": "ValentinaGiacinti.jpg",
             "sofascore": 828578,
-            "dateOfBirthTimestamp": 757382400
+            "dateOfBirthTimestamp": 757382400,
+            "club": "Galatasaray"
         },
         {
             "id": "149",
@@ -1220,7 +1337,8 @@
             "group": "Spain",
             "image": "VerónicaBoquete.jpg",
             "sofascore": 99670,
-            "dateOfBirthTimestamp": 544924800
+            "dateOfBirthTimestamp": 544924800,
+            "club": "Fiorentina"
         },
         {
             "id": "150",
@@ -1237,7 +1355,8 @@
             "group": "Brazil",
             "image": "Bárbara.jpg",
             "sofascore": 1920420,
-            "dateOfBirthTimestamp": 583977600
+            "dateOfBirthTimestamp": 583977600,
+            "club": "Internacional"
         },
         {
             "id": "152",
@@ -1254,7 +1373,8 @@
             "group": "Germany",
             "image": "LuisaWensing.jpg",
             "sofascore": 94460,
-            "dateOfBirthTimestamp": 729129600
+            "dateOfBirthTimestamp": 729129600,
+            "club": "Freiburg"
         },
         {
             "id": "154",
@@ -1262,7 +1382,8 @@
             "group": "Germany",
             "image": "SamanthaSteuerwald.jpg",
             "sofascore": 1064696,
-            "dateOfBirthTimestamp": 908064000
+            "dateOfBirthTimestamp": 908064000,
+            "club": "Union Berlin"
         },
         {
             "id": "155",
@@ -1270,7 +1391,8 @@
             "group": "The Netherlands",
             "image": "SiscaFolkertsma.jpg",
             "sofascore": 886369,
-            "dateOfBirthTimestamp": 864172800
+            "dateOfBirthTimestamp": 864172800,
+            "club": "PSV"
         },
         {
             "id": "156",
@@ -1287,7 +1409,8 @@
             "group": "Costa Rica",
             "image": "PriscilaChinchilla.jpg",
             "sofascore": 1104093,
-            "dateOfBirthTimestamp": 994809600
+            "dateOfBirthTimestamp": 994809600,
+            "club": "Zenit"
         },
         {
             "id": "158",
@@ -1295,7 +1418,8 @@
             "group": "Sweden",
             "image": "AnnaOscarsson.jpg",
             "sofascore": 287127,
-            "dateOfBirthTimestamp": 835488000
+            "dateOfBirthTimestamp": 835488000,
+            "club": "AIK"
         },
         {
             "id": "159",
@@ -1303,7 +1427,8 @@
             "group": "USA",
             "image": "DelanieSheehan.jpg",
             "sofascore": 1128464,
-            "dateOfBirthTimestamp": 916185600
+            "dateOfBirthTimestamp": 916185600,
+            "club": "Houston Dash"
         },
         {
             "id": "160",
@@ -1311,7 +1436,8 @@
             "group": "Spain",
             "image": "MaitaneLopez.jpg",
             "sofascore": 1009000,
-            "dateOfBirthTimestamp": 795052800
+            "dateOfBirthTimestamp": 795052800,
+            "club": "Chicago"
         },
         {
             "id": "161",
@@ -1319,7 +1445,8 @@
             "group": "Spain",
             "image": "EstherGonzález.jpg",
             "sofascore": 823108,
-            "dateOfBirthTimestamp": 723772800
+            "dateOfBirthTimestamp": 723772800,
+            "club": "Gotham"
         },
         {
             "id": "162",
@@ -1361,7 +1488,8 @@
             "group": "Brazil",
             "image": "AndressaAlves.jpg",
             "sofascore": 121351,
-            "dateOfBirthTimestamp": 721353600
+            "dateOfBirthTimestamp": 721353600,
+            "club": "Corinthians"
         },
         {
             "id": "167",
@@ -1369,7 +1497,8 @@
             "group": "USA",
             "image": "JaneCampbell.jpg",
             "sofascore": 1025378,
-            "dateOfBirthTimestamp": 792979200
+            "dateOfBirthTimestamp": 792979200,
+            "club": "Houston Dash"
         },
         {
             "id": "168",
@@ -1377,7 +1506,8 @@
             "group": "Germany",
             "image": "JobinaLahr.jpg",
             "sofascore": 1009240,
-            "dateOfBirthTimestamp": 687830400
+            "dateOfBirthTimestamp": 687830400,
+            "club": "HSV"
         },
         {
             "id": "169",
@@ -1402,7 +1532,8 @@
             "group": "Italy",
             "image": "BeatriceMerlo.jpg",
             "sofascore": 1005433,
-            "dateOfBirthTimestamp": 919728000
+            "dateOfBirthTimestamp": 919728000,
+            "club": "Inter"
         },
         {
             "id": "172",
@@ -1410,7 +1541,8 @@
             "group": "Italy",
             "image": "GloriaMarinelli.jpg",
             "sofascore": 1000079,
-            "dateOfBirthTimestamp": 889660800
+            "dateOfBirthTimestamp": 889660800,
+            "club": "Milan"
         },
         {
             "id": "173",
@@ -1418,7 +1550,8 @@
             "group": "Brazil",
             "image": "KathellenSousa.jpg",
             "sofascore": 975042,
-            "dateOfBirthTimestamp": 830476800
+            "dateOfBirthTimestamp": 830476800,
+            "club": "Al-Nassr"
         },
         {
             "id": "174",
@@ -1426,7 +1559,8 @@
             "group": "Italy",
             "image": "AgneseBonfantini.jpg",
             "sofascore": 1007089,
-            "dateOfBirthTimestamp": 931046400
+            "dateOfBirthTimestamp": 931046400,
+            "club": "Fiorentina"
         },
         {
             "id": "175",
@@ -1434,7 +1568,8 @@
             "group": "Sweden",
             "image": "AmandaNilden.jpg",
             "sofascore": 1007469,
-            "dateOfBirthTimestamp": 902448000
+            "dateOfBirthTimestamp": 902448000,
+            "club": "Tottenham"
         },
         {
             "id": "176",
@@ -1442,7 +1577,8 @@
             "group": "Czech Republic",
             "image": "AndreaStaskova.jpg",
             "sofascore": 857182,
-            "dateOfBirthTimestamp": 958089600
+            "dateOfBirthTimestamp": 958089600,
+            "club": "Fenerbahçe Istanbul"
         },
         {
             "id": "177",
@@ -1450,7 +1586,8 @@
             "group": "Italy",
             "image": "AriannaCaruso.jpg",
             "sofascore": 995807,
-            "dateOfBirthTimestamp": 941846400
+            "dateOfBirthTimestamp": 941846400,
+            "club": "Bayern Munich"
         },
         {
             "id": "178",
@@ -1458,7 +1595,8 @@
             "group": "Italy",
             "image": "CristianaGirelli.jpg",
             "sofascore": 93342,
-            "dateOfBirthTimestamp": 640828800
+            "dateOfBirthTimestamp": 640828800,
+            "club": "Juventus"
         },
         {
             "id": "179",
@@ -1466,7 +1604,8 @@
             "group": "Sweden",
             "image": "LinaHurtig.jpg",
             "sofascore": 137434,
-            "dateOfBirthTimestamp": 810259200
+            "dateOfBirthTimestamp": 810259200,
+            "club": "Fiorentina"
         },
         {
             "id": "180",
@@ -1474,7 +1613,8 @@
             "group": "Sweden",
             "image": "LindaSembrant.jpg",
             "sofascore": 99491,
-            "dateOfBirthTimestamp": 548035200
+            "dateOfBirthTimestamp": 548035200,
+            "club": "AIK"
         },
         {
             "id": "181",
@@ -1482,7 +1622,8 @@
             "group": "Italy",
             "image": "LisaBoattin.jpg",
             "sofascore": 266675,
-            "dateOfBirthTimestamp": 862617600
+            "dateOfBirthTimestamp": 862617600,
+            "club": "Houston Dash"
         },
         {
             "id": "182",
@@ -1490,7 +1631,8 @@
             "group": "Italy",
             "image": "MartinaRosucci.jpg",
             "sofascore": 92104,
-            "dateOfBirthTimestamp": 705369600
+            "dateOfBirthTimestamp": 705369600,
+            "club": "Juventus"
         },
         {
             "id": "183",
@@ -1498,7 +1640,8 @@
             "group": "France",
             "image": "PaulinePeyraud.jpg",
             "sofascore": 93489,
-            "dateOfBirthTimestamp": 700790400
+            "dateOfBirthTimestamp": 700790400,
+            "club": "Juventus"
         },
         {
             "id": "184",
@@ -1539,7 +1682,8 @@
             "group": "USA",
             "image": "CeceKizer.jpg",
             "sofascore": 1025391,
-            "dateOfBirthTimestamp": 868233600
+            "dateOfBirthTimestamp": 868233600,
+            "club": "Utah Royals"
         },
         {
             "id": "189",
@@ -1547,7 +1691,8 @@
             "group": "Australia",
             "image": "ChloeLogarzo.jpg",
             "sofascore": 845416,
-            "dateOfBirthTimestamp": 788054400
+            "dateOfBirthTimestamp": 788054400,
+            "club": "Western United"
         },
         {
             "id": "190",
@@ -1555,7 +1700,8 @@
             "group": "USA",
             "image": "ElizabethBall.jpg",
             "sofascore": 1025420,
-            "dateOfBirthTimestamp": 814147200
+            "dateOfBirthTimestamp": 814147200,
+            "club": "Kansas City"
         },
         {
             "id": "191",
@@ -1563,7 +1709,8 @@
             "group": "USA",
             "image": "KristenHamilton.jpg",
             "sofascore": 1006216,
-            "dateOfBirthTimestamp": 703468800
+            "dateOfBirthTimestamp": 703468800,
+            "club": "Kansas City"
         },
         {
             "id": "192",
@@ -1571,7 +1718,8 @@
             "group": "Brazil",
             "image": "LaurenLeal.jpg",
             "sofascore": 1023833,
-            "dateOfBirthTimestamp": 1031875200
+            "dateOfBirthTimestamp": 1031875200,
+            "club": "Atlético de Madrid"
         },
         {
             "id": "193",
@@ -1579,7 +1727,8 @@
             "group": "USA",
             "image": "MalloryWeber.jpg",
             "sofascore": 1006208,
-            "dateOfBirthTimestamp": 765417600
+            "dateOfBirthTimestamp": 765417600,
+            "club": "Kansas City"
         },
         {
             "id": "194",
@@ -1587,7 +1736,8 @@
             "group": "USA",
             "image": "MichelleCooper.jpg",
             "sofascore": 1395436,
-            "dateOfBirthTimestamp": 1038960000
+            "dateOfBirthTimestamp": 1038960000,
+            "club": "Kansas City"
         },
         {
             "id": "195",
@@ -1595,7 +1745,8 @@
             "group": "Germany",
             "image": "SelinaHäfele.jpg",
             "sofascore": 2141381,
-            "dateOfBirthTimestamp": 804988800
+            "dateOfBirthTimestamp": 804988800,
+            "club": "Karlsruhe"
         },
         {
             "id": "196",
@@ -1637,7 +1788,8 @@
             "group": "Austria",
             "image": "SarahPuntigam.jpg",
             "sofascore": 863113,
-            "dateOfBirthTimestamp": 718934400
+            "dateOfBirthTimestamp": 718934400,
+            "club": "Houston Dash"
         },
         {
             "id": "201",
@@ -1645,7 +1797,8 @@
             "group": "Israel",
             "image": "SharonBeck.jpg",
             "sofascore": 1004687,
-            "dateOfBirthTimestamp": 795830400
+            "dateOfBirthTimestamp": 795830400,
+            "club": "Werder"
         },
         {
             "id": "202",
@@ -1662,7 +1815,8 @@
             "group": "Australia",
             "image": "CourtneyNevin.jpg",
             "sofascore": 1006214,
-            "dateOfBirthTimestamp": 1013472000
+            "dateOfBirthTimestamp": 1013472000,
+            "club": "Leicester "
         },
         {
             "id": "204",
@@ -1670,7 +1824,8 @@
             "group": "England",
             "image": "AbbieMcManus.jpg",
             "sofascore": 877165,
-            "dateOfBirthTimestamp": 726969600
+            "dateOfBirthTimestamp": 726969600,
+            "club": "Leicester "
         },
         {
             "id": "205",
@@ -1678,7 +1833,8 @@
             "group": "Belgium",
             "image": "JaniceCayman.jpg",
             "sofascore": 155559,
-            "dateOfBirthTimestamp": 592617600
+            "dateOfBirthTimestamp": 592617600,
+            "club": "Leicester "
         },
         {
             "id": "206",
@@ -1686,7 +1842,8 @@
             "group": "Spain",
             "image": "AlbaRedondo.jpg",
             "sofascore": 861350,
-            "dateOfBirthTimestamp": 841104000
+            "dateOfBirthTimestamp": 841104000,
+            "club": "Real Madrid"
         },
         {
             "id": "207",
@@ -1694,7 +1851,8 @@
             "group": "Switzerland",
             "image": "ViolaCalligaris.jpg",
             "sofascore": 838487,
-            "dateOfBirthTimestamp": 827020800
+            "dateOfBirthTimestamp": 827020800,
+            "club": "Juventus"
         },
         {
             "id": "208",
@@ -1702,7 +1860,8 @@
             "group": "Brazil",
             "image": "AntoniaSilva.jpg",
             "sofascore": 1022543,
-            "dateOfBirthTimestamp": 767318400
+            "dateOfBirthTimestamp": 767318400,
+            "club": "Real Madrid"
         },
         {
             "id": "209",
@@ -1710,7 +1869,8 @@
             "group": "Sweden",
             "image": "EmmaLennartsson.jpg",
             "sofascore": 324743,
-            "dateOfBirthTimestamp": 672364800
+            "dateOfBirthTimestamp": 672364800,
+            "club": "Linköping"
         },
         {
             "id": "210",
@@ -1718,7 +1878,8 @@
             "group": "England",
             "image": "JasmineMatthews.jpg",
             "sofascore": 183861,
-            "dateOfBirthTimestamp": 732931200
+            "dateOfBirthTimestamp": 732931200,
+            "club": "Burnley"
         },
         {
             "id": "211",
@@ -1726,7 +1887,8 @@
             "group": "England",
             "image": "RachaelLaws.jpg",
             "sofascore": 1007331,
-            "dateOfBirthTimestamp": 657763200
+            "dateOfBirthTimestamp": 657763200,
+            "club": "Liverpool"
         },
         {
             "id": "212",
@@ -1734,7 +1896,8 @@
             "group": "The Netherlands",
             "image": "Shanicevan.jpg",
             "sofascore": 80755,
-            "dateOfBirthTimestamp": 717984000
+            "dateOfBirthTimestamp": 717984000,
+            "club": "Toluca"
         },
         {
             "id": "213",
@@ -1742,7 +1905,8 @@
             "group": "Belgium",
             "image": "YanaDaniels.jpg",
             "sofascore": 150065,
-            "dateOfBirthTimestamp": 705283200
+            "dateOfBirthTimestamp": 705283200,
+            "club": "Burnley"
         },
         {
             "id": "214",
@@ -1750,7 +1914,8 @@
             "group": "Australia",
             "image": "TeaganMicah.jpg",
             "sofascore": 1016684,
-            "dateOfBirthTimestamp": 877305600
+            "dateOfBirthTimestamp": 877305600,
+            "club": "Lyonnes"
         },
         {
             "id": "215",
@@ -1758,7 +1923,8 @@
             "group": "Austria",
             "image": "MarieHöbinge.jpg",
             "sofascore": 1004992,
-            "dateOfBirthTimestamp": 993945600
+            "dateOfBirthTimestamp": 993945600,
+            "club": "Liverpool"
         },
         {
             "id": "216",
@@ -1766,7 +1932,8 @@
             "group": "Colombia",
             "image": "RenataArango.jpg",
             "sofascore": 1597635,
-            "dateOfBirthTimestamp": 611280000
+            "dateOfBirthTimestamp": 611280000,
+            "club": "Llaneros FC"
         },
         {
             "id": "217",
@@ -1774,7 +1941,8 @@
             "group": "Ireland",
             "image": "RueshaLittlejohn.jpg",
             "sofascore": 71348,
-            "dateOfBirthTimestamp": 644371200
+            "dateOfBirthTimestamp": 644371200,
+            "club": "Crystal Palace"
         },
         {
             "id": "218",
@@ -1782,7 +1950,8 @@
             "group": "Ireland",
             "image": "GraceMoloney.jpg",
             "sofascore": 1000514,
-            "dateOfBirthTimestamp": 730944000
+            "dateOfBirthTimestamp": 730944000,
+            "club": "Sunderland"
         },
         {
             "id": "219",
@@ -1790,7 +1959,8 @@
             "group": "The Netherlands",
             "image": "DeDonk.jpg",
             "sofascore": 181569,
-            "dateOfBirthTimestamp": 681350400
+            "dateOfBirthTimestamp": 681350400,
+            "club": "London City Lioness"
         },
         {
             "id": "220",
@@ -1798,7 +1968,8 @@
             "group": "Germany",
             "image": "DzseniferMarozsán.jpg",
             "sofascore": 68255,
-            "dateOfBirthTimestamp": 703555200
+            "dateOfBirthTimestamp": 703555200,
+            "club": "Al-Qadsiah"
         },
         {
             "id": "221",
@@ -1806,7 +1977,8 @@
             "group": "Australia",
             "image": "EllieCarpenter.jpg",
             "sofascore": 845417,
-            "dateOfBirthTimestamp": 956880000
+            "dateOfBirthTimestamp": 956880000,
+            "club": "Chelsea"
         },
         {
             "id": "222",
@@ -1814,7 +1986,8 @@
             "group": "France",
             "image": "SarahBouhaddi.jpg",
             "sofascore": 81018,
-            "dateOfBirthTimestamp": 529891200
+            "dateOfBirthTimestamp": 529891200,
+            "club": "Al-Ula"
         },
         {
             "id": "223",
@@ -1822,7 +1995,8 @@
             "group": "Chile",
             "image": "TianeEndler.jpg",
             "sofascore": 956440,
-            "dateOfBirthTimestamp": 680227200
+            "dateOfBirthTimestamp": 680227200,
+            "club": "Lyonnes"
         },
         {
             "id": "224",
@@ -1830,7 +2004,8 @@
             "group": "Brazil",
             "image": "GioQueiroz.jpg",
             "sofascore": 1929721,
-            "dateOfBirthTimestamp": 1056153600
+            "dateOfBirthTimestamp": 1056153600,
+            "club": "Atlético de Madrid"
         },
         {
             "id": "225",
@@ -1838,7 +2013,8 @@
             "group": "Argentina",
             "image": "FlorBonsegundo.jpg",
             "sofascore": 985613,
-            "dateOfBirthTimestamp": 742608000
+            "dateOfBirthTimestamp": 742608000,
+            "club": "Sporting"
         },
         {
             "id": "226",
@@ -1846,7 +2022,8 @@
             "group": "Australia",
             "image": "AlannaKennedy.jpg",
             "sofascore": 796003,
-            "dateOfBirthTimestamp": 790646400
+            "dateOfBirthTimestamp": 790646400,
+            "club": "London City Lioness"
         },
         {
             "id": "227",
@@ -1854,7 +2031,8 @@
             "group": "England",
             "image": "DemiStokes.jpg",
             "sofascore": 818542,
-            "dateOfBirthTimestamp": 692496000
+            "dateOfBirthTimestamp": 692496000,
+            "club": "Newcastle United"
         },
         {
             "id": "228",
@@ -1862,7 +2040,8 @@
             "group": "Sweden",
             "image": "FilippaAngeldahl.jpg",
             "sofascore": 1025156,
-            "dateOfBirthTimestamp": 868838400
+            "dateOfBirthTimestamp": 868838400,
+            "club": "Real Madrid"
         },
         {
             "id": "229",
@@ -1870,7 +2049,8 @@
             "group": "Australia",
             "image": "HayleyRaso.jpg",
             "sofascore": 796001,
-            "dateOfBirthTimestamp": 778723200
+            "dateOfBirthTimestamp": 778723200,
+            "club": "Frankfurt"
         },
         {
             "id": "230",
@@ -1878,7 +2058,8 @@
             "group": "The Netherlands",
             "image": "KerstinCasparij.jpg",
             "sofascore": 1135326,
-            "dateOfBirthTimestamp": 966643200
+            "dateOfBirthTimestamp": 966643200,
+            "club": "Man City"
         },
         {
             "id": "231",
@@ -1886,7 +2067,8 @@
             "group": "England",
             "image": "LaurenHemp.jpg",
             "sofascore": 945470,
-            "dateOfBirthTimestamp": 965606400
+            "dateOfBirthTimestamp": 965606400,
+            "club": "Man City"
         },
         {
             "id": "232",
@@ -1894,7 +2076,8 @@
             "group": "Spain",
             "image": "LeilaOuahabi.jpg",
             "sofascore": 838441,
-            "dateOfBirthTimestamp": 732672000
+            "dateOfBirthTimestamp": 732672000,
+            "club": "Man City"
         },
         {
             "id": "233",
@@ -1908,7 +2091,8 @@
             "group": "Japan",
             "image": "YuiHasegawa.jpg",
             "sofascore": 861352,
-            "dateOfBirthTimestamp": 854496000
+            "dateOfBirthTimestamp": 854496000,
+            "club": "Man City"
         },
         {
             "id": "235",
@@ -1916,7 +2100,8 @@
             "group": "Wales",
             "image": "HayleyLadd.jpg",
             "sofascore": 1005480,
-            "dateOfBirthTimestamp": 749865600
+            "dateOfBirthTimestamp": 749865600,
+            "club": "Everton"
         },
         {
             "id": "236",
@@ -1924,7 +2109,8 @@
             "group": "England",
             "image": "JadeMoore.jpg",
             "sofascore": 68210,
-            "dateOfBirthTimestamp": 656553600
+            "dateOfBirthTimestamp": 656553600,
+            "club": "Retired"
         },
         {
             "id": "237",
@@ -1932,7 +2118,8 @@
             "group": "England",
             "image": "LeahGaulton.jpg",
             "sofascore": 1007191,
-            "dateOfBirthTimestamp": 769737600
+            "dateOfBirthTimestamp": 769737600,
+            "club": "Man Utd"
         },
         {
             "id": "238",
@@ -1940,7 +2127,8 @@
             "group": "England",
             "image": "LucyStaniforth.jpg",
             "sofascore": 950461,
-            "dateOfBirthTimestamp": 717984000
+            "dateOfBirthTimestamp": 717984000,
+            "club": "Aston Villa"
         },
         {
             "id": "239",
@@ -1948,7 +2136,8 @@
             "group": "England",
             "image": "MarthaThomas.jpg",
             "sofascore": 1007278,
-            "dateOfBirthTimestamp": 833500800
+            "dateOfBirthTimestamp": 833500800,
+            "club": "Tottenham"
         },
         {
             "id": "240",
@@ -1956,7 +2145,8 @@
             "group": "England",
             "image": "MillieTurner.jpg",
             "sofascore": 1007185,
-            "dateOfBirthTimestamp": 836697600
+            "dateOfBirthTimestamp": 836697600,
+            "club": "Man Utd"
         },
         {
             "id": "241",
@@ -1964,7 +2154,8 @@
             "group": "Norway",
             "image": "LisaNaalsund.jpg",
             "sofascore": 184925,
-            "dateOfBirthTimestamp": 802742400
+            "dateOfBirthTimestamp": 802742400,
+            "club": "Man Utd"
         },
         {
             "id": "242",
@@ -1972,7 +2163,8 @@
             "group": "Norway",
             "image": "VildeBoe.jpg",
             "sofascore": 997955,
-            "dateOfBirthTimestamp": 805593600
+            "dateOfBirthTimestamp": 805593600,
+            "club": "Atlético de Madrid"
         },
         {
             "id": "243",
@@ -1980,7 +2172,8 @@
             "group": "Spain",
             "image": "SandraPanos.jpg",
             "sofascore": 797138,
-            "dateOfBirthTimestamp": 720835200
+            "dateOfBirthTimestamp": 720835200,
+            "club": "América"
         },
         {
             "id": "244",
@@ -1988,7 +2181,8 @@
             "group": "Finland",
             "image": "OlgaAhtinen.jpg",
             "sofascore": 841342,
-            "dateOfBirthTimestamp": 871603200
+            "dateOfBirthTimestamp": 871603200,
+            "club": "Tottenham"
         },
         {
             "id": "245",
@@ -1996,7 +2190,8 @@
             "group": "England",
             "image": "MollyBartrip.jpg",
             "sofascore": 1007402,
-            "dateOfBirthTimestamp": 833587200
+            "dateOfBirthTimestamp": 833587200,
+            "club": "Tottenham"
         },
         {
             "id": "246",
@@ -2012,7 +2207,8 @@
             "group": "Spain",
             "image": "OnaBatlle.jpg",
             "sofascore": 985242,
-            "dateOfBirthTimestamp": 928972800
+            "dateOfBirthTimestamp": 928972800,
+            "club": "FC Barcelona"
         },
         {
             "id": "248",
@@ -2020,7 +2216,8 @@
             "group": "Brazil",
             "image": "GeyseFerreira.png",
             "sofascore": 860772,
-            "dateOfBirthTimestamp": 890956800
+            "dateOfBirthTimestamp": 890956800,
+            "club": "Gotham"
         },
         {
             "id": "249",
@@ -2046,7 +2243,8 @@
             "group": "Serbia",
             "image": "Tyla-JayVlajnic.jpg",
             "sofascore": 1011977,
-            "dateOfBirthTimestamp": 657849600
+            "dateOfBirthTimestamp": 657849600,
+            "club": "Melbourne City"
         },
         {
             "id": "252",
@@ -2054,7 +2252,8 @@
             "group": "Australia",
             "image": "AlexChidiac.jpg",
             "sofascore": 958674,
-            "dateOfBirthTimestamp": 916358400
+            "dateOfBirthTimestamp": 916358400,
+            "club": "FC Como"
         },
         {
             "id": "253",
@@ -2062,7 +2261,8 @@
             "group": "Mexico",
             "image": "ChristinaBurkenroad.jpg",
             "sofascore": 906662,
-            "dateOfBirthTimestamp": 742435200
+            "dateOfBirthTimestamp": 742435200,
+            "club": "Monterrey"
         },
         {
             "id": "254",
@@ -2070,7 +2270,8 @@
             "group": "Mexico",
             "image": "RebecaBernal.jpg",
             "sofascore": 1104097,
-            "dateOfBirthTimestamp": 872985600
+            "dateOfBirthTimestamp": 872985600,
+            "club": "Washington Spirit"
         },
         {
             "id": "255",
@@ -2078,7 +2279,8 @@
             "group": "France",
             "image": "MaelleLakrar.jpg",
             "sofascore": 990254,
-            "dateOfBirthTimestamp": 959212800
+            "dateOfBirthTimestamp": 959212800,
+            "club": "Real Madrid"
         },
         {
             "id": "256",
@@ -2095,7 +2297,8 @@
             "group": "Germany",
             "image": "GinaChmielinski.jpg",
             "sofascore": 1009063,
-            "dateOfBirthTimestamp": 960336000
+            "dateOfBirthTimestamp": 960336000,
+            "club": "Leipzig"
         },
         {
             "id": "258",
@@ -2199,7 +2402,7 @@
             "label": "Carlota Encinas Saiz",
             "group": "Spain",
             "image": "CarlotaEncinas.jpg",
-            "club":"Retired",
+            "club": "Retired",
             "dateOfBirthTimestamp": 1006618402
         },
         {
@@ -3125,7 +3328,8 @@
             "group": "New Zealand",
             "image": "AbbyErceg.jpg",
             "sofascore": 29130,
-            "dateOfBirthTimestamp": 627523200
+            "dateOfBirthTimestamp": 627523200,
+            "club": "Toluca"
         },
         {
             "id": "426",
@@ -3133,7 +3337,8 @@
             "group": "USA",
             "image": "CarsonPickett.jpg",
             "sofascore": 1009452,
-            "dateOfBirthTimestamp": 748051200
+            "dateOfBirthTimestamp": 748051200,
+            "club": "Orlando Pride"
         },
         {
             "id": "427",
@@ -3141,7 +3346,8 @@
             "group": "Brazil",
             "image": "Debinha.jpg",
             "sofascore": 315832,
-            "dateOfBirthTimestamp": 687916800
+            "dateOfBirthTimestamp": 687916800,
+            "club": "Kansas City"
         },
         {
             "id": "428",
@@ -3149,7 +3355,8 @@
             "group": "USA",
             "image": "MeredithSpeck.jpg",
             "sofascore": 1025592,
-            "dateOfBirthTimestamp": 728524800
+            "dateOfBirthTimestamp": 728524800,
+            "club": "NC Courage"
         },
         {
             "id": "429",
@@ -3166,7 +3373,8 @@
             "group": "Germany",
             "image": "FelicitasRauch.jpg",
             "sofascore": 951287,
-            "dateOfBirthTimestamp": 830822400
+            "dateOfBirthTimestamp": 830822400,
+            "club": "NC Courage"
         },
         {
             "id": "431",
@@ -3174,7 +3382,8 @@
             "group": "Wales",
             "image": "JessicaFishlock.jpg",
             "sofascore": 93285,
-            "dateOfBirthTimestamp": 537580800
+            "dateOfBirthTimestamp": 537580800,
+            "club": "Seattle Reign"
         },
         {
             "id": "432",
@@ -3182,7 +3391,8 @@
             "group": "USA",
             "image": "LaurenBarnes.jpg",
             "sofascore": 1010473,
-            "dateOfBirthTimestamp": 612576000
+            "dateOfBirthTimestamp": 612576000,
+            "club": "Retired"
         },
         {
             "id": "433",
@@ -3190,7 +3400,8 @@
             "group": "USA",
             "image": "NikkiStanton.jpg",
             "sofascore": 1025650,
-            "dateOfBirthTimestamp": 656899200
+            "dateOfBirthTimestamp": 656899200,
+            "club": "Vancouver"
         },
         {
             "id": "434",
@@ -3207,7 +3418,8 @@
             "group": "USA",
             "image": "TziarraKing.jpg",
             "sofascore": 1034548,
-            "dateOfBirthTimestamp": 903916800
+            "dateOfBirthTimestamp": 903916800,
+            "club": "Seattle Reign"
         },
         {
             "id": "436",
@@ -3224,7 +3436,8 @@
             "group": "USA",
             "image": "RoseLavelle.jpg",
             "sofascore": 963170,
-            "dateOfBirthTimestamp": 800409600
+            "dateOfBirthTimestamp": 800409600,
+            "club": "Gotham"
         },
         {
             "id": "438",
@@ -3232,7 +3445,8 @@
             "group": "Brazil",
             "image": "AdrianaSilva.jpg",
             "sofascore": 1023777,
-            "dateOfBirthTimestamp": 848188800
+            "dateOfBirthTimestamp": 848188800,
+            "club": "Al-Qadsiah"
         },
         {
             "id": "439",
@@ -3249,7 +3463,8 @@
             "group": "Canada",
             "image": "ErinMcLeod.jpg",
             "sofascore": 28620,
-            "dateOfBirthTimestamp": 415065600
+            "dateOfBirthTimestamp": 415065600,
+            "club": "Halifax"
         },
         {
             "id": "441",
@@ -3257,7 +3472,8 @@
             "group": "Iceland",
             "image": "GunnyJonsdottir.jpg",
             "sofascore": 119056,
-            "dateOfBirthTimestamp": 591408000
+            "dateOfBirthTimestamp": 591408000,
+            "club": "Halifax"
         },
         {
             "id": "442",
@@ -3265,7 +3481,8 @@
             "group": "Brazil",
             "image": "Marta.jpg",
             "sofascore": 29154,
-            "dateOfBirthTimestamp": 509155200
+            "dateOfBirthTimestamp": 509155200,
+            "club": "Orlando Pride"
         },
         {
             "id": "443",
@@ -3273,7 +3490,8 @@
             "group": "Brazil",
             "image": "RafaelleSouza.jpg",
             "sofascore": 796781,
-            "dateOfBirthTimestamp": 677203200
+            "dateOfBirthTimestamp": 677203200,
+            "club": "Orlando Pride"
         },
         {
             "id": "444",
@@ -3298,7 +3516,8 @@
             "group": "Argentina",
             "image": "YamilaRodríguez.jpg",
             "sofascore": 1103773,
-            "dateOfBirthTimestamp": 885600000
+            "dateOfBirthTimestamp": 885600000,
+            "club": "Grêmio"
         },
         {
             "id": "447",
@@ -3306,7 +3525,8 @@
             "group": "Switzerland",
             "image": "EseosaAigbogun.jpg",
             "sofascore": 796838,
-            "dateOfBirthTimestamp": 738115200
+            "dateOfBirthTimestamp": 738115200,
+            "club": "Strasbourg"
         },
         {
             "id": "448",
@@ -3330,7 +3550,8 @@
             "group": "USA",
             "image": "AdriannaFranch.jpg",
             "sofascore": 121115,
-            "dateOfBirthTimestamp": 658368000
+            "dateOfBirthTimestamp": 658368000,
+            "club": "Birmingham"
         },
         {
             "id": "451",
@@ -3347,7 +3568,8 @@
             "group": "USA",
             "image": "EmilyMenges.jpg",
             "sofascore": 1010474,
-            "dateOfBirthTimestamp": 712281600
+            "dateOfBirthTimestamp": 712281600,
+            "club": "Bay FC"
         },
         {
             "id": "453",
@@ -3355,7 +3577,8 @@
             "group": "USA",
             "image": "MadisonPogarch.jpg",
             "sofascore": 1025459,
-            "dateOfBirthTimestamp": 878688000
+            "dateOfBirthTimestamp": 878688000,
+            "club": "Utah Royals"
         },
         {
             "id": "454",
@@ -3363,7 +3586,8 @@
             "group": "USA",
             "image": "MeghanKlingenberg.jpg",
             "sofascore": 244727,
-            "dateOfBirthTimestamp": 586483200
+            "dateOfBirthTimestamp": 586483200,
+            "club": "Retired"
         },
         {
             "id": "455",
@@ -3371,7 +3595,8 @@
             "group": "Australia",
             "image": "LydiaWilliams.jpg",
             "sofascore": 28597,
-            "dateOfBirthTimestamp": 579484800
+            "dateOfBirthTimestamp": 579484800,
+            "club": "Melbourne Victory"
         },
         {
             "id": "456",
@@ -3379,7 +3604,8 @@
             "group": "France",
             "image": "ElisaAlmeida.jpg",
             "sofascore": 1000076,
-            "dateOfBirthTimestamp": 884390400
+            "dateOfBirthTimestamp": 884390400,
+            "club": "PSG"
         },
         {
             "id": "457",
@@ -3387,7 +3613,8 @@
             "group": "France",
             "image": "ConstancePicaud.jpg",
             "sofascore": 1082217,
-            "dateOfBirthTimestamp": 899596800
+            "dateOfBirthTimestamp": 899596800,
+            "club": "Fleury"
         },
         {
             "id": "458",
@@ -3395,7 +3622,8 @@
             "group": "Switzerland",
             "image": "RamonaBachmann.jpg",
             "sofascore": 68308,
-            "dateOfBirthTimestamp": 662083200
+            "dateOfBirthTimestamp": 662083200,
+            "club": "Houston Dash"
         },
         {
             "id": "459",
@@ -3403,7 +3631,8 @@
             "group": "The Netherlands",
             "image": "LauraStrik.jpg",
             "sofascore": 1093409,
-            "dateOfBirthTimestamp": 835833600
+            "dateOfBirthTimestamp": 835833600,
+            "club": "PSV"
         },
         {
             "id": "460",
@@ -3411,7 +3640,8 @@
             "group": "Argentina",
             "image": "MilagrosMenéndez.jpg",
             "sofascore": 985626,
-            "dateOfBirthTimestamp": 859075200
+            "dateOfBirthTimestamp": 859075200,
+            "club": "Al-Amal"
         },
         {
             "id": "461",
@@ -3425,7 +3655,8 @@
             "group": "Northern Ireland",
             "image": "RebeccaHolloway.jpg",
             "sofascore": 1007375,
-            "dateOfBirthTimestamp": 809308800
+            "dateOfBirthTimestamp": 809308800,
+            "club": "Birmingham"
         },
         {
             "id": "463",
@@ -3433,7 +3664,8 @@
             "group": "South Africa",
             "image": "ThembiKgatlana.jpg",
             "sofascore": 846090,
-            "dateOfBirthTimestamp": 830995200
+            "dateOfBirthTimestamp": 830995200,
+            "club": "Tigres UANL"
         },
         {
             "id": "464",
@@ -3441,7 +3673,8 @@
             "group": "Scotland",
             "image": "NicolaDocherty.jpg",
             "sofascore": 91897,
-            "dateOfBirthTimestamp": 714528000
+            "dateOfBirthTimestamp": 714528000,
+            "club": "Rangers"
         },
         {
             "id": "465",
@@ -3449,7 +3682,8 @@
             "group": "Chile",
             "image": "YanaraAedo.jpg",
             "sofascore": 985664,
-            "dateOfBirthTimestamp": 744508800
+            "dateOfBirthTimestamp": 744508800,
+            "club": "Colo Colo"
         },
         {
             "id": "466",
@@ -3457,7 +3691,8 @@
             "group": "Switzerland",
             "image": "ElviraHerzog.jpg",
             "sofascore": 959903,
-            "dateOfBirthTimestamp": 952214400
+            "dateOfBirthTimestamp": 952214400,
+            "club": "Leipzig"
         },
         {
             "id": "467",
@@ -3465,7 +3700,8 @@
             "group": "Ireland",
             "image": "DianeCaldwell.jpg",
             "sofascore": 111646,
-            "dateOfBirthTimestamp": 589939200
+            "dateOfBirthTimestamp": 589939200,
+            "club": "Zürich"
         },
         {
             "id": "468",
@@ -3473,7 +3709,8 @@
             "group": "England",
             "image": "FayeBryson.jpg",
             "sofascore": 1007126,
-            "dateOfBirthTimestamp": 867974400
+            "dateOfBirthTimestamp": 867974400,
+            "club": "Sydney FC"
         },
         {
             "id": "469",
@@ -3507,7 +3744,8 @@
             "group": "Spain",
             "image": "IvanaAndres.jpg",
             "sofascore": 964033,
-            "dateOfBirthTimestamp": 774057600
+            "dateOfBirthTimestamp": 774057600,
+            "club": "Inter"
         },
         {
             "id": "473",
@@ -3515,7 +3753,8 @@
             "group": "Colombia",
             "image": "LindaCaicedo.jpg",
             "sofascore": 1005527,
-            "dateOfBirthTimestamp": 1109030400
+            "dateOfBirthTimestamp": 1109030400,
+            "club": "Real Madrid"
         },
         {
             "id": "474",
@@ -3523,7 +3762,8 @@
             "group": "Spain",
             "image": "MisaRodriguez.jpg",
             "sofascore": 1142111,
-            "dateOfBirthTimestamp": 932601600
+            "dateOfBirthTimestamp": 932601600,
+            "club": "Real Madrid"
         },
         {
             "id": "475",
@@ -3531,7 +3771,8 @@
             "group": "France",
             "image": "SandieToletti.jpg",
             "sofascore": 137407,
-            "dateOfBirthTimestamp": 805593600
+            "dateOfBirthTimestamp": 805593600,
+            "club": "Real Madrid"
         },
         {
             "id": "476",
@@ -3539,7 +3780,8 @@
             "group": "Spain",
             "image": "TeresaAbelleira.jpg",
             "sofascore": 1008808,
-            "dateOfBirthTimestamp": 947376000
+            "dateOfBirthTimestamp": 947376000,
+            "club": "Real Madrid"
         },
         {
             "id": "477",
@@ -3547,7 +3789,8 @@
             "group": "Spain",
             "image": "NereaEizagirre.jpg",
             "sofascore": 1009114,
-            "dateOfBirthTimestamp": 946944000
+            "dateOfBirthTimestamp": 946944000,
+            "club": "R. Sociedad"
         },
         {
             "id": "478",
@@ -3758,7 +4001,8 @@
             "group": "USA",
             "image": "ChristineNairn.jpg",
             "sofascore": 1025394,
-            "dateOfBirthTimestamp": 654220800
+            "dateOfBirthTimestamp": 654220800,
+            "club": "Retired"
         },
         {
             "id": "502",
@@ -4477,7 +4721,8 @@
             "group": "Germany",
             "image": "BiancaSchmidt.jpg",
             "sofascore": 80137,
-            "dateOfBirthTimestamp": 633052800
+            "dateOfBirthTimestamp": 633052800,
+            "club": "Potsdam"
         },
         {
             "id": "585",
@@ -4485,7 +4730,8 @@
             "group": "Scotland",
             "image": "FionaBrown.jpg",
             "sofascore": 137479,
-            "dateOfBirthTimestamp": 796608000
+            "dateOfBirthTimestamp": 796608000,
+            "club": "Retired"
         },
         {
             "id": "586",
@@ -4493,7 +4739,8 @@
             "group": "Scotland",
             "image": "ShannonLynn.jpg",
             "sofascore": 863055,
-            "dateOfBirthTimestamp": 498787200
+            "dateOfBirthTimestamp": 498787200,
+            "club": "Rosengård"
         },
         {
             "id": "587",
@@ -4510,7 +4757,8 @@
             "group": "Sweden",
             "image": "EmmaBerglund.jpg",
             "sofascore": 93088,
-            "dateOfBirthTimestamp": 598492800
+            "dateOfBirthTimestamp": 598492800,
+            "club": "Rosengård"
         },
         {
             "id": "589",
@@ -4518,7 +4766,8 @@
             "group": "Sweden",
             "image": "OliviaSchough.jpg",
             "sofascore": 68173,
-            "dateOfBirthTimestamp": 668649600
+            "dateOfBirthTimestamp": 668649600,
+            "club": "Inter"
         },
         {
             "id": "590",
@@ -4526,7 +4775,8 @@
             "group": "USA",
             "image": "ChristenWestphal.jpg",
             "sofascore": 1025497,
-            "dateOfBirthTimestamp": 746928000
+            "dateOfBirthTimestamp": 746928000,
+            "club": "Houston Dash"
         },
         {
             "id": "591",
@@ -4534,7 +4784,8 @@
             "group": "Australia",
             "image": "Emilyvan.jpg",
             "sofascore": 154930,
-            "dateOfBirthTimestamp": 742435200
+            "dateOfBirthTimestamp": 742435200,
+            "club": "Leicester "
         },
         {
             "id": "592",
@@ -4542,7 +4793,8 @@
             "group": "Canada",
             "image": "KailenSheridan.jpg",
             "sofascore": 974079,
-            "dateOfBirthTimestamp": 805852800
+            "dateOfBirthTimestamp": 805852800,
+            "club": "San Diego Wave"
         },
         {
             "id": "593",
@@ -4550,7 +4802,8 @@
             "group": "Germany",
             "image": "SelinaWagner.jpg",
             "sofascore": 68266,
-            "dateOfBirthTimestamp": 655171200
+            "dateOfBirthTimestamp": 655171200,
+            "club": "Sand"
         },
         {
             "id": "594",
@@ -4558,7 +4811,8 @@
             "group": "Chile",
             "image": "YennyAcuña.jpg",
             "sofascore": 1115253,
-            "dateOfBirthTimestamp": 863913600
+            "dateOfBirthTimestamp": 863913600,
+            "club": "Colo Colo"
         },
         {
             "id": "595",
@@ -4566,7 +4820,8 @@
             "group": "Brazil",
             "image": "CristianeRozeira.jpg",
             "sofascore": 29143,
-            "dateOfBirthTimestamp": 484963200
+            "dateOfBirthTimestamp": 484963200,
+            "club": "Flamengo"
         },
         {
             "id": "596",
@@ -4574,7 +4829,8 @@
             "group": "Brazil",
             "image": "FernandaPalermo.jpg",
             "sofascore": 1024116,
-            "dateOfBirthTimestamp": 840326400
+            "dateOfBirthTimestamp": 840326400,
+            "club": "Palmeiras"
         },
         {
             "id": "597",
@@ -4582,7 +4838,8 @@
             "group": "Costa Rica",
             "image": "CarolinaVenegas.jpg",
             "sofascore": 796847,
-            "dateOfBirthTimestamp": 686016000
+            "dateOfBirthTimestamp": 686016000,
+            "club": "Saprissa Femenino"
         },
         {
             "id": "598",
@@ -4590,7 +4847,8 @@
             "group": "Costa Rica",
             "image": "MariaPaula.jpg",
             "sofascore": 1501012,
-            "dateOfBirthTimestamp": 912384000
+            "dateOfBirthTimestamp": 912384000,
+            "club": "Saprissa Femenino"
         },
         {
             "id": "599",
@@ -4598,7 +4856,8 @@
             "group": "Italy",
             "image": "BenedettaOrsi.jpg",
             "sofascore": 1007195,
-            "dateOfBirthTimestamp": 951436800
+            "dateOfBirthTimestamp": 951436800,
+            "club": "Fiorentina"
         },
         {
             "id": "600",
@@ -4606,7 +4865,8 @@
             "group": "Scotland",
             "image": "LanaClelland.jpg",
             "sofascore": 863057,
-            "dateOfBirthTimestamp": 728006400
+            "dateOfBirthTimestamp": 728006400,
+            "club": "Sassuolo"
         },
         {
             "id": "601",
@@ -4622,7 +4882,8 @@
             "group": "Italy",
             "image": "SofiaCantore.jpg",
             "sofascore": 1007228,
-            "dateOfBirthTimestamp": 938649600
+            "dateOfBirthTimestamp": 938649600,
+            "club": "Washington Spirit"
         },
         {
             "id": "603",
@@ -4630,7 +4891,8 @@
             "group": "Spain",
             "image": "OrnellaVignola.jpg",
             "sofascore": 1385876,
-            "dateOfBirthTimestamp": 1096502400
+            "dateOfBirthTimestamp": 1096502400,
+            "club": "Everton"
         },
         {
             "id": "604",
@@ -4638,7 +4900,8 @@
             "group": "Germany",
             "image": "JacquelineMeissner.jpg",
             "sofascore": 851528,
-            "dateOfBirthTimestamp": 760320000
+            "dateOfBirthTimestamp": 760320000,
+            "club": "SGS Essen"
         },
         {
             "id": "605",
@@ -4646,7 +4909,8 @@
             "group": "Ireland",
             "image": "AineOGorman.jpg",
             "sofascore": 2075300,
-            "dateOfBirthTimestamp": 611020800
+            "dateOfBirthTimestamp": 611020800,
+            "club": "Shamrock Rovers"
         },
         {
             "id": "606",
@@ -4663,7 +4927,8 @@
             "group": "Brazil",
             "image": "NycoleRaysla.jpg",
             "sofascore": 1088431,
-            "dateOfBirthTimestamp": 954028800
+            "dateOfBirthTimestamp": 954028800,
+            "club": "Benfica"
         },
         {
             "id": "608",
@@ -4671,7 +4936,8 @@
             "group": "Argentina",
             "image": "VanesaSantana.jpg",
             "sofascore": 985609,
-            "dateOfBirthTimestamp": 652320000
+            "dateOfBirthTimestamp": 652320000,
+            "club": "Sporting de Huelva"
         },
         {
             "id": "609",
@@ -4679,7 +4945,8 @@
             "group": "Ireland",
             "image": "ClaireO'Riordan.jpg",
             "sofascore": 1000517,
-            "dateOfBirthTimestamp": 781920000
+            "dateOfBirthTimestamp": 781920000,
+            "club": "Standard"
         },
         {
             "id": "610",
@@ -4695,7 +4962,8 @@
             "group": "Australia",
             "image": "CharlotteMclean.jpg",
             "sofascore": 1096322,
-            "dateOfBirthTimestamp": 951868800
+            "dateOfBirthTimestamp": 951868800,
+            "club": "NC Courage"
         },
         {
             "id": "612",
@@ -4703,7 +4971,8 @@
             "group": "Australia",
             "image": "CortneeVine.jpg",
             "sofascore": 1006218,
-            "dateOfBirthTimestamp": 892080000
+            "dateOfBirthTimestamp": 892080000,
+            "club": "NC Courage"
         },
         {
             "id": "613",
@@ -4737,7 +5006,8 @@
             "group": "Spain",
             "image": "JenniHermoso.jpg",
             "sofascore": 135781,
-            "dateOfBirthTimestamp": 642211200
+            "dateOfBirthTimestamp": 642211200,
+            "club": "Tigres UANL"
         },
         {
             "id": "617",
@@ -4745,7 +5015,8 @@
             "group": "Mexico",
             "image": "BiancaSierra.jpg",
             "sofascore": 796796,
-            "dateOfBirthTimestamp": 709430400
+            "dateOfBirthTimestamp": 709430400,
+            "club": "Tigres UANL"
         },
         {
             "id": "618",
@@ -4753,7 +5024,8 @@
             "group": "Mexico",
             "image": "StephanyMayor.jpg",
             "sofascore": 1438506,
-            "dateOfBirthTimestamp": 685670400
+            "dateOfBirthTimestamp": 685670400,
+            "club": "Tigres UANL"
         },
         {
             "id": "619",
@@ -4769,7 +5041,8 @@
             "group": "England",
             "image": "BethanyEngland.jpg",
             "sofascore": 979751,
-            "dateOfBirthTimestamp": 771206400
+            "dateOfBirthTimestamp": 771206400,
+            "club": "Tottenham"
         },
         {
             "id": "621",
@@ -4777,7 +5050,8 @@
             "group": "England",
             "image": "AmyTurner.jpg",
             "sofascore": 818541,
-            "dateOfBirthTimestamp": 678585600
+            "dateOfBirthTimestamp": 678585600,
+            "club": "Tottenham"
         },
         {
             "id": "622",
@@ -4785,7 +5059,8 @@
             "group": "Wales",
             "image": "AngharadJames.jpg",
             "sofascore": 1005484,
-            "dateOfBirthTimestamp": 770428800
+            "dateOfBirthTimestamp": 770428800,
+            "club": "Seattle Reign"
         },
         {
             "id": "623",
@@ -4793,7 +5068,8 @@
             "group": "Jamaica",
             "image": "BeckySpencer.jpg",
             "sofascore": 851298,
-            "dateOfBirthTimestamp": 667180800
+            "dateOfBirthTimestamp": 667180800,
+            "club": "Chelsea"
         },
         {
             "id": "624",
@@ -4801,7 +5077,8 @@
             "group": "Australia",
             "image": "KyahSimon.jpg",
             "sofascore": 154935,
-            "dateOfBirthTimestamp": 677808000
+            "dateOfBirthTimestamp": 677808000,
+            "club": "Dijon"
         },
         {
             "id": "625",
@@ -4809,7 +5086,8 @@
             "group": "New Zealand",
             "image": "RiaPercival.jpg",
             "sofascore": 29126,
-            "dateOfBirthTimestamp": 628992000
+            "dateOfBirthTimestamp": 628992000,
+            "club": "Tottenham"
         },
         {
             "id": "626",
@@ -4817,7 +5095,8 @@
             "group": "Morocco",
             "image": "RosellaAyane.jpg",
             "sofascore": 822916,
-            "dateOfBirthTimestamp": 826934400
+            "dateOfBirthTimestamp": 826934400,
+            "club": "Leicester "
         },
         {
             "id": "627",
@@ -4825,7 +5104,8 @@
             "group": "Canada",
             "image": "ShelinaZadorsky.jpg",
             "sofascore": 845622,
-            "dateOfBirthTimestamp": 719884800
+            "dateOfBirthTimestamp": 719884800,
+            "club": "West Ham"
         },
         {
             "id": "628",
@@ -4833,7 +5113,8 @@
             "group": "Finland",
             "image": "Tinja-RiikkaKorpela.jpg",
             "sofascore": 80112,
-            "dateOfBirthTimestamp": 515635200
+            "dateOfBirthTimestamp": 515635200,
+            "club": "Servette FCCF"
         },
         {
             "id": "629",
@@ -4841,7 +5122,8 @@
             "group": "Australia",
             "image": "CharlotteGrant.jpg",
             "sofascore": 1006200,
-            "dateOfBirthTimestamp": 1000944000
+            "dateOfBirthTimestamp": 1000944000,
+            "club": "Tottenham"
         },
         {
             "id": "630",
@@ -4849,7 +5131,8 @@
             "group": "Germany",
             "image": "AnnaGasper.jpg",
             "sofascore": 1009053,
-            "dateOfBirthTimestamp": 852249600
+            "dateOfBirthTimestamp": 852249600,
+            "club": "Benfica"
         },
         {
             "id": "631",
@@ -4866,7 +5149,8 @@
             "group": "Argentina",
             "image": "RominaNunez.jpg",
             "sofascore": 1103774,
-            "dateOfBirthTimestamp": 757382400
+            "dateOfBirthTimestamp": 757382400,
+            "club": "Betis"
         },
         {
             "id": "633",
@@ -4883,7 +5167,8 @@
             "group": "Chile",
             "image": "CarlaGuerrero.jpg",
             "sofascore": 985656,
-            "dateOfBirthTimestamp": 567216000
+            "dateOfBirthTimestamp": 567216000,
+            "club": "U. de Chile"
         },
         {
             "id": "635",
@@ -4900,7 +5185,8 @@
             "group": "Chile",
             "image": "FernandaPinilla.jpg",
             "sofascore": 986350,
-            "dateOfBirthTimestamp": 752544000
+            "dateOfBirthTimestamp": 752544000,
+            "club": "Club León"
         },
         {
             "id": "637",
@@ -4908,7 +5194,8 @@
             "group": "Spain",
             "image": "AsunMartinez.jpg",
             "sofascore": 1008805,
-            "dateOfBirthTimestamp": 1014163200
+            "dateOfBirthTimestamp": 1014163200,
+            "club": "Valencia"
         },
         {
             "id": "638",
@@ -4916,7 +5203,8 @@
             "group": "Spain",
             "image": "BertaPujadas.jpg",
             "sofascore": 1008750,
-            "dateOfBirthTimestamp": 955238400
+            "dateOfBirthTimestamp": 955238400,
+            "club": "FC Badalona"
         },
         {
             "id": "639",
@@ -4924,7 +5212,8 @@
             "group": "Spain",
             "image": "MacarenaPortales.jpg",
             "sofascore": 1008966,
-            "dateOfBirthTimestamp": 902016000
+            "dateOfBirthTimestamp": 902016000,
+            "club": "Atlético de Madrid"
         },
         {
             "id": "640",
@@ -4932,7 +5221,8 @@
             "group": "Norway",
             "image": "EliseThorsnes.jpg",
             "sofascore": 25746,
-            "dateOfBirthTimestamp": 587520000
+            "dateOfBirthTimestamp": 587520000,
+            "club": "Vålerenga"
         },
         {
             "id": "641",
@@ -4940,7 +5230,8 @@
             "group": "Denmark",
             "image": "JanniThomsen.jpg",
             "sofascore": 973956,
-            "dateOfBirthTimestamp": 950659200
+            "dateOfBirthTimestamp": 950659200,
+            "club": "Utah Royals"
         },
         {
             "id": "642",
@@ -4948,7 +5239,8 @@
             "group": "Spain",
             "image": "PaolaSoldevilla.jpg",
             "sofascore": 1008741,
-            "dateOfBirthTimestamp": 849916800
+            "dateOfBirthTimestamp": 849916800,
+            "club": "Villarreal"
         },
         {
             "id": "643",
@@ -4965,7 +5257,8 @@
             "group": "Sweden",
             "image": "SandraAdolfsson.jpg",
             "sofascore": 951468,
-            "dateOfBirthTimestamp": 550540800
+            "dateOfBirthTimestamp": 550540800,
+            "club": "Vittsjö GIK"
         },
         {
             "id": "645",
@@ -4991,7 +5284,8 @@
             "group": "England",
             "image": "GemmaDavison.jpg",
             "sofascore": 1007244,
-            "dateOfBirthTimestamp": 545616000
+            "dateOfBirthTimestamp": 545616000,
+            "club": "Watford"
         },
         {
             "id": "648",
@@ -4999,7 +5293,8 @@
             "group": "New Zealand",
             "image": "BriannaEdwards.jpg",
             "sofascore": 1164367,
-            "dateOfBirthTimestamp": 1043625600
+            "dateOfBirthTimestamp": 1043625600,
+            "club": "Western Sydney"
         },
         {
             "id": "649",
@@ -5007,7 +5302,8 @@
             "group": "New Zealand",
             "image": "MichaelaFoster.jpg",
             "sofascore": 1431832,
-            "dateOfBirthTimestamp": 915840000
+            "dateOfBirthTimestamp": 915840000,
+            "club": "Durham"
         },
         {
             "id": "650",
@@ -5015,7 +5311,8 @@
             "group": "Germany",
             "image": "MargaritaGidion.jpg",
             "sofascore": 1009002,
-            "dateOfBirthTimestamp": 787708800
+            "dateOfBirthTimestamp": 787708800,
+            "club": "Viktoria Berlin"
         },
         {
             "id": "651",
@@ -5023,7 +5320,8 @@
             "group": "England",
             "image": "GraceFisk.jpg",
             "sofascore": 1014701,
-            "dateOfBirthTimestamp": 883958400
+            "dateOfBirthTimestamp": 883958400,
+            "club": "Liverpool"
         },
         {
             "id": "652",
@@ -5031,7 +5329,8 @@
             "group": "Scotland",
             "image": "LisaEvans.jpg",
             "sofascore": 72530,
-            "dateOfBirthTimestamp": 706406400
+            "dateOfBirthTimestamp": 706406400,
+            "club": "Glasgow City LFC"
         },
         {
             "id": "653",
@@ -5039,7 +5338,8 @@
             "group": "USA",
             "image": "KristieMewis.jpg",
             "sofascore": 1025392,
-            "dateOfBirthTimestamp": 667440000
+            "dateOfBirthTimestamp": 667440000,
+            "club": "Retired"
         },
         {
             "id": "654",
@@ -5047,7 +5347,8 @@
             "group": "Australia",
             "image": "KatrinaGorry.jpg",
             "sofascore": 796007,
-            "dateOfBirthTimestamp": 713664000
+            "dateOfBirthTimestamp": 713664000,
+            "club": "West Ham"
         },
         {
             "id": "655",
@@ -5055,7 +5356,8 @@
             "group": "Ireland",
             "image": "IsibealAtkinson.png",
             "sofascore": 1092649,
-            "dateOfBirthTimestamp": 995328000
+            "dateOfBirthTimestamp": 995328000,
+            "club": "Sunderland"
         },
         {
             "id": "656",
@@ -5063,7 +5365,8 @@
             "group": "Scotland",
             "image": "KirstySmith.jpg",
             "sofascore": 863058,
-            "dateOfBirthTimestamp": 757814400
+            "dateOfBirthTimestamp": 757814400,
+            "club": "Nottingham Forest"
         },
         {
             "id": "657",
@@ -5071,7 +5374,8 @@
             "group": "Australia",
             "image": "MackenzieArnold.jpg",
             "sofascore": 795999,
-            "dateOfBirthTimestamp": 762134400
+            "dateOfBirthTimestamp": 762134400,
+            "club": "Portland Thorns"
         },
         {
             "id": "658",
@@ -5079,7 +5383,8 @@
             "group": "Philippines",
             "image": "SarinaIsabel.jpg",
             "sofascore": 1651944,
-            "dateOfBirthTimestamp": 836092800
+            "dateOfBirthTimestamp": 836092800,
+            "club": "FC Como"
         },
         {
             "id": "659",
@@ -5087,7 +5392,8 @@
             "group": "Philippines",
             "image": "AngelaBeard.jpg",
             "sofascore": 1010475,
-            "dateOfBirthTimestamp": 871689600
+            "dateOfBirthTimestamp": 871689600,
+            "club": "AIK"
         },
         {
             "id": "660",
@@ -5095,7 +5401,8 @@
             "group": "USA",
             "image": "HillaryBeall.jpg",
             "sofascore": 1188645,
-            "dateOfBirthTimestamp": 917395200
+            "dateOfBirthTimestamp": 917395200,
+            "club": "San Diego Wave"
         },
         {
             "id": "661",
@@ -5103,7 +5410,8 @@
             "group": "Germany",
             "image": "KristinDemann.jpg",
             "sofascore": 94461,
-            "dateOfBirthTimestamp": 734140800
+            "dateOfBirthTimestamp": 734140800,
+            "club": "Wolfsburg"
         },
         {
             "id": "662",
@@ -5120,7 +5428,8 @@
             "group": "Poland",
             "image": "EwaPajor.jpg",
             "sofascore": 150567,
-            "dateOfBirthTimestamp": 849571200
+            "dateOfBirthTimestamp": 849571200,
+            "club": "FC Barcelona"
         },
         {
             "id": "664",
@@ -5128,7 +5437,8 @@
             "group": "The Netherlands",
             "image": "JillRoord.jpg",
             "sofascore": 231502,
-            "dateOfBirthTimestamp": 861667200
+            "dateOfBirthTimestamp": 861667200,
+            "club": "FC Twente"
         },
         {
             "id": "665",
@@ -5136,7 +5446,8 @@
             "group": "Germany",
             "image": "JoelleWedemeyer.jpg",
             "sofascore": 980331,
-            "dateOfBirthTimestamp": 839808000
+            "dateOfBirthTimestamp": 839808000,
+            "club": "Wolfsburg"
         },
         {
             "id": "666",
@@ -5144,7 +5455,8 @@
             "group": "Poland",
             "image": "KatarzynaKiedrzynek.jpg",
             "sofascore": 111557,
-            "dateOfBirthTimestamp": 669340800
+            "dateOfBirthTimestamp": 669340800,
+            "club": "PSG"
         },
         {
             "id": "667",
@@ -5161,7 +5473,8 @@
             "group": "Germany",
             "image": "LenaOberdorf.jpg",
             "sofascore": 985560,
-            "dateOfBirthTimestamp": 1008720000
+            "dateOfBirthTimestamp": 1008720000,
+            "club": "Bayern Munich"
         },
         {
             "id": "669",
@@ -5169,7 +5482,8 @@
             "group": "The Netherlands",
             "image": "LynnWilms.jpg",
             "sofascore": 997966,
-            "dateOfBirthTimestamp": 970531200
+            "dateOfBirthTimestamp": 970531200,
+            "club": "Aston Villa"
         },
         {
             "id": "670",
@@ -5177,7 +5491,8 @@
             "group": "Germany",
             "image": "SvenjaHuth.jpg",
             "sofascore": 68254,
-            "dateOfBirthTimestamp": 664761600
+            "dateOfBirthTimestamp": 664761600,
+            "club": "Wolfsburg"
         },
         {
             "id": "671",
@@ -5185,7 +5500,8 @@
             "group": "Costa Rica",
             "image": "CatalinaEstrada.jpg",
             "sofascore": 1125619,
-            "dateOfBirthTimestamp": 908064000
+            "dateOfBirthTimestamp": 908064000,
+            "club": "Zenit"
         },
         {
             "id": "672",
@@ -5193,7 +5509,8 @@
             "group": "Switzerland",
             "image": "KimDubs.jpg",
             "sofascore": 985703,
-            "dateOfBirthTimestamp": 906422400
+            "dateOfBirthTimestamp": 906422400,
+            "club": "Zürich"
         },
         {
             "id": "673",
@@ -5201,7 +5518,8 @@
             "group": "Switzerland",
             "image": "NaomiMegroz.jpg",
             "sofascore": 860605,
-            "dateOfBirthTimestamp": 902361600
+            "dateOfBirthTimestamp": 902361600,
+            "club": "Zürich"
         },
         {
             "id": "674",
@@ -5222,7 +5540,7 @@
             "id": "676",
             "label": "Claire Savin",
             "group": "Germany",
-            "image": "",
+            "image": "ClaireSavin.jpg",
             "sofascore": 1009503,
             "club": "Retired",
             "dateOfBirthTimestamp": 733708800
@@ -5231,9 +5549,10 @@
             "id": "677",
             "label": "Jana Vojtekova",
             "group": "Slovakia",
-            "image": "",
+            "image": "JanaVojtekova.jpg",
             "sofascore": 71434,
-            "dateOfBirthTimestamp": 681955200
+            "dateOfBirthTimestamp": 681955200,
+            "club": "Basel"
         },
         {
             "id": "678",
@@ -5241,7 +5560,8 @@
             "group": "Australia",
             "image": "KyraCooneyCross.png",
             "sofascore": 985845,
-            "dateOfBirthTimestamp": 1013731200
+            "dateOfBirthTimestamp": 1013731200,
+            "club": "Arsenal"
         },
         {
             "id": "679",
@@ -5249,39 +5569,44 @@
             "group": "England",
             "image": "GraceClinton.png",
             "sofascore": 1066034,
-            "dateOfBirthTimestamp": 1049068800
+            "dateOfBirthTimestamp": 1049068800,
+            "club": "Man City"
         },
         {
             "id": "680",
             "label": "Nora Holstad Berge",
             "group": "Norway",
-            "image": "",
+            "image": "NoraHolstad.jpg",
             "sofascore": 25832,
-            "dateOfBirthTimestamp": 543715200
+            "dateOfBirthTimestamp": 543715200,
+            "club": "Retired"
         },
         {
             "id": "681",
             "label": "Marie Levasseur",
             "group": "Canada",
-            "image": "",
+            "image": "MarieLevasseur.jpg",
             "sofascore": 1019099,
-            "dateOfBirthTimestamp": 857952000
+            "dateOfBirthTimestamp": 857952000,
+            "club": "Montpellier"
         },
         {
             "id": "682",
             "label": "Sinead Farrelly",
             "group": "Ireland",
-            "image": "",
+            "image": "SineadFarrely.jpg",
             "sofascore": 1482656,
-            "dateOfBirthTimestamp": 621907200
+            "dateOfBirthTimestamp": 621907200,
+            "club": "Retired"
         },
         {
             "id": "683",
             "label": "Leanne Kiernan",
             "group": "Ireland",
-            "image": "",
+            "image": "LeanneKiernan.jpg",
             "sofascore": 1000513,
-            "dateOfBirthTimestamp": 925171200
+            "dateOfBirthTimestamp": 925171200,
+            "club": "Liverpool"
         },
         {
             "id": "684",
@@ -5295,7 +5620,8 @@
             "group": "Germany",
             "image": "",
             "sofascore": 930672,
-            "dateOfBirthTimestamp": 963014400
+            "dateOfBirthTimestamp": 963014400,
+            "club": "Köln"
         },
         {
             "id": "686",
@@ -5303,7 +5629,8 @@
             "group": "USA",
             "image": "",
             "sofascore": 1134946,
-            "dateOfBirthTimestamp": 900547200
+            "dateOfBirthTimestamp": 900547200,
+            "club": "Köln"
         },
         {
             "id": "687",
@@ -5311,7 +5638,8 @@
             "group": "Germany",
             "image": "",
             "sofascore": 964032,
-            "dateOfBirthTimestamp": 961372800
+            "dateOfBirthTimestamp": 961372800,
+            "club": "Man City"
         },
         {
             "id": "688",
@@ -5319,7 +5647,8 @@
             "group": "Scotland",
             "image": "",
             "sofascore": 964056,
-            "dateOfBirthTimestamp": 924307200
+            "dateOfBirthTimestamp": 924307200,
+            "club": "Liverpool"
         },
         {
             "id": "689",
@@ -5336,7 +5665,8 @@
             "group": "England",
             "image": "",
             "sofascore": 1020560,
-            "dateOfBirthTimestamp": 956880000
+            "dateOfBirthTimestamp": 956880000,
+            "club": "Portsmouth"
         },
         {
             "id": "691",
@@ -5344,7 +5674,8 @@
             "group": "England",
             "image": "",
             "sofascore": 877167,
-            "dateOfBirthTimestamp": 915321600
+            "dateOfBirthTimestamp": 915321600,
+            "club": "Bayern Munich"
         },
         {
             "id": "692",
@@ -5367,7 +5698,8 @@
             "group": "Germany",
             "image": "",
             "sofascore": 1084042,
-            "dateOfBirthTimestamp": 910828800
+            "dateOfBirthTimestamp": 910828800,
+            "club": "Athletic Club"
         },
         {
             "id": "695",
@@ -5389,7 +5721,8 @@
             "group": "USA",
             "image": "catarina_macario.png",
             "sofascore": 1099648,
-            "dateOfBirthTimestamp": 938995200
+            "dateOfBirthTimestamp": 938995200,
+            "club": "Chelsea"
         },
         {
             "id": "698",
@@ -5403,7 +5736,8 @@
             "group": "England",
             "image": "aggie_beeverjones.png",
             "sofascore": 1150887,
-            "dateOfBirthTimestamp": 1059264000
+            "dateOfBirthTimestamp": 1059264000,
+            "club": "Chelsea"
         },
         {
             "id": "700",
@@ -5411,7 +5745,8 @@
             "group": "Scotland",
             "image": "jazz_bull.png",
             "sofascore": 1150884,
-            "dateOfBirthTimestamp": 1034294400
+            "dateOfBirthTimestamp": 1034294400,
+            "club": "Portsmouth"
         },
         {
             "id": "701",
@@ -5425,7 +5760,8 @@
             "group": "England",
             "image": "maisie_symonds.png",
             "sofascore": 1102222,
-            "dateOfBirthTimestamp": 1044144000
+            "dateOfBirthTimestamp": 1044144000,
+            "club": "Brighton"
         },
         {
             "id": "703",
@@ -5433,7 +5769,8 @@
             "group": "Australia",
             "image": "charlie_rule.png",
             "sofascore": 1096321,
-            "dateOfBirthTimestamp": 1045353600
+            "dateOfBirthTimestamp": 1045353600,
+            "club": "Brighton"
         },
         {
             "id": "704",
@@ -5441,7 +5778,8 @@
             "group": "Poland",
             "image": "natalia_padilla.png",
             "sofascore": 1416486,
-            "dateOfBirthTimestamp": 1036540800
+            "dateOfBirthTimestamp": 1036540800,
+            "club": "Bayern Munich"
         },
         {
             "id": "705",
@@ -5449,7 +5787,8 @@
             "group": "Italy",
             "image": "martina_lenzini.png",
             "sofascore": 951284,
-            "dateOfBirthTimestamp": 901152000
+            "dateOfBirthTimestamp": 901152000,
+            "club": "Juventus"
         },
         {
             "id": "706",
@@ -5457,7 +5796,8 @@
             "group": "USA",
             "image": "yazmeen_ryan.png",
             "sofascore": 1122430,
-            "dateOfBirthTimestamp": 919900800
+            "dateOfBirthTimestamp": 919900800,
+            "club": "Houston Dash"
         },
         {
             "id": "707",
@@ -5465,7 +5805,8 @@
             "group": "Switzerland",
             "image": "geraldine_reuteler.png",
             "sofascore": 886995,
-            "dateOfBirthTimestamp": 924652800
+            "dateOfBirthTimestamp": 924652800,
+            "club": "Frankfurt"
         },
         {
             "id": "708",
@@ -5473,7 +5814,8 @@
             "group": "Germany",
             "image": "sophie_nachtigall.png",
             "sofascore": 1385841,
-            "dateOfBirthTimestamp": 1076457600
+            "dateOfBirthTimestamp": 1076457600,
+            "club": "Freiburg"
         },
         {
             "id": "709",
@@ -5481,7 +5823,8 @@
             "group": "Denmark",
             "image": "sofie_svava.png",
             "sofascore": 973959,
-            "dateOfBirthTimestamp": 965952000
+            "dateOfBirthTimestamp": 965952000,
+            "club": "Lyonnes"
         }
     ]
 }
