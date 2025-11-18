@@ -483,12 +483,9 @@
         },
         {
             "id": "54",
-            "label": "Aitana Bonmatí",
-            "group": "Spain",
-            "image": "AitanaBonmati.jpg",
-            "sofascore": 860751,
-            "dateOfBirthTimestamp": 885081600,
-            "club": "FC Barcelona"
+            "label": "Ruth Brown",
+            "group": "Nonplayer",
+            "image": ""
         },
         {
             "id": "55",
