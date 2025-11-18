@@ -5981,6 +5981,15 @@
             "label": "Irina Schlauch",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "731",
+            "label": "Anna Torroda",
+            "group": "Spain",
+            "image": "AnnaTorroda.jpg",
+            "sofascore": 1008746,
+            "club": "RCD Espanyol",
+            "dateOfBirthTimestamp": 948412800
         }
     ]
 }
