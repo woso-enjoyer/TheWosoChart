@@ -4206,12 +4206,12 @@
         },
         {
             "id": "525",
-            "label": "Karen Bardsley",
-            "group": "England",
-            "image": "KarenBardsley.jpg",
-            "sofascore": 81787,
-            "club": "Retired",
-            "dateOfBirthTimestamp": 466560000
+            "label": "Manoly Baquerizo",
+            "group": "Ecuador",
+            "image": "ManolyBaquerizo.png",
+            "sofascore": 1115282,
+            "club": "Granada CF",
+            "dateOfBirthTimestamp": 913680000
         },
         {
             "id": "526",
@@ -5122,12 +5122,9 @@
         },
         {
             "id": "629",
-            "label": "Charlotte Grant",
-            "group": "Australia",
-            "image": "CharlotteGrant.jpg",
-            "sofascore": 1006200,
-            "dateOfBirthTimestamp": 1000944000,
-            "club": "Tottenham"
+            "label": "Lauren Garvey",
+            "group": "Nonplayer",
+            "image": ""
         },
         {
             "id": "630",
