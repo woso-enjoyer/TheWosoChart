@@ -5990,6 +5990,15 @@
             "sofascore": 1008746,
             "club": "RCD Espanyol",
             "dateOfBirthTimestamp": 948412800
+        },
+        {
+            "id": "732",
+            "label": "Sabrina Wittmann",
+            "group": "Germany",
+            "image": "SabrinaWittmann.jpg",
+            "sofascore": 1858511,
+            "club": "Retired",
+            "dateOfBirthTimestamp": 679881600
         }
     ]
 }
