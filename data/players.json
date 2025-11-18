@@ -6083,6 +6083,24 @@
             "sofascore": 974956,
             "club": "Kansas City",
             "dateOfBirthTimestamp": 860716800
+        },
+        {
+            "id": "743",
+            "label": "Alex Popp",
+            "group": "Germany",
+            "image": "AlexPopp.png",
+            "club": "Wolfsburg",
+            "sofascore": 68256,
+            "dateOfBirthTimestamp": 670896000
+        },
+        {
+            "id": "744",
+            "label": "Lena Lattwein",
+            "group": "Germany",
+            "image": "LenaLattwein.png",
+            "club": "Wolfsburg",
+            "sofascore": 964031,
+            "dateOfBirthTimestamp": 957225600
         }
     ]
 }
