@@ -5883,6 +5883,24 @@
             "label": "Alice Hassall",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "718",
+            "label": "Emma Harries",
+            "group": "England",
+            "image": "EmmaHarries.jpg",
+            "sofascore": 1064636,
+            "dateOfBirthTimestamp": 1017360000,
+            "club": "Southampton"
+        },
+        {
+            "id": "719",
+            "label": "Ellie Brazil",
+            "group": "England",
+            "image": "EllieBrazil.jpg",
+            "sofascore": 1007473,
+            "dateOfBirthTimestamp": 915926400,
+            "club": "Southampton"
         }
     ]
 }
