@@ -5868,6 +5868,21 @@
             "label": "Annie Abbishaw",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "716",
+            "label": "Aoife Mannion",
+            "group": "Ireland",
+            "image": "AoifeMannion.jpg",
+            "sofascore": 994498,
+            "dateOfBirthTimestamp": 811900800,
+            "club": "Newcastle United"
+        },
+        {
+            "id": "717",
+            "label": "Alice Hassall",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
