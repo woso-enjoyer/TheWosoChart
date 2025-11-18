@@ -6035,6 +6035,15 @@
             "sofascore": 1397069,
             "club": "Nürnberg",
             "dateOfBirthTimestamp": 934675200
+        },
+        {
+            "id": "737",
+            "label": "Ally Gudorf",
+            "group": "Germany",
+            "image": "AllyGudorf.jpg",
+            "sofascore": 1087850,
+            "club": "Freiburg",
+            "dateOfBirthTimestamp": 990576000
         }
     ]
 }
