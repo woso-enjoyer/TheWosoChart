@@ -5844,6 +5844,15 @@
             "sofascore": 1016704,
             "dateOfBirthTimestamp": 977788800,
             "club": "Standard"
+        },
+        {
+            "id": "713",
+            "label": "Hailie Mace",
+            "group": "USA",
+            "image": "HailieMace.png",
+            "sofascore": 981580,
+            "dateOfBirthTimestamp": 859161600,
+            "club": "Kansas City"
         }
     ]
 }
