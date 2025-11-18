@@ -4720,12 +4720,12 @@
         },
         {
             "id": "584",
-            "label": "Bianca Schmidt",
-            "group": "Germany",
-            "image": "BiancaSchmidt.jpg",
-            "sofascore": 80137,
-            "dateOfBirthTimestamp": 633052800,
-            "club": "Potsdam"
+            "label": "Jess Park",
+            "group": "England",
+            "image": "JessPark.jpg",
+            "sofascore": 998000,
+            "dateOfBirthTimestamp": 1003536000,
+            "club": "Man Utd"
         },
         {
             "id": "585",
@@ -5500,12 +5500,9 @@
         },
         {
             "id": "671",
-            "label": "Catalina Estrada",
-            "group": "Costa Rica",
-            "image": "CatalinaEstrada.jpg",
-            "sofascore": 1125619,
-            "dateOfBirthTimestamp": 908064000,
-            "club": "Zenit"
+            "label": "Alex Borowicz",
+            "group": "Nonplayer",
+            "image": ""
         },
         {
             "id": "672",
