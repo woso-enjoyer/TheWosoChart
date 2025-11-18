@@ -5960,6 +5960,21 @@
             "label": "Dawn Gordon",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "728",
+            "label": "Angela Beard",
+            "group": "Philippines",
+            "image": "AngelaBeard.jpg",
+            "sofascore": 1010475,
+            "dateOfBirthTimestamp": 871689600,
+            "club": "AIK"
+        },
+        {
+            "id": "729",
+            "label": "Charlotte Adele Neal",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
