@@ -6017,6 +6017,24 @@
             "sofascore": 1146951,
             "club": "Leipzig",
             "dateOfBirthTimestamp": 1072051200
+        },
+        {
+            "id": "735",
+            "label": "Lisanne Gräwe",
+            "group": "Germany",
+            "image": "LisanneGrawe.jpg",
+            "sofascore": 1048730,
+            "club": "Frankfurt",
+            "dateOfBirthTimestamp": 1044921600
+        },
+        {
+            "id": "736",
+            "label": "Oliwia Woś",
+            "group": "Poland",
+            "image": "OliwiaWos.png",
+            "sofascore": 1397069,
+            "club": "Nürnberg",
+            "dateOfBirthTimestamp": 934675200
         }
     ]
 }
