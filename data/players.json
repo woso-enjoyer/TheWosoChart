@@ -6044,6 +6044,21 @@
             "sofascore": 1087850,
             "club": "Freiburg",
             "dateOfBirthTimestamp": 990576000
+        },
+        {
+            "id": "738",
+            "label": "Ivana Fuso",
+            "group": "Brazil",
+            "image": "IvanaFuso.jpg",
+            "sofascore": 1090920,
+            "club": "Corinthians",
+            "dateOfBirthTimestamp": 984355200
+        },
+        {
+            "id": "739",
+            "label": "Carolina Brito",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
