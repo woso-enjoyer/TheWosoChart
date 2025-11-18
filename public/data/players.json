@@ -5999,6 +5999,24 @@
             "sofascore": 1858511,
             "club": "Retired",
             "dateOfBirthTimestamp": 679881600
+        },
+        {
+            "id": "733",
+            "label": "Jenny Hipp",
+            "group": "Germany",
+            "image": "JennyHipp.jpg",
+            "sofascore": 1428530,
+            "club": "Union Berlin",
+            "dateOfBirthTimestamp": 886723200
+        },
+        {
+            "id": "734",
+            "label": "Julia Landenberger",
+            "group": "Germany",
+            "image": "JuliaLandenberger.jpg",
+            "sofascore": 1146951,
+            "club": "Leipzig",
+            "dateOfBirthTimestamp": 1072051200
         }
     ]
 }
