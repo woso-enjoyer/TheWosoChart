@@ -6074,6 +6074,15 @@
             "label": "Jaso Mahili",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "742",
+            "label": "Alana Cook",
+            "group": "USA",
+            "image": "AlanaCook.png",
+            "sofascore": 974956,
+            "club": "Kansas City",
+            "dateOfBirthTimestamp": 860716800
         }
     ]
 }
