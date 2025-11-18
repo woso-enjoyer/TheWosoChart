@@ -685,12 +685,9 @@
         },
         {
             "id": "77",
-            "label": "Salma Paralluelo",
-            "group": "Spain",
-            "image": "SalmaParalluelo.jpg",
-            "sofascore": 1175890,
-            "dateOfBirthTimestamp": 1068681600,
-            "club": "FC Barcelona"
+            "label": "Caroline Crum",
+            "group": "Nonplayer",
+            "image": ""
         },
         {
             "id": "78",
@@ -3432,12 +3429,12 @@
         },
         {
             "id": "437",
-            "label": "Rose Lavelle",
+            "label": "Phallon Tullis-Joyce",
             "group": "USA",
-            "image": "RoseLavelle.jpg",
-            "sofascore": 963170,
-            "dateOfBirthTimestamp": 800409600,
-            "club": "Gotham"
+            "image": "PhallonTullisJoyce.png",
+            "sofascore": 1008042,
+            "dateOfBirthTimestamp": 845683200,
+            "club": "Man Utd"
         },
         {
             "id": "438",
