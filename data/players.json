@@ -5930,6 +5930,21 @@
             "label": "Sera Cahoone",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "724",
+            "label": "Jamie Finn",
+            "group": "Ireland",
+            "image": "JamieFinn.jpg",
+            "club": "Sunderland",
+            "sofascore": 1005425,
+            "dateOfBirthTimestamp": 893116800
+        },
+        {
+            "id": "725",
+            "label": "Sarah Walsh",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
