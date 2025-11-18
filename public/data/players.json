@@ -6059,6 +6059,21 @@
             "label": "Carolina Brito",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "740",
+            "label": "Marleen Schimmer",
+            "group": "Germany",
+            "image": "MarleenSchimmer.jpg",
+            "sofascore": 1177868,
+            "club": "Leipzig",
+            "dateOfBirthTimestamp": 972259200
+        },
+        {
+            "id": "741",
+            "label": "Jaso Mahili",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
