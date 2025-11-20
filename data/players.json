@@ -6146,6 +6146,21 @@
             "label": "Justine Jbr",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "751",
+            "label": "Miri Taylor",
+            "group": "England",
+            "image": "MiriTaylor.jpg",
+            "club": "Aston Villa",
+            "sofascore": 1188647,
+            "dateOfBirthTimestamp": 949449600
+        },
+        {
+            "id": "752",
+            "label": "Sammi Lord",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
