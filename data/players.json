@@ -5983,6 +5983,24 @@
             "id": "754",
             "label": "Liz Neville",
             "group": "Nonplayer"
+        },
+        {
+            "id": "755",
+            "label": "Elise Hughes",
+            "group": "Wales",
+            "image": "EliseHughes.jpg",
+            "club": "Crystal Palace",
+            "sofascore": 1005482,
+            "dateOfBirthTimestamp": 987292800
+        },
+        {
+            "id": "756",
+            "label": "Annabel Blanchard",
+            "group": "England",
+            "image": "AnnabelBlanchard.jpg",
+            "club": "Crystal Palace",
+            "sofascore": 1020556,
+            "dateOfBirthTimestamp": 989193600
         }
     ]
 }
