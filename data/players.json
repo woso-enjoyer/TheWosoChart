@@ -6116,6 +6116,21 @@
             "label": "Katia Brdn",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "747",
+            "label": "Kerolin Nicoli",
+            "group": "Brazil",
+            "image": "KerolinNicoli.png",
+            "club": "Man City",
+            "sofascore": 944363,
+            "dateOfBirthTimestamp": 942796800
+        },
+        {
+            "id": "748",
+            "label": "Rafaela Del Bianchi",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
