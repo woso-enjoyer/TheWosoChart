@@ -6101,6 +6101,21 @@
             "club": "Wolfsburg",
             "sofascore": 964031,
             "dateOfBirthTimestamp": 957225600
+        },
+        {
+            "id": "745",
+            "label": "Damaris Egurrola",
+            "group": "The Netherlands",
+            "image": "DamarisEgurrola.png",
+            "club": "Lyonnes",
+            "sofascore": 1008754,
+            "dateOfBirthTimestamp": 935625600
+        },
+        {
+            "id": "746",
+            "label": "Katia Brdn",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
