@@ -6131,6 +6131,21 @@
             "label": "Rafaela Del Bianchi",
             "group": "Nonplayer",
             "image": ""
+        },
+        {
+            "id": "749",
+            "label": "Melvine Malard",
+            "group": "France",
+            "image": "MelvineMalard.jpg",
+            "club": "Man Utd",
+            "sofascore": 956426,
+            "dateOfBirthTimestamp": 962064000
+        },
+        {
+            "id": "750",
+            "label": "Justine Jbr",
+            "group": "Nonplayer",
+            "image": ""
         }
     ]
 }
