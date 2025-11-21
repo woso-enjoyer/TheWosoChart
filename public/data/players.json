@@ -6105,6 +6105,11 @@
             "club": "Retired",
             "sofascore": 1469719,
             "dateOfBirthTimestamp": 946684800
+        },
+        {
+            "id": "770",
+            "label": "Cristina Kleine",
+            "group": "Nonplayer"
         }
     ]
 }
