@@ -6037,6 +6037,20 @@
             "id": "761",
             "label": "Ellis De Ville Oliver",
             "group": "Nonplayer"
+        },
+        {
+            "id": "762",
+            "label": "Paulina Krumbiegel",
+            "group": "Germany",
+            "image": "PaulinaKrumbiegel.png",
+            "club": "Juventus",
+            "sofascore": 1008905,
+            "dateOfBirthTimestamp": 972604800
+        },
+        {
+            "id": "763",
+            "label": "Carolin Albrecht",
+            "group": "Nonplayer"
         }
     ]
 }
