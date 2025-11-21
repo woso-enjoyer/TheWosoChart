@@ -12,7 +12,7 @@ https://woso-enjoyer.github.io/TheWosoChart/
 Contributing information to the chart is easy, even if you don't know how to code, or how to use GitHub. There are two ways you can contribute:
 
 ### Method 1: Beginner
-Open a new [Issue](https://github.com/wosochart/TheWosoChart/issues/new/choose) describing what you want changed. 
+Open a new [Issue](https://github.com/woso-enjoyer/TheWosoChart/issues/new/choose) describing what you want changed. 
 
 ### Method 2: Advanced
 If you want to add the data yourself, you can follow these instructions to create what is called a Pull Request. A Pull Request is suggested changes which will either by Approved or Denied by the owner of this repository. Follow the instructions carefully to ensure that your changes will be accepted
