@@ -6087,6 +6087,24 @@
             "club": "ADO Den Haag",
             "sofascore": 2288656,
             "dateOfBirthTimestamp": 845824402
+        },
+        {
+            "id": "768",
+            "label": "Tarciane Lima",
+            "group": "Brazil",
+            "image": "TarcianeLima.png",
+            "club": "Lyonnes",
+            "sofascore": 1136390,
+            "dateOfBirthTimestamp": 1053993600
+        },
+        {
+            "id": "769",
+            "label": "Thuany Siridakis Tuca",
+            "group": "Brazil",
+            "image": "ThuanySiridakis.jpg",
+            "club": "Retired",
+            "sofascore": 1469719,
+            "dateOfBirthTimestamp": 946684800
         }
     ]
 }
