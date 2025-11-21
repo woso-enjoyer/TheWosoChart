@@ -6069,6 +6069,24 @@
             "club": "FC Barcelona",
             "sofascore": 1093419,
             "dateOfBirthTimestamp": 1059350400
+        },
+        {
+            "id": "766",
+            "label": "Ilse van der Zanden",
+            "group": "The Netherlands",
+            "image": "IlseVanDerZanden.png",
+            "club": "Fiorentina",
+            "sofascore": 1530652,
+            "dateOfBirthTimestamp": 806630400
+        },
+        {
+            "id": "767",
+            "label": "Joëlle de Bondt",
+            "group": "The Netherlands",
+            "image": "JoelleDeBondt.png",
+            "club": "ADO Den Haag",
+            "sofascore": 2288656,
+            "dateOfBirthTimestamp": 845824402
         }
     ]
 }
