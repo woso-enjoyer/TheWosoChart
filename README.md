@@ -1,6 +1,11 @@
-# WOSO Chart
-The ultimate women's soccer relationship chart
+# LChat WOSO Chart
+The ultimate women's football relationship chart.
 
+This is a fork of the original [WosoChart](https://github.com/wosochart/TheWosoChart)
+
+Data further curated by Lchat
+
+Web application available on: 
 https://woso-enjoyer.github.io/TheWosoChart/
 
 ## Contributing
@@ -13,11 +18,11 @@ Open a new [Issue](https://github.com/wosochart/TheWosoChart/issues/new/choose) 
 If you want to add the data yourself, you can follow these instructions to create what is called a Pull Request. A Pull Request is suggested changes which will either by Approved or Denied by the owner of this repository. Follow the instructions carefully to ensure that your changes will be accepted
 
 - First you will need to create a GitHub account. 
-- Next you will have to click the [Fork Button](https://github.com/wosochart/TheWosoChart/fork) at the top.
+- Next you will have to click the [Fork Button](https://github.com/woso-enjoyer/TheWosoChart/fork) at the top.
 - Once you have forked a copy of the project into your account, you can edit the player's data by 
     1. opening `players.json` and clicking the ![Edit this file](readme-images/image.png) at the top of the page.
     2. After you have made your changes, select ![alt text](readme-images/image-1.png).
-    3. Finally go back to the [parent repository](https://github.com/wosochart/TheWosoChart) and select ![alt text](readme-images/image-2.png)
+    3. Finally go back to the [parent repository](https://github.com/woso-enjoyer/TheWosoChart) and select ![alt text](readme-images/image-2.png)
 
     The process is the same for editing `relationships.json`
 
