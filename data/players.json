@@ -6051,6 +6051,24 @@
             "id": "763",
             "label": "Carolin Albrecht",
             "group": "Nonplayer"
+        },
+        {
+            "id": "764",
+            "label": "Danielle de Jong",
+            "group": "The Netherlands",
+            "image": "DanielleDeJong.png",
+            "club": "Juventus",
+            "sofascore": 1093421,
+            "dateOfBirthTimestamp": 1034294400
+        },
+        {
+            "id": "765",
+            "label": "Esmee Brugts",
+            "group": "The Netherlands",
+            "image": "EsmeeBrugts.png",
+            "club": "FC Barcelona",
+            "sofascore": 1093419,
+            "dateOfBirthTimestamp": 1059350400
         }
     ]
 }
