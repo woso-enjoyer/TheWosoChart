@@ -32,7 +32,7 @@ const defaultOptions: Options = {
       springConstant: 0.18,
       centralGravity: 0.001, //springLength: 180, springConstant: 0.02, 
       damping: 0.09,
-      avoidOverlap: 0.9
+      avoidOverlap: 0.8 // is .9 better?
     },
     barnesHut: {
       theta: 0.7,
