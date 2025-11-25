@@ -6115,6 +6115,15 @@
             "id": "771",
             "label": "Emily Currey",
             "group": "Nonplayer"
+        },
+        {
+            "id": "772",
+            "label": "Jade Le Guilly",
+            "group": "France",
+            "image": "JadeLeGuilly.jpg",
+            "club": "PSG",
+            "sofascore": 1047645,
+            "dateOfBirthTimestamp": 1024358400
         }
     ]
 }
