@@ -31,7 +31,8 @@ const defaultOptions: Options = {
       springLength: 100,
       springConstant: 0.18,
       centralGravity: 0.001, //springLength: 180, springConstant: 0.02, 
-      damping: 0.09, avoidOverlap: 0.8
+      damping: 0.09,
+      avoidOverlap: 0.9
     },
     barnesHut: {
       theta: 0.7,
@@ -92,7 +93,7 @@ export const GraphComponent = forwardRef<GraphComponentHandle, {}>(({}, ref) => 
 
       if (!current) return
 
-      var options: FocusOptions = {
+      const options: FocusOptions = {
           scale: 1.0,
           offset: { x: 0, y: 0 },
           animation: {
