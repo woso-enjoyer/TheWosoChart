@@ -6151,6 +6151,15 @@
             "club": "Chicago",
             "sofascore": 1922840,
             "dateOfBirthTimestamp": 1001346431
+        },
+        {
+            "id": "776",
+            "label": "Laura Wienroither",
+            "group": "Austria",
+            "image": "LauraWienroither.jpg",
+            "club": "Man City",
+            "sofascore": 886414,
+            "dateOfBirthTimestamp": 916185600
         }
     ]
 }
