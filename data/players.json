@@ -6133,6 +6133,24 @@
             "club": "SD Eibar",
             "sofascore": 1523341,
             "dateOfBirthTimestamp": 1054857600
+        },
+        {
+            "id": "774",
+            "label": "Hal Hershfelt",
+            "group": "USA",
+            "image": "HalHershfelt.png",
+            "club": "Washington Spirit",
+            "sofascore": 1822837,
+            "dateOfBirthTimestamp": 1033603200
+        },
+        {
+            "id": "775",
+            "label": "Halle Mackiewicz",
+            "group": "USA",
+            "image": "HalleMackiewicz.png",
+            "club": "Chicago",
+            "sofascore": 1922840,
+            "dateOfBirthTimestamp": 1001346431
         }
     ]
 }
