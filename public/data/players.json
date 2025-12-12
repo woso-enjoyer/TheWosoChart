@@ -6178,6 +6178,20 @@
             "club": "Orlando Pride",
             "sofascore": 1177864,
             "dateOfBirthTimestamp": 917913600
+        },
+        {
+            "id": "779",
+            "label": "Penelope Hocking",
+            "group": "USA",
+            "image": "PenelopeHocking.jpg",
+            "club": "Bay FC",
+            "sofascore": 1481759,
+            "dateOfBirthTimestamp": 946425600
+        },
+        {
+            "id": "780",
+            "label": "Alex Calegari",
+            "group": "Nonplayer"
         }
     ]
 }
