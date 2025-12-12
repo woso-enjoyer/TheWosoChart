@@ -517,7 +517,7 @@
             "id": "58",
             "label": "Ingrid Engen",
             "group": "Norway",
-            "image": "IngridEngen.jpg",
+            "image": "IngridEngen.png",
             "sofascore": 836948,
             "dateOfBirthTimestamp": 893808000,
             "club": "Lyonnes"
@@ -571,7 +571,7 @@
             "id": "64",
             "label": "Mapi León",
             "group": "Spain",
-            "image": "MapiLeón.jpg",
+            "image": "MapiLeon.png",
             "sofascore": 824959,
             "dateOfBirthTimestamp": 803001600,
             "club": "FC Barcelona"
@@ -1033,7 +1033,7 @@
             "id": "116",
             "label": "Sam Kerr",
             "group": "Australia",
-            "image": "SamKerr.jpg",
+            "image": "SamKerr.png",
             "sofascore": 154933,
             "dateOfBirthTimestamp": 747619200,
             "club": "Chelsea"
@@ -1841,7 +1841,7 @@
             "id": "207",
             "label": "Viola Calligaris",
             "group": "Switzerland",
-            "image": "ViolaCalligaris.jpg",
+            "image": "ViolaCalligaris.png",
             "sofascore": 838487,
             "dateOfBirthTimestamp": 827020800,
             "club": "Juventus"
