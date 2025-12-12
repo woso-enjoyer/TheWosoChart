@@ -6192,6 +6192,15 @@
             "id": "780",
             "label": "Alex Calegari",
             "group": "Nonplayer"
+        },
+        {
+            "id": "781",
+            "label": "Norma Duarte Palafox",
+            "group": "Mexico",
+            "image": "NormaPalafox.png",
+            "club": "FC Juárez",
+            "sofascore": 1444749,
+            "dateOfBirthTimestamp": 908323200
         }
     ]
 }
