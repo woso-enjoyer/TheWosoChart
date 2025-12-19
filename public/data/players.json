@@ -6201,6 +6201,24 @@
             "club": "FC Juárez",
             "sofascore": 1444749,
             "dateOfBirthTimestamp": 908323200
+        },
+        {
+            "id": "782",
+            "label": "Jill Janssens",
+            "group": "Belgium",
+            "image": "JillJanssens.jpg",
+            "club": "Hoffenheim",
+            "sofascore": 1125348,
+            "dateOfBirthTimestamp": 1065139200
+        },
+        {
+            "id": "783",
+            "label": "Juliane Schmid",
+            "group": "Germany",
+            "image": "JulianeSchmid.jpg",
+            "club": "Hoffenheim",
+            "sofascore": 1198490,
+            "dateOfBirthTimestamp": 1089849600
         }
     ]
 }
