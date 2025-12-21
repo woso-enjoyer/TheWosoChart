@@ -654,7 +654,8 @@
             "group": "England",
             "image": "LiaCataldo.jpg",
             "sofascore": 1020554,
-            "dateOfBirthTimestamp": 981849600
+            "dateOfBirthTimestamp": 981849600,
+            "club": "Newcastle United"
         },
         {
             "id": "74",
