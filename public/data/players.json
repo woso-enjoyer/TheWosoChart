@@ -6251,6 +6251,20 @@
             "id": "787",
             "label": "Rebecca Fenney",
             "group": "Nonplayer"
+        },
+        {
+            "id": "788",
+            "label": "Mayra Ramirez",
+            "group": "Colombia",
+            "image": "MayraRamirez.jpg",
+            "club": "Chelsea",
+            "sofascore": 1005513,
+            "dateOfBirthTimestamp": 922147200
+        },
+        {
+            "id": "789",
+            "label": "Alejandra Garcia",
+            "group": "Nonplayer"
         }
     ]
 }
