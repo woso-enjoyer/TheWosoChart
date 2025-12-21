@@ -56,7 +56,7 @@
         {
             "id": "6",
             "label": "Sherida Spitse",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "SheridaSpitse.jpg",
             "sofascore": 80741,
             "dateOfBirthTimestamp": 643939200,
@@ -65,7 +65,7 @@
         {
             "id": "7",
             "label": "Stefanie van der Gragt",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "Stefanievan.jpg",
             "sofascore": 796526,
             "club": "Retired",
@@ -251,7 +251,7 @@
         {
             "id": "28",
             "label": "Vivianne Miedema",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "VivianneMiedema.jpg",
             "sofascore": 796534,
             "dateOfBirthTimestamp": 837388800,
@@ -457,7 +457,7 @@
         {
             "id": "51",
             "label": "Merel Van Dongen",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "MerelVan.jpg",
             "sofascore": 97141,
             "dateOfBirthTimestamp": 729388800,
@@ -834,7 +834,7 @@
         {
             "id": "94",
             "label": "Anouk Dekker",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "AnoukDekker.jpg",
             "sofascore": 111831,
             "club": "Retired",
@@ -1282,7 +1282,7 @@
         {
             "id": "144",
             "label": "Jacintha Weimar",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "JacinthaWeimar.jpg",
             "sofascore": 1389960,
             "dateOfBirthTimestamp": 897523200,
@@ -1380,7 +1380,7 @@
         {
             "id": "155",
             "label": "Sisca Folkertsma",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "SiscaFolkertsma.jpg",
             "sofascore": 886369,
             "dateOfBirthTimestamp": 864172800,
@@ -1885,7 +1885,7 @@
         {
             "id": "212",
             "label": "Shanice van de Sanden",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "Shanicevan.jpg",
             "sofascore": 80755,
             "dateOfBirthTimestamp": 717984000,
@@ -1948,7 +1948,7 @@
         {
             "id": "219",
             "label": "Daniëlle van de Donk",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "DeDonk.jpg",
             "sofascore": 181569,
             "dateOfBirthTimestamp": 681350400,
@@ -2047,7 +2047,7 @@
         {
             "id": "230",
             "label": "Kerstin Casparij",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "KerstinCasparij.jpg",
             "sofascore": 1135326,
             "dateOfBirthTimestamp": 966643200,
@@ -3463,7 +3463,7 @@
         {
             "id": "459",
             "label": "Laura Strik",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "LauraStrik.jpg",
             "sofascore": 1093409,
             "dateOfBirthTimestamp": 835833600,
@@ -3841,7 +3841,7 @@
         {
             "id": "502",
             "label": "Claudia van den Heiligenberg",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "Claudiavan.jpg",
             "club": "Retired",
             "dateOfBirthTimestamp": 480615202
@@ -4358,7 +4358,7 @@
         {
             "id": "563",
             "label": "Sari van Veenendaal",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "Sarivan.jpg",
             "sofascore": 183539,
             "club": "Retired",
@@ -5258,7 +5258,7 @@
         {
             "id": "664",
             "label": "Jill Roord",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "JillRoord.jpg",
             "sofascore": 231502,
             "dateOfBirthTimestamp": 861667200,
@@ -5303,7 +5303,7 @@
         {
             "id": "669",
             "label": "Lynn Wilms",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "LynnWilms.jpg",
             "sofascore": 997966,
             "dateOfBirthTimestamp": 970531200,
@@ -5725,7 +5725,7 @@
         {
             "id": "720",
             "label": "Victoria Pelova",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "VictoriaPelova.png",
             "sofascore": 944676,
             "dateOfBirthTimestamp": 928368000,
@@ -5917,7 +5917,7 @@
         {
             "id": "745",
             "label": "Damaris Egurrola",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "DamarisEgurrola.png",
             "club": "Lyonnes",
             "sofascore": 1008754,
@@ -6055,7 +6055,7 @@
         {
             "id": "764",
             "label": "Danielle de Jong",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "DanielleDeJong.png",
             "club": "Juventus",
             "sofascore": 1093421,
@@ -6064,7 +6064,7 @@
         {
             "id": "765",
             "label": "Esmee Brugts",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "EsmeeBrugts.png",
             "club": "FC Barcelona",
             "sofascore": 1093419,
@@ -6073,7 +6073,7 @@
         {
             "id": "766",
             "label": "Ilse van der Zanden",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "IlseVanDerZanden.png",
             "club": "Fiorentina",
             "sofascore": 1530652,
@@ -6082,7 +6082,7 @@
         {
             "id": "767",
             "label": "Joëlle de Bondt",
-            "group": "The Netherlands",
+            "group": "Netherlands",
             "image": "JoelleDeBondt.png",
             "club": "ADO Den Haag",
             "sofascore": 2288656,
