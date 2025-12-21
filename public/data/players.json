@@ -6271,6 +6271,20 @@
             "id": "790",
             "label": "Geral Matallana",
             "group": "Nonplayer"
+        },
+        {
+            "id": "791",
+            "label": "Andrea Medina",
+            "group": "Spain",
+            "image": "AndreaMedina.jpg",
+            "club": "Atlético de Madrid",
+            "sofascore": 1017227,
+            "dateOfBirthTimestamp": 1084233600
+        },
+        {
+            "id": "792",
+            "label": "Virginia Diaz",
+            "group": "Nonplayer"
         }
     ]
 }
