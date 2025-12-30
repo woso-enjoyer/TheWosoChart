@@ -6285,6 +6285,24 @@
             "id": "792",
             "label": "Virginia Diaz",
             "group": "Nonplayer"
+        },
+        {
+            "id": "793",
+            "label": "Emma Koivisto",
+            "group": "Finland",
+            "image": "EmmaKoivisto.jpg",
+            "club": "Milan",
+            "sofascore": 114563,
+            "dateOfBirthTimestamp": 780451200
+        },
+        {
+            "id": "794",
+            "label": "Anna Auvinen",
+            "group": "Finland",
+            "image": "AnnaAuvinen.jpg",
+            "club": "Retired",
+            "sofascore": 923192,
+            "dateOfBirthTimestamp": 541641600
         }
     ]
 }
