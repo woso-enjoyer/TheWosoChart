@@ -6303,6 +6303,11 @@
             "club": "Retired",
             "sofascore": 923192,
             "dateOfBirthTimestamp": 541641600
+        },
+        {
+            "id": "795",
+            "label": "Ingrid Nilsen",
+            "group": "Nonplayer"
         }
     ]
 }
