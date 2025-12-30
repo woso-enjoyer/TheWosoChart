@@ -2079,12 +2079,12 @@
         },
         {
             "id": "234",
-            "label": "Yui Hasegawa",
-            "group": "Japan",
-            "image": "YuiHasegawa.jpg",
-            "sofascore": 861352,
-            "dateOfBirthTimestamp": 854496000,
-            "club": "Man City"
+            "label": "Emma Koivisto",
+            "group": "Finland",
+            "image": "EmmaKoivisto.jpg",
+            "club": "Milan",
+            "sofascore": 114563,
+            "dateOfBirthTimestamp": 780451200
         },
         {
             "id": "235",
@@ -3654,14 +3654,14 @@
             "club": "Retired",
             "dateOfBirthTimestamp": 646531200
         },
-        {
+         {
             "id": "481",
-            "label": "Mana Iwabuchi",
-            "group": "Japan",
-            "image": "ManaIwabuchi.jpg",
-            "sofascore": 121498,
+            "label": "Anna Auvinen",
+            "group": "Finland",
+            "image": "AnnaAuvinen.jpg",
             "club": "Retired",
-            "dateOfBirthTimestamp": 732412800
+            "sofascore": 923192,
+            "dateOfBirthTimestamp": 541641600
         },
         {
             "id": "482",
@@ -6288,24 +6288,6 @@
         },
         {
             "id": "793",
-            "label": "Emma Koivisto",
-            "group": "Finland",
-            "image": "EmmaKoivisto.jpg",
-            "club": "Milan",
-            "sofascore": 114563,
-            "dateOfBirthTimestamp": 780451200
-        },
-        {
-            "id": "794",
-            "label": "Anna Auvinen",
-            "group": "Finland",
-            "image": "AnnaAuvinen.jpg",
-            "club": "Retired",
-            "sofascore": 923192,
-            "dateOfBirthTimestamp": 541641600
-        },
-        {
-            "id": "795",
             "label": "Ingrid Nilsen",
             "group": "Nonplayer"
         }
