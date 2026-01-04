@@ -21,6 +21,19 @@ export const PlayerComponent = () => {
     dispatch(setSelectedPlayer(other))
   }
 
+  const calculateAge = (dateOfBirthTimestamp: number) => {
+    const today = new Date();
+    const birthday =  new Date(dateOfBirthTimestamp * 1000);
+    let age = today.getUTCFullYear() - birthday.getUTCFullYear()
+
+    const m = today.getMonth() - birthday.getMonth();
+    if (m < 0 || (m === 0 && today.getDate() < birthday.getDate())) {
+      age--;
+    }
+
+    return age;
+  }
+
   const connections = useMemo(() => {
     if (!player) return [];
 
@@ -71,7 +84,7 @@ export const PlayerComponent = () => {
                   <>
                   <p><strong>Country:</strong> {player.group}</p>
                   <p><strong>Club:</strong> {player.club ?? 'Unknown'}</p>
-                  <p><strong>Age:</strong> {player.dateOfBirthTimestamp ? new Date().getUTCFullYear() - new Date(player.dateOfBirthTimestamp * 1000).getUTCFullYear() : 'Unknown'}</p>
+                  <p><strong>Age:</strong> {player.dateOfBirthTimestamp ? calculateAge(player.dateOfBirthTimestamp) : 'Unknown'}</p>
                   </>
                 )}
                 { player.group === 'Nonplayer' && (
