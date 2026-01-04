@@ -26,7 +26,7 @@ export const PlayerComponent = () => {
     const birthday =  new Date(dateOfBirthTimestamp * 1000);
     let age = today.getUTCFullYear() - birthday.getUTCFullYear()
 
-    const m = today.getMonth() - birthday.getMonth();
+    const m = today.getUTCMonth() - birthday.getUTCMonth();
     if (m < 0 || (m === 0 && today.getDate() < birthday.getDate())) {
       age--;
     }
