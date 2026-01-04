@@ -6299,6 +6299,20 @@
             "club": "Real Madrid",
             "sofascore": 1083806,
             "dateOfBirthTimestamp": 986860800
+        },
+        {
+            "id": "795",
+            "label": "Avery Patterson",
+            "group": "USA",
+            "image": "AveryPatterson.jpg",
+            "club": "Houston Dash",
+            "sofascore": 1821297,
+            "dateOfBirthTimestamp": 1024012800
+        },
+        {
+            "id": "796",
+            "label": "Shadan Bankston",
+            "group": "Nonplayer"
         }
     ]
 }
