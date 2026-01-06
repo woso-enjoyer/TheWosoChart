@@ -6313,6 +6313,24 @@
             "id": "796",
             "label": "Shadan Bankston",
             "group": "Nonplayer"
+        },
+        {
+            "id": "797",
+            "label": "Alina Axtmann",
+            "group": "Germany",
+            "image": "AlinaAxtmann.jpg",
+            "club": "Freiburg",
+            "sofascore": 1489492,
+            "dateOfBirthTimestamp": 1119657600
+        },
+        {
+            "id": "798",
+            "label": "Feli Delacauw",
+            "group": "Belgium",
+            "image": "FeliDelacauw.jpg",
+            "club": "Hoffenheim",
+            "sofascore": 1103767,
+            "dateOfBirthTimestamp": 1017878400
         }
     ]
 }
