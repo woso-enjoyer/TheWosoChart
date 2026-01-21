@@ -6381,6 +6381,24 @@
             "club": "Palmeiras",
             "sofascore": 1009500,
             "dateOfBirthTimestamp": 875318400
+        },
+        {
+            "id": "805",
+            "label": "Samantha Meza",
+            "group": "USA",
+            "image": "SamanthaMeza.jpg",
+            "club": "Seattle Reign",
+            "sofascore": 1653785,
+            "dateOfBirthTimestamp": 1005091200
+        },
+        {
+            "id": "806",
+            "label": "Alexandra Kimball",
+            "group": "Peru",
+            "club": "Retired",
+            "image": "AlexandraKimball.jpg",
+            "sofascore": 1388751,
+            "dateOfBirthTimestamp": 811697164
         }
     ]
 }
