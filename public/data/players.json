@@ -6331,6 +6331,24 @@
             "club": "Hoffenheim",
             "sofascore": 1103767,
             "dateOfBirthTimestamp": 1017878400
+        },
+        {
+            "id": "799",
+            "label": "Shannon McGregor",
+            "group": "Scotland",
+            "image": "ShannonMcGregor.jpg",
+            "club": "Celtic LFC",
+            "sofascore": 995815,
+            "dateOfBirthTimestamp": 944524800
+        },
+        {
+            "id": "800",
+            "label": "Siobhan Hunter",
+            "group": "Scotland",
+            "image": "SiobhanHunter.jpg",
+            "club": "Hibernian WFC",
+            "sofascore": 863050,
+            "dateOfBirthTimestamp": 765936000
         }
     ]
 }
