@@ -6363,6 +6363,24 @@
             "id": "802",
             "label": "Sarah Hernandez",
             "group": "Nonplayer"
+        },
+        {
+            "id": "803",
+            "label": "Bia Menezes",
+            "group": "Brazil",
+            "image": "BiaMenezes.jpg",
+            "club": "São Paulo",
+            "sofascore": 1024136,
+            "dateOfBirthTimestamp": 867196800
+        },
+        {
+            "id": "804",
+            "label": "Natascha Honegger",
+            "group": "Brazil",
+            "image": "NataschaHonegger.jpg",
+            "club": "Palmeiras",
+            "sofascore": 1009500,
+            "dateOfBirthTimestamp": 875318400
         }
     ]
 }
