@@ -6417,6 +6417,20 @@
             "club": "Juventus",
             "sofascore": 1385763,
             "dateOfBirthTimestamp": 924307200
+        },
+        {
+            "id": "809",
+            "label": "Aurelie Csillag",
+            "group": "Switzerland",
+            "image": "AurelieCsillag.jpg",
+            "club": "Liverpool",
+            "sofascore": 1486279,
+            "dateOfBirthTimestamp": 1043366400
+        },
+        {
+            "id": "810",
+            "label": "Lilly Nägeli",
+            "group": "Nonplayer"
         }
     ]
 }
