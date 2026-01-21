@@ -6399,6 +6399,24 @@
             "image": "AlexandraKimball.jpg",
             "sofascore": 1388751,
             "dateOfBirthTimestamp": 811697164
+        },
+        {
+            "id": "807",
+            "label": "Leah Lewis",
+            "group": "USA",
+            "club": "Braga",
+            "image": "LeahLewis.jpg",
+            "sofascore": 1998688,
+            "dateOfBirthTimestamp": 901152000
+        },
+        {
+            "id": "808",
+            "label": "Lysianne Proulx",
+            "group": "Canada",
+            "image": "LysianneProulx.png",
+            "club": "Juventus",
+            "sofascore": 1385763,
+            "dateOfBirthTimestamp": 924307200
         }
     ]
 }
