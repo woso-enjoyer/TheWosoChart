@@ -6431,6 +6431,11 @@
             "id": "810",
             "label": "Lilly Nägeli",
             "group": "Nonplayer"
+        },
+        {
+            "id": "811",
+            "label": "Sara Rios",
+            "group": "Nonplayer"
         }
     ]
 }
