@@ -6436,6 +6436,20 @@
             "id": "811",
             "label": "Sara Rios",
             "group": "Nonplayer"
+        },
+        {
+            "id": "812",
+            "label": "Catalina Coll",
+            "group": "Spain",
+            "image": "CataColl.jpg",
+            "club": "FC Barcelona",
+            "sofascore": 1009105,
+            "dateOfBirthTimestamp": 987984000
+        },
+        {
+            "id": "813",
+            "label": "Julia Vidal",
+            "group": "Nonplayer"
         }
     ]
 }
