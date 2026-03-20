@@ -6450,6 +6450,23 @@
             "id": "813",
             "label": "Julia Vidal",
             "group": "Nonplayer"
+        },
+        {
+            "id": "814",
+            "label": "Georgia Hensman",
+            "group": "Australia",
+            "image": "GeorgiaHensman.jpg",
+            "club": "Retired",
+            "sofascore": 1096327,
+            "dateOfBirthTimestamp": 762048000
+        },
+        {
+            "id": "815",
+            "label": "Kate Hensman",
+            "group": "Australia",
+            "image": "KateHensman.jpg",
+            "club": "Retired",
+            "dateOfBirthTimestamp": 360909727
         }
     ]
 }
