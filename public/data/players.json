@@ -6494,6 +6494,14 @@
             "club": "Frankfurt",
             "sofascore": 1006549,
             "dateOfBirthTimestamp": 984873600
+        },
+        {
+            "id": "819",
+            "label": "Jara Al-Ahmad",
+            "group": "Germany",
+            "image": "JaraAlAhmad.jpg",
+            "club": "PSV GW Hildesheim",
+            "dateOfBirthTimestamp": 803048438
         }
     ]
 }
