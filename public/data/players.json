@@ -6467,6 +6467,24 @@
             "image": "KateHensman.jpg",
             "club": "Retired",
             "dateOfBirthTimestamp": 360909727
+        },
+        {
+            "id": "816",
+            "label": "Nicky Evrard",
+            "group": "Belgium",
+            "image": "NickyEvrard.jpg",
+            "club": "PSV",
+            "sofascore": 869374,
+            "dateOfBirthTimestamp": 801446400
+        },
+        {
+            "id": "817",
+            "label": "Shari Van Belle",
+            "group": "Belgium",
+            "image": "ShariVanBelle.jpg",
+            "club": "SGS Essen",
+            "sofascore": 973691,
+            "dateOfBirthTimestamp": 945820800
         }
     ]
 }
