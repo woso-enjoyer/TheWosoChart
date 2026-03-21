@@ -6485,6 +6485,15 @@
             "club": "SGS Essen",
             "sofascore": 973691,
             "dateOfBirthTimestamp": 945820800
+        },
+        {
+            "id": "818",
+            "label": "Marthine Østenstad",
+            "group": "Norway",
+            "image": "MarthineOstenstad.jpg",
+            "club": "Frankfurt",
+            "sofascore": 1006549,
+            "dateOfBirthTimestamp": 984873600
         }
     ]
 }
