@@ -6548,6 +6548,23 @@
             "id": "825",
             "label": "Lily Crowell",
             "group": "Nonplayer"
+        },
+        {
+            "id": "826",
+            "label": "Gianna Paul",
+            "group": "USA",
+            "image": "GiannaPaul.jpg",
+            "club": "Kansas City",
+            "dateOfBirthTimestamp": 1104192000,
+            "sofascore": 2250065
+        },
+        {
+            "id": "827",
+            "label": "Maya Buhler",
+            "group": "USA",
+            "club": "Mercer Bears",
+            "image": "MayaBuhler.jpg",
+            "sofascore": 2249396
         }
     ]
 }
