@@ -6565,6 +6565,20 @@
             "club": "Mercer Bears",
             "image": "MayaBuhler.jpg",
             "sofascore": 2249396
+        },
+        {
+            "id": "828",
+            "label": "Shelby Hogan",
+            "group": "USA",
+            "club": "Gotham",
+            "image": "ShelbyHogan.jpg",
+            "dateOfBirthTimestamp": 894758400,
+            "sofascore": 1115735
+        },
+        {
+            "id": "829",
+            "label": "Claire Gransee",
+            "group": "Nonplayer"
         }
     ]
 }
