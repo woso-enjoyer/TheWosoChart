@@ -2120,7 +2120,7 @@
             "image": "LucyStaniforth.jpg",
             "sofascore": 950461,
             "dateOfBirthTimestamp": 717984000,
-            "club": "Aston Villa"
+            "club": "Retired"
         },
         {
             "id": "239",
@@ -6510,7 +6510,16 @@
             "image": "MiaJustus.jpg",
             "club": "Utah Royals",
             "dateOfBirthTimestamp": 1031057570,
-            "sofascore": "1395319"
+            "sofascore": 1395319
+        },
+        {
+            "id": "821",
+            "label": "Anna Patten",
+            "group": "Ireland",
+            "image": "AnnaPatten.jpg",
+            "club": "Aston Villa",
+            "dateOfBirthTimestamp": 924566400,
+            "sofascore": 994499
         }
     ]
 }
