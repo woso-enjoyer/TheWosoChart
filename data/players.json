@@ -6534,6 +6534,20 @@
             "id": "823",
             "label": "Barbora Mlejnková",
             "group": "Nonplayer"
+        },
+        {
+            "id": "824",
+            "label": "Ryan Campbell",
+            "group": "USA",
+            "image": "RyanCampbell.jpg",
+            "club": "Gotham",
+            "dateOfBirthTimestamp": 1016409600,
+            "sofascore": 2042628
+        },
+        {
+            "id": "825",
+            "label": "Lily Crowell",
+            "group": "Nonplayer"
         }
     ]
 }
