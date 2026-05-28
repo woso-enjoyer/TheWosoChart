@@ -1073,7 +1073,7 @@
             "image": "EllaStevens.jpg",
             "sofascore": 1034189,
             "dateOfBirthTimestamp": 881798400,
-            "club": "Gotham"
+            "club": "Boston Legacy"
         },
         {
             "id": "121",
@@ -6502,6 +6502,15 @@
             "image": "JaraAlAhmad.jpg",
             "club": "PSV GW Hildesheim",
             "dateOfBirthTimestamp": 803048438
+        },
+        {
+            "id": "820",
+            "label": "Mia Justus",
+            "group": "USA",
+            "image": "MiaJustus.jpg",
+            "club": "Utah Royals",
+            "dateOfBirthTimestamp": 1031057570,
+            "sofascore": "1395319"
         }
     ]
 }
