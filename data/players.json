@@ -2405,8 +2405,12 @@
         },
         {
             "id": "276",
-            "label": "AFLW player",
-            "group": "Nonplayer"
+            "label": "Reilyn Turner",
+            "group": "USA",
+            "image": "ReilynTurner.jpg",
+            "club": "Portland Thorns",
+            "sofascore": 1821126,
+            "dateOfBirthTimestamp": 1034899200
         },
         {
             "id": "277",
