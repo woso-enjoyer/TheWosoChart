@@ -6592,6 +6592,24 @@
             "club": "Portsmouth",
             "sofascore": 1593321,
             "dateOfBirthTimestamp": 954028800
+        },
+        {
+            "id": "831",
+            "label": "Grace Neville",
+            "group": "New Zealand",
+            "image": "GraceNeville.jpg",
+            "club": "Ipswich Town",
+            "sofascore": 1090629,
+            "dateOfBirthTimestamp": 955238400
+        },
+        {
+            "id": "832",
+            "label": "Shanade Hopcroft",
+            "group": "England",
+            "image": "ShanadeHopcroft.jpg",
+            "club": "Birmingham",
+            "sofascore": 1413674,
+            "dateOfBirthTimestamp": 876025422
         }
     ]
 }
