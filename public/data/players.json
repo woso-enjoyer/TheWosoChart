@@ -6583,6 +6583,15 @@
             "id": "829",
             "label": "Claire Gransee",
             "group": "Nonplayer"
+        },
+        {
+            "id": "830",
+            "label": "Ava Rowbotham",
+            "group": "England",
+            "image": "AvaRowbotham.jpg",
+            "club": "Portsmouth",
+            "sofascore": 1593321,
+            "dateOfBirthTimestamp": 954028800
         }
     ]
 }
