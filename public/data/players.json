@@ -6628,6 +6628,20 @@
             "club": "Tigres UANL",
             "sofascore": 1104110,
             "dateOfBirthTimestamp": 1012435200
+        },
+        {
+            "id": "835",
+            "label": "Mary Earps",
+            "group": "England",
+            "image": "MaryEarps.jpg",
+            "club": "PSG",
+            "sofascore": 95911,
+            "dateOfBirthTimestamp": 731462400
+        },
+        {
+            "id": "836",
+            "label": "Kitty Forrest",
+            "group": "Nonplayer"
         }
     ]
 }
