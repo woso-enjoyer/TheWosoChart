@@ -6660,6 +6660,24 @@
             "club": "Milan",
             "sofascore": 1093411,
             "dateOfBirthTimestamp": 884044800
+        },
+        {
+            "id": "839",
+            "label": "Karoline Olesen",
+            "group": "Denmark",
+            "image": "KarolineOlesen.jpg",
+            "club": "Malmo FF",
+            "sofascore": 1397037,
+            "dateOfBirthTimestamp": 1107388800
+        },
+        {
+            "id": "840",
+            "label": "Miljana Ivanović",
+            "group": "Serbia",
+            "image": "MiljanaIvanovic.jpg",
+            "club": "Malmo FF",
+            "sofascore": 1067125,
+            "dateOfBirthTimestamp": 958521600
         }
     ]
 }
