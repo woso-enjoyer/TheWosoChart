@@ -6642,6 +6642,24 @@
             "id": "836",
             "label": "Kitty Forrest",
             "group": "Nonplayer"
+        },
+        {
+            "id": "837",
+            "label": "Milicia Keijzer",
+            "group": "Netherlands",
+            "image": "MiliciaKeijzer.jpg",
+            "club": "Milan",
+            "sofascore": 1162081,
+            "dateOfBirthTimestamp": 1050278400
+        },
+        {
+            "id": "838",
+            "label": "Kay-Lee de Sanders",
+            "group": "Netherlands",
+            "image": "KayleeDeSanders.jpg",
+            "club": "Milan",
+            "sofascore": 1093411,
+            "dateOfBirthTimestamp": 884044800
         }
     ]
 }
