@@ -219,7 +219,7 @@
             "image": "KatieMcCabe.jpg",
             "sofascore": 138357,
             "dateOfBirthTimestamp": 811641600,
-            "club": "Arsenal"
+            "club": "Chelsea"
         },
         {
             "id": "25",
@@ -502,7 +502,7 @@
             "image": "AnaCrnogorcevic.jpg",
             "sofascore": 68296,
             "dateOfBirthTimestamp": 654912000,
-            "club": "Seattle Reign"
+            "club": "Strasbourg"
         },
         {
             "id": "57",
@@ -1809,7 +1809,7 @@
             "image": "CourtneyNevin.jpg",
             "sofascore": 1006214,
             "dateOfBirthTimestamp": 1013472000,
-            "club": "Leicester "
+            "club": "Malmo FF"
         },
         {
             "id": "204",
@@ -1818,7 +1818,7 @@
             "image": "AbbieMcManus.jpg",
             "sofascore": 877165,
             "dateOfBirthTimestamp": 726969600,
-            "club": "Leicester "
+            "club": "Leicester"
         },
         {
             "id": "205",
@@ -1827,7 +1827,7 @@
             "image": "JaniceCayman.jpg",
             "sofascore": 155559,
             "dateOfBirthTimestamp": 592617600,
-            "club": "Leicester "
+            "club": "PSV"
         },
         {
             "id": "206",
@@ -2129,7 +2129,7 @@
             "image": "MarthaThomas.jpg",
             "sofascore": 1007278,
             "dateOfBirthTimestamp": 833500800,
-            "club": "Tottenham"
+            "club": "Liverpool"
         },
         {
             "id": "240",
@@ -4617,7 +4617,7 @@
             "image": "Emilyvan.jpg",
             "sofascore": 154930,
             "dateOfBirthTimestamp": 742435200,
-            "club": "Leicester "
+            "club": "Leicester"
         },
         {
             "id": "592",
@@ -4626,7 +4626,7 @@
             "image": "KailenSheridan.jpg",
             "sofascore": 974079,
             "dateOfBirthTimestamp": 805852800,
-            "club": "San Diego Wave"
+            "club": "NC Courage"
         },
         {
             "id": "593",
@@ -4635,7 +4635,7 @@
             "image": "SelinaWagner.jpg",
             "sofascore": 68266,
             "dateOfBirthTimestamp": 655171200,
-            "club": "Sand"
+            "club": "Retired"
         },
         {
             "id": "594",
@@ -4796,7 +4796,7 @@
             "image": "CharlotteMclean.jpg",
             "sofascore": 1096322,
             "dateOfBirthTimestamp": 951868800,
-            "club": "NC Courage"
+            "club": "Sydney FC"
         },
         {
             "id": "612",
@@ -4929,7 +4929,7 @@
             "image": "RosellaAyane.jpg",
             "sofascore": 822916,
             "dateOfBirthTimestamp": 826934400,
-            "club": "Leicester "
+            "club": "Leicester"
         },
         {
             "id": "627",
@@ -5980,7 +5980,7 @@
             "label": "Ashleigh Neville",
             "group": "England",
             "image": "AshNeville.jpg",
-            "club": "Tottenham",
+            "club": "Leicester",
             "sofascore": 1007355,
             "dateOfBirthTimestamp": 736041600
         },
