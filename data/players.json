@@ -6692,6 +6692,15 @@
             "id": "842",
             "label": "Linda Caprara",
             "group": "Nonplayer"
+        },
+        {
+            "id": "843",
+            "label": "Drew Spence",
+            "group": "Jamaica",
+            "image": "DrewSpence.jpg",
+            "club": "Tottenham",
+            "sofascore": 822920,
+            "dateOfBirthTimestamp": 719798400
         }
     ]
 }
