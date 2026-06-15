@@ -6701,6 +6701,20 @@
             "club": "Tottenham",
             "sofascore": 822920,
             "dateOfBirthTimestamp": 719798400
+        },
+        {
+            "id": "844",
+            "label": "Annamaria Serturini",
+            "group": "Italy",
+            "image": "AnnamariaSerturini.jpg",
+            "club": "Inter",
+            "sofascore": 985564,
+            "dateOfBirthTimestamp": 895017600
+        },
+        {
+            "id": "845",
+            "label": "Giulia Rossi",
+            "group":"Nonplayer"
         }
     ]
 }
