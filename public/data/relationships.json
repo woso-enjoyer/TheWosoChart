@@ -2928,12 +2928,17 @@
         {
             "from": "841",
             "to": "842",
-            "label": "gf"
+            "label": "Gf"
         },
         {
             "from": "843",
             "to": "244",
             "label": "Rumor"
+        },
+        {
+            "from": "844",
+            "to": "845",
+            "label": "Wife"
         }
     ]
 }
