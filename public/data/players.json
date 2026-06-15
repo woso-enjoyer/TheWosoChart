@@ -6729,6 +6729,24 @@
             "id": "847",
             "label": "Nora Rieke",
             "group": "Nonplayer"
+        },
+        {
+            "id": "848",
+            "label": "Elisa Bartoli",
+            "group": "Italy",
+            "image": "ElisaBartoli.jpg",
+            "club": "Inter",
+            "sofascore": 92090,
+            "dateOfBirthTimestamp": 673574400
+        },
+        {
+            "id": "849",
+            "label": "Lucia Di Guglielmo",
+            "group": "Italy",
+            "image": "LuciaDiGuglielmo.jpg",
+            "club": "Washington Spirit",
+            "sofascore": 1388825,
+            "dateOfBirthTimestamp": 867283200
         }
     ]
 }
