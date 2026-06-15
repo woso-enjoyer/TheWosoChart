@@ -6715,6 +6715,20 @@
             "id": "845",
             "label": "Giulia Rossi",
             "group":"Nonplayer"
+        },
+        {
+            "id": "846",
+            "label": "Annalena Rieke",
+            "group": "Germany",
+            "image": "AnnalenaRieke.jpg",
+            "club": "Roma",
+            "sofascore": 1031004,
+            "dateOfBirthTimestamp": 915926400
+        },
+        {
+            "id": "847",
+            "label": "Nora Rieke",
+            "group": "Nonplayer"
         }
     ]
 }
