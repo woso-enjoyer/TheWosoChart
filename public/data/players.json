@@ -6678,6 +6678,20 @@
             "club": "Malmo FF",
             "sofascore": 1067125,
             "dateOfBirthTimestamp": 958521600
+        },
+        {
+            "id": "841",
+            "label": "Erika Santoro",
+            "group": "Italy",
+            "image": "ErikaSantoro.jpg",
+            "club": "Sassuolo",
+            "sofascore": 1007136,
+            "dateOfBirthTimestamp": 936316800
+        },
+        {
+            "id": "842",
+            "label": "Linda Caprara",
+            "group": "Nonplayer"
         }
     ]
 }
