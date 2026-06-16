@@ -6747,6 +6747,24 @@
             "club": "Washington Spirit",
             "sofascore": 1388825,
             "dateOfBirthTimestamp": 867283200
+        },
+        {
+            "id": "850",
+            "label": "Katja Orschmann",
+            "group": "Germany",
+            "image": "KatjaOrschmann.jpg",
+            "club": "Union Berlin",
+            "sofascore": 2216098,
+            "dateOfBirthTimestamp": 884217600
+        },
+        {
+            "id": "851",
+            "label": "Athanasia Moraitou",
+            "group": "Greece",
+            "image": "AthanasiaMoraitou.png",
+            "club": "Union Berlin",
+            "sofascore": 1004364,
+            "dateOfBirthTimestamp": 859939200
         }
     ]
 }
