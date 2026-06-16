@@ -192,7 +192,7 @@
             "image": "BethMead.jpg",
             "sofascore": 137258,
             "dateOfBirthTimestamp": 799977600,
-            "club": "Arsenal"
+            "club": "Man City"
         },
         {
             "id": "22",
@@ -246,7 +246,7 @@
             "image": "ManuelaZinsberger.jpg",
             "sofascore": 863094,
             "dateOfBirthTimestamp": 814060800,
-            "club": "Arsenal"
+            "club": "Borussia Dortmund"
         },
         {
             "id": "28",
@@ -1430,7 +1430,7 @@
             "image": "MaitaneLopez.jpg",
             "sofascore": 1009000,
             "dateOfBirthTimestamp": 795052800,
-            "club": "Chicago"
+            "club": "Chicago Stars"
         },
         {
             "id": "161",
@@ -2070,7 +2070,7 @@
             "image": "LeilaOuahabi.jpg",
             "sofascore": 838441,
             "dateOfBirthTimestamp": 732672000,
-            "club": "Man City"
+            "club": "Chicago Stars"
         },
         {
             "id": "233",
@@ -2165,7 +2165,7 @@
             "image": "SandraPanos.jpg",
             "sofascore": 797138,
             "dateOfBirthTimestamp": 720835200,
-            "club": "América"
+            "club": "San Diego Wave"
         },
         {
             "id": "244",
@@ -5489,7 +5489,7 @@
             "image": "EllaRutherford.jpg",
             "sofascore": 1020560,
             "dateOfBirthTimestamp": 956880000,
-            "club": "Portsmouth"
+            "club": "Retired"
         },
         {
             "id": "691",
@@ -5906,7 +5906,7 @@
             "label": "Alex Popp",
             "group": "Germany",
             "image": "AlexPopp.png",
-            "club": "Wolfsburg",
+            "club": "Borussia Dortmund",
             "sofascore": 68256,
             "dateOfBirthTimestamp": 670896000
         },
@@ -6153,7 +6153,7 @@
             "label": "Halle Mackiewicz",
             "group": "USA",
             "image": "HalleMackiewicz.png",
-            "club": "Chicago",
+            "club": "Chicago Stars",
             "sofascore": 1922840,
             "dateOfBirthTimestamp": 1001346431
         },
@@ -6239,7 +6239,7 @@
             "label":"Sam Staab",
             "group": "USA",
             "image": "SamStaab.jpg",
-            "club": "Chicago",
+            "club": "Chicago Stars",
             "sofascore": 1006212,
             "dateOfBirthTimestamp": 859507200
         },
