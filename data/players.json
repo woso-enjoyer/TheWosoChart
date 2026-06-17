@@ -6797,6 +6797,20 @@
             "image": "LaurenBruton.jpg",
             "sofascore": 937362,
             "dateOfBirthTimestamp": 722390400
+        },
+        {
+            "id": "856",
+            "label": "Emily Westwood",
+            "group": "England",
+            "image": "EmilyWestwood.jpg",
+            "club": "Retired",
+            "sofascore": 71868,
+            "dateOfBirthTimestamp": 449971200
+        },
+        {
+            "id": "857",
+            "label": "Heather Cowan",
+            "group": "Nonplayer"
         }
     ]
 }
