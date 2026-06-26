@@ -41,6 +41,7 @@
             "label": "Nina Stapelfeldt",
             "group": "Switzerland",
             "image": "NinaStapelfeldt.jpg",
+            "club": "Sedriano",
             "sofascore": 187741,
             "dateOfBirthTimestamp": 797731200
         },
@@ -1535,7 +1536,7 @@
             "image": "GloriaMarinelli.jpg",
             "sofascore": 1000079,
             "dateOfBirthTimestamp": 889660800,
-            "club": "Milan"
+            "club": "Servette FCCF"
         },
         {
             "id": "173",
