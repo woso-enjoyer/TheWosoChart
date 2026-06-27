@@ -6845,6 +6845,20 @@
             "id": "862",
             "label": "Carlota Castellanos",
             "group": "Nonplayer"
+        },
+        {
+            "id": "863",
+            "label": "Nicki Hernandez",
+            "group": "Mexico",
+            "image": "NickiHernandez.jpg",
+            "club": "Boston Legacy",
+            "sofascore": 1416988,
+            "dateOfBirthTimestamp": 919209600
+        },
+        {
+            "id": "864",
+            "label": "Nat Cruz",
+            "group": "Nonplayer"
         }
     ]
 }
