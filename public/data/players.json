@@ -492,6 +492,7 @@
             "label": "Alexia Putellas",
             "group": "Spain",
             "image": "AlexiaPutellas.jpg",
+            "club": "London City Lioness",
             "sofascore": 98110,
             "dateOfBirthTimestamp": 760320000
         },
@@ -572,6 +573,7 @@
             "label": "Mapi León",
             "group": "Spain",
             "image": "MapiLeon.png",
+            "club": "London City Lioness",
             "sofascore": 824959,
             "dateOfBirthTimestamp": 803001600
         },
