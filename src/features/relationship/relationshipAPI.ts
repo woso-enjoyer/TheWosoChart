@@ -10,7 +10,7 @@ export const fetchRelationships = async (): Promise<Relationship[]> => {
   return sanitizeRelationshipData(relationships)
 }
 
-const labelColorMap: Record<string, string> = { "Gf": "6aa84f", "Rumor": "ab57ff", "Ex": "ff0000", "Wife": "9cc2e5"}
+const labelColorMap: Record<string, string> = { "Gf": "6aa84f", "Rumor": "ab57ff", "Ex": "ff0000", "Wife": "4C60F0", "Fiancée": "9cc2e5"}
 
 export const sanitizeRelationshipData = (data: Relationship[]): Relationship[] => {
     data.forEach((element, index) => {
