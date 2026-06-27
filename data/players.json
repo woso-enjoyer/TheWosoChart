@@ -492,9 +492,9 @@
             "label": "Alexia Putellas",
             "group": "Spain",
             "image": "AlexiaPutellas.jpg",
+            "club": "London City Lioness",
             "sofascore": 98110,
-            "dateOfBirthTimestamp": 760320000,
-            "club": "FC Barcelona"
+            "dateOfBirthTimestamp": 760320000
         },
         {
             "id": "56",
@@ -573,9 +573,9 @@
             "label": "Mapi León",
             "group": "Spain",
             "image": "MapiLeon.png",
+            "club": "London City Lioness",
             "sofascore": 824959,
-            "dateOfBirthTimestamp": 803001600,
-            "club": "FC Barcelona"
+            "dateOfBirthTimestamp": 803001600
         },
         {
             "id": "65",
@@ -2200,8 +2200,7 @@
             "group": "Spain",
             "image": "OnaBatlle.jpg",
             "sofascore": 985242,
-            "dateOfBirthTimestamp": 928972800,
-            "club": "FC Barcelona"
+            "dateOfBirthTimestamp": 928972800
         },
         {
             "id": "248",
@@ -3602,8 +3601,7 @@
             "group": "Spain",
             "image": "MisaRodriguez.jpg",
             "sofascore": 1142111,
-            "dateOfBirthTimestamp": 932601600,
-            "club": "Real Madrid"
+            "dateOfBirthTimestamp": 932601600
         },
         {
             "id": "475",
@@ -3620,8 +3618,7 @@
             "group": "Spain",
             "image": "TeresaAbelleira.jpg",
             "sofascore": 1008808,
-            "dateOfBirthTimestamp": 947376000,
-            "club": "Real Madrid"
+            "dateOfBirthTimestamp": 947376000
         },
         {
             "id": "477",
@@ -6635,7 +6632,7 @@
             "label": "Mary Earps",
             "group": "England",
             "image": "MaryEarps.jpg",
-            "club": "PSG",
+            "club": "London City Lioness",
             "sofascore": 95911,
             "dateOfBirthTimestamp": 731462400
         },
