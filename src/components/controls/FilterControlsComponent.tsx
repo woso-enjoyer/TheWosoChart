@@ -99,7 +99,7 @@ export const FilterControlsComponent: React.FC<FilterControlsProps> = ({ onFilte
             onChange={handleValueChange}
             className="w-full sm:w-auto appearance-none py-2 pl-4 pr-10 bg-white/50 text-gray-900 rounded-full border-2 border-transparent outline-none transition-all duration-300 ease-in-out backdrop-blur-sm shadow-lg focus:border-indigo-500 focus:bg-white"
           >
-            <option value="all">All Relationship</option>
+            <option value="all">All Players</option>
             {options.map(opt => (
               <option key={opt} value={opt}>{opt}</option>
             ))}
