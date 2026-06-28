@@ -6859,6 +6859,22 @@
             "id": "864",
             "label": "Nat Cruz",
             "group": "Nonplayer"
+        },
+        {
+            "id": "865",
+            "label": "Kirsty Hanson",
+            "group": "Scotland",
+            "image": "KirstyHanson.jpg",
+            "club": "Aston Villa",
+            "sofascore": 1005024,
+            "dateOfBirthTimestamp": 892771200
+        },
+        {
+            "id": "866",
+            "label": "Amber Taylor",
+            "group": "Scotland",
+            "image": "AmberTaylor.png",
+            "club": "Sutton Coldfield Town"
         }
     ]
 }
