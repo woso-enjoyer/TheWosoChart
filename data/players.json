@@ -2837,7 +2837,10 @@
         {
             "id": "361",
             "label": "Leah Jones",
-            "group": "Nonplayer"
+            "group": "England",
+            "club": "Retired",
+            "image": "LeahJones.jpg",
+            "dateOfBirthTimestamp": 617461433
         },
         {
             "id": "362",
