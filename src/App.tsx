@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useRef, useState } from "react"
+import { useCallback, useEffect, useRef } from "react"
 import { useAppDispatch, useAppSelector } from "./app/hooks"
 import {
   fetchPlayersAsync,
@@ -13,6 +13,7 @@ import {
 import { Player } from "./features/players/types"
 import { PlayerComponent } from "./components/player/PlayerComponent"
 import { ControlsComponent } from "./components/controls/ControlsComponent"
+import { FilterType, FilterValue } from "./components/controls/FilterControlsComponent"
 
 const App = () => {
   const dispatch = useAppDispatch()
@@ -33,7 +34,7 @@ const App = () => {
     }
   }, []);
 
-  const handleFilter = useCallback((type: 'club' | 'country' | null, value: string | null) => {
+  const handleFilter = useCallback((type: FilterType, value: FilterValue) => {
     dispatch(setSelectedPlayer(undefined)); // Deselect player when a filter is applied
     if(graph.current) {
       graph.current.setFilter(type, value);

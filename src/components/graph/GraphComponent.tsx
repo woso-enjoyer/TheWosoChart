@@ -6,6 +6,7 @@ import { selectRelationships } from "../../features/relationship/relationshipSli
 import { forwardRef, useEffect, useImperativeHandle, useRef } from "react"
 import styles from "./Graph.module.css"
 import { Player } from "../../features/players/types"
+import { FilterType, FilterValue } from "../controls/FilterControlsComponent"
 
 const defaultOptions: Options = {
   nodes: {
@@ -64,7 +65,7 @@ const defaultOptions: Options = {
 
 export interface GraphComponentHandle {
   focusPlayer: (player: Player) => void;
-  setFilter: (type: 'club' | 'country' | null, value: string | null) => void;
+  setFilter: (type: 'club' | 'country' | 'relationship' | null, value: string | null) => void;
 }
 
 export const GraphComponent = forwardRef<GraphComponentHandle, {}>(({}, ref) => {
@@ -106,35 +107,58 @@ export const GraphComponent = forwardRef<GraphComponentHandle, {}>(({}, ref) => 
       current.selectNodes([player.id]);
     },
 
-    setFilter: (type: 'club' | 'country' | null, value: string | null) => {
+    setFilter: (type: FilterType, value: FilterValue) => {
       const current = network.current
 
       if (!current) return
 
-      // reset the graph
-      const updateObj = Array.from(nodes.current.get()).map(n => { return {id: n.id, hidden: false } })
+      // reset the graph by setting all nodes and edges to hidden = false
+      let updateObj = Array.from(nodes.current.get()).map(n => { return {id: n.id, hidden: false } })
       nodes.current.updateOnly(updateObj)
+      updateObj = Array.from(edges.current.get()).map(n => { return { id: n.id, hidden: false}})
+      edges.current.updateOnly(updateObj)
 
       if(value && type) {
         const allNodes = nodes.current.get();
+        const allEdges = edges.current.get();
         const nodesToHide = new Set(allNodes.map(n => n.id));
-        for(let node of allNodes) {
-          // don't hide this node
-          if(( type === 'country' && node.group === value) || (type === 'club' && node.club === value) ) {
-            nodesToHide.delete(node.id)
-            const connectedNodes = current.getConnectedNodes(node.id) as IdType[]
-            // also show the connected nodes
-            for(let connectedNode of connectedNodes) {
-              nodesToHide.delete(connectedNode as number)
+        const edgesToHide = new Set<number>();
+
+        if(type === "relationship") {
+          allEdges.forEach(n => edgesToHide.add(n.id))
+          for(let edge of allEdges) {
+            if(edge.label === value) {
+              edgesToHide.delete(edge.id)
+              nodesToHide.delete(edge.from);
+              nodesToHide.delete(edge.to);
+            }
+          }
+        }
+        else {
+          for(let node of allNodes) {
+            // don't hide this node
+            if(( type === 'country' && node.group === value) || (type === 'club' && node.club === value) ) {
+              nodesToHide.delete(node.id)
+              const connectedNodes = current.getConnectedNodes(node.id) as IdType[]
+              // also show the connected nodes
+              for(let connectedNode of connectedNodes) {
+                nodesToHide.delete(connectedNode as number)
+              }
             }
           }
         }
 
-        const updateObj = Array.from(nodesToHide).map(nd => { 
+        let updateObj = Array.from(nodesToHide).map(nd => { 
           return {id: nd, hidden: true }
         })
 
         nodes.current.updateOnly(updateObj)
+
+        updateObj = Array.from(edgesToHide).map(nd => {
+          return {id: nd, hidden: true }
+        })
+
+        edges.current.updateOnly(updateObj)
       }
     },
   }), []);

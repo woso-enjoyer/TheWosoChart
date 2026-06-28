@@ -1,15 +1,20 @@
 import { useCallback, useMemo, useState } from "react";
 import { useAppSelector } from "../../app/hooks";
 import { selectPlayers } from "../../features/players/playerSlice";
+import { selectRelationships } from "../../features/relationship/relationshipSlice";
+
+export type FilterType = 'club' | 'country' | 'relationship' | null;
+export type FilterValue = string | null;
 
 interface FilterControlsProps {
-  onFilterChange: (type: 'club' | 'country' | null, value: string | null) => void;
+  onFilterChange: (type: FilterType, value: FilterValue) => void;
 }
 
 export const FilterControlsComponent: React.FC<FilterControlsProps> = ({ onFilterChange }) => {
-  const [filterType, setFilterType] = useState<'club' | 'country' | null>(null);
+  const [filterType, setFilterType] = useState<FilterType>(null);
   const [selectValue, setSelectValue] = useState('all');
   const players = useAppSelector(selectPlayers)
+  const relationships = useAppSelector(selectRelationships)
 
   const clubs = useMemo(() => {
     // todo: change this when data is fixed
@@ -24,7 +29,12 @@ export const FilterControlsComponent: React.FC<FilterControlsProps> = ({ onFilte
     return Array.from(countrySet).sort();
   }, [players]);
 
-  const handleTypeChange = useCallback((type: 'club' | 'country') => {
+  const relationshipTypes = useMemo(() => {
+    const relationshipSet = new Set(relationships.map(p => p.label))
+    return Array.from(relationshipSet).sort();
+  }, [relationships])
+
+  const handleTypeChange = useCallback((type: 'club' | 'country' | 'relationship') => {
     if (filterType === type) {
       setFilterType(null);
       onFilterChange(null, null);
@@ -45,7 +55,7 @@ export const FilterControlsComponent: React.FC<FilterControlsProps> = ({ onFilte
     }
   }, [filterType, onFilterChange]);
   
-  const options = filterType === 'club' ? clubs : countries;
+  const options = filterType === 'club' ? clubs : filterType === 'country' ? countries : relationshipTypes;
 
   return (
     <div className="mt-4 flex flex-col sm:flex-row items-center gap-2">
@@ -70,6 +80,16 @@ export const FilterControlsComponent: React.FC<FilterControlsProps> = ({ onFilte
         >
           Country
         </button>
+        <button
+          onClick={() => handleTypeChange('relationship')}
+          className={`px-4 py-2 rounded-full text-sm font-semibold transition-colors duration-300 backdrop-blur-sm shadow-md ${
+            filterType === 'relationship'
+              ? 'bg-indigo-600 text-white'
+              : 'bg-white/50 text-gray-700 hover:bg-white/80'
+          }`}
+        >
+          Relationship
+        </button>
       </div>
 
       {filterType && (
@@ -79,7 +99,7 @@ export const FilterControlsComponent: React.FC<FilterControlsProps> = ({ onFilte
             onChange={handleValueChange}
             className="w-full sm:w-auto appearance-none py-2 pl-4 pr-10 bg-white/50 text-gray-900 rounded-full border-2 border-transparent outline-none transition-all duration-300 ease-in-out backdrop-blur-sm shadow-lg focus:border-indigo-500 focus:bg-white"
           >
-            <option value="all">All Players</option>
+            <option value="all">All Relationship</option>
             {options.map(opt => (
               <option key={opt} value={opt}>{opt}</option>
             ))}
