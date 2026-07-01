@@ -6933,6 +6933,15 @@
             "id": "873",
             "label": "Gemma Davies",
             "group": "Nonplayer"
+        },
+        {
+            "id": "874",
+            "label": "Emilie Haavi",
+            "group": "Norway",
+            "image": "EmilieHaavi.jpg",
+            "club": "Roma",
+            "sofascore": 36345,
+            "dateOfBirthTimestamp": 708652800
         }
     ]
 }
