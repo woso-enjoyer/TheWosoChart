@@ -7066,6 +7066,20 @@
             "id": "890",
             "label": "Julia Wroblewski",
             "group": "Nonplayer"
+        },
+        {
+            "id": 891,
+            "label": "Shekiera Martinez",
+            "group": "Germany",
+            "image": "ShekieraMartinez.jpg",
+            "club": "Tottenham",
+            "sofascore": 989942,
+            "dateOfBirthTimestamp": 994204800
+        },
+        {
+            "id": "892",
+            "label": "Anna-Lena Büchler",
+            "group": "Nonplayer"
         }
     ]
 }
