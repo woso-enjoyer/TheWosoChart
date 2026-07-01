@@ -6988,6 +6988,24 @@
             "id": "880",
             "label": "Vanessa Rence",
             "group": "Nonplayer"
+        },
+        {
+            "id": "881",
+            "label": "Anna Gerhardt",
+            "group": "Germany",
+            "image": "AnnaGerhardt.jpg",
+            "club": "Köln",
+            "sofascore": 857181,
+            "dateOfBirthTimestamp": 892771200
+        },
+        {
+            "id": "882",
+            "label": "Sara Agrež",
+            "group": "Slovenia",
+            "image": "SaraAgrez.jpg",
+            "club": "Liverpool",
+            "sofascore": 1005449,
+            "dateOfBirthTimestamp": 976320000
         }
     ]
 }
