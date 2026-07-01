@@ -65,7 +65,7 @@ const defaultOptions: Options = {
 
 export interface GraphComponentHandle {
   focusPlayer: (player: Player) => void;
-  setFilter: (type: 'club' | 'country' | 'relationship' | null, value: string | null) => void;
+  setFilter: (type: FilterType, value: FilterValue) => void;
 }
 
 export const GraphComponent = forwardRef<GraphComponentHandle, {}>(({}, ref) => {
@@ -112,16 +112,14 @@ export const GraphComponent = forwardRef<GraphComponentHandle, {}>(({}, ref) => 
 
       if (!current) return
 
-      // reset the graph by setting all nodes and edges to hidden = false
-      let updateObj = Array.from(nodes.current.get()).map(n => { return {id: n.id, hidden: false } })
-      nodes.current.updateOnly(updateObj)
-      updateObj = Array.from(edges.current.get()).map(n => { return { id: n.id, hidden: false}})
-      edges.current.updateOnly(updateObj)
+      // reset the graph by setting all nodes and edges to hidden = false 
+      nodes.current.updateOnly(Array.from(nodes.current.get()).map(n => { return {id: n.id, hidden: false } }))
+      edges.current.updateOnly(Array.from(edges.current.get()).map(e => { return { id: e.id, hidden: false } }))
 
       if(value && type) {
         const allNodes = nodes.current.get();
         const allEdges = edges.current.get();
-        const nodesToHide = new Set(allNodes.map(n => n.id));
+        const nodesToHide = new Set(allNodes.map(node => node.id));
         const edgesToHide = new Set<number>();
 
         if(type === "relationship") {
@@ -148,17 +146,13 @@ export const GraphComponent = forwardRef<GraphComponentHandle, {}>(({}, ref) => 
           }
         }
 
-        let updateObj = Array.from(nodesToHide).map(nd => { 
-          return {id: nd, hidden: true }
-        })
+        nodes.current.updateOnly(Array.from(nodesToHide).map(nodeId => { 
+          return {id: nodeId, hidden: true }
+        }))
 
-        nodes.current.updateOnly(updateObj)
-
-        updateObj = Array.from(edgesToHide).map(nd => {
-          return {id: nd, hidden: true }
-        })
-
-        edges.current.updateOnly(updateObj)
+        edges.current.updateOnly(Array.from(edgesToHide).map(edgeId => {
+          return {id: edgeId, hidden: true }
+        }))
       }
     },
   }), []);
