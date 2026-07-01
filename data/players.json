@@ -939,7 +939,7 @@
             "image": "AmyRodgers.png",
             "sofascore": 1007411,
             "dateOfBirthTimestamp": 954892800,
-            "club": "Nottingham Forest"
+            "club": "Brøndby IF"
         },
         {
             "id": "106",
@@ -7080,6 +7080,24 @@
             "id": "892",
             "label": "Anna-Lena Büchler",
             "group": "Nonplayer"
+        },
+        {
+            "id": "893",
+            "label": "Camilla Linberg",
+            "group": "Norway",
+            "image": "CamillaLinberg.jpg",
+            "club": "HSV",
+            "sofascore": 964657,
+            "dateOfBirthTimestamp": 919382400
+        },
+        {
+            "id": "894",
+            "label": "Malin Brenn",
+            "group": "Norway",
+            "image": "MalinBrenn.jpg",
+            "club": "Brøndby IF",
+            "sofascore": 936481,
+            "dateOfBirthTimestamp": 921283200
         }
     ]
 }
