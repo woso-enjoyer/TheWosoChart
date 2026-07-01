@@ -7038,6 +7038,20 @@
             "id": "886",
             "label": "Carla Digonnet",
             "group": "Nonplayer"
+        },
+        {
+            "id": "887",
+            "label": "Kyra Spitzner",
+            "group": "Germany",
+            "image": "KyraSpitzner.jpg",
+            "club": "SGS Essen",
+            "sofascore": 1435871,
+            "dateOfBirthTimestamp": 1111536000
+        },
+        {
+            "id": "888",
+            "label": "Leni Mueller",
+            "group": "Nonplayer"
         }
     ]
 }
