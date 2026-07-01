@@ -6974,6 +6974,20 @@
             "id": "878",
             "label": "Enrica Torrente",
             "group": "Nonplayer"
+        },
+        {
+            "id": "879",
+            "label": "Pauline Bremer",
+            "group": "Germany",
+            "image": "PaulineBremer.png",
+            "club": "Köln",
+            "sofascore": 230108,
+            "dateOfBirthTimestamp": 829094400
+        },
+        {
+            "id": "880",
+            "label": "Vanessa Rence",
+            "group": "Nonplayer"
         }
     ]
 }
