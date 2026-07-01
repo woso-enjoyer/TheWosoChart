@@ -7024,6 +7024,20 @@
             "club": "Leipzig",
             "sofascore": 1066035,
             "dateOfBirthTimestamp": 884563200
+        },
+        {
+            "id": "885",
+            "label": "Justine Lerond",
+            "group": "France",
+            "image": "JustineLerond.jpg",
+            "club": "Montpellier",
+            "sofascore": 973131,
+            "dateOfBirthTimestamp": 951782400
+        },
+        {
+            "id": "886",
+            "label": "Carla Digonnet",
+            "group": "Nonplayer"
         }
     ]
 }
