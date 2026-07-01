@@ -6942,6 +6942,24 @@
             "club": "Roma",
             "sofascore": 36345,
             "dateOfBirthTimestamp": 708652800
+        },
+        {
+            "id": "875",
+            "label": "Sophie Proost",
+            "group": "Netherlands",
+            "image": "SophieProost.jpg",
+            "club": "FC Twente",
+            "sofascore": 1891905,
+            "dateOfBirthTimestamp": 1173571200
+        },
+        {
+            "id": "876",
+            "label": "Riola Xhemaili",
+            "group": "Switzerland",
+            "image": "RiolaXhemaili.jpg",
+            "club": "PSV",
+            "sofascore": 1066990,
+            "dateOfBirthTimestamp": 1046822400
         }
     ]
 }
