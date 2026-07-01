@@ -6919,6 +6919,20 @@
             "club": "Norwich City",
             "sofascore": 1093389,
             "dateOfBirthTimestamp": 987984000
+        },
+        {
+            "id": "872",
+            "label": "Marisa Ewers",
+            "group": "Germany",
+            "image": "MarisaEwers.jpg",
+            "club": "Retired",
+            "sofascore": 1082419,
+            "dateOfBirthTimestamp": 604281600
+        },
+        {
+            "id": "873",
+            "label": "Gemma Davies",
+            "group": "Nonplayer"
         }
     ]
 }
