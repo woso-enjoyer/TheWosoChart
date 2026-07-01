@@ -6901,6 +6901,24 @@
             "club": "London City Lioness",
             "sofascore": 1836374,
             "dateOfBirthTimestamp": 1050451200
+        },
+        {
+            "id": "870",
+            "label": "Maddy Cusack",
+            "group": "England",
+            "club": "Retired",
+            "image": "MaddyCusack.jpg",
+            "sofascore": 1090890,
+            "dateOfBirthTimestamp": 814885433
+        },
+        {
+            "id": "871",
+            "label": "Grace Riglar",
+            "group": "England",
+            "image": "GraceRiglar.jpg",
+            "club": "Norwich City",
+            "sofascore": 1093389,
+            "dateOfBirthTimestamp": 987984000
         }
     ]
 }
