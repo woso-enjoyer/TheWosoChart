@@ -7052,6 +7052,20 @@
             "id": "888",
             "label": "Leni Mueller",
             "group": "Nonplayer"
+        },
+        {
+            "id": "889",
+            "label": "Laura Dick",
+            "group": "Germany",
+            "image": "LauraDick.jpg",
+            "club": "Hoffenheim",
+            "sofascore": 1030343,
+            "dateOfBirthTimestamp": 1055462400
+        },
+        {
+            "id": "890",
+            "label": "Julia Wroblewski",
+            "group": "Nonplayer"
         }
     ]
 }
