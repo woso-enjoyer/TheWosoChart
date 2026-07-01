@@ -1404,7 +1404,7 @@
             "image": "PriscilaChinchilla.jpg",
             "sofascore": 1104093,
             "dateOfBirthTimestamp": 994809600,
-            "club": "Zenit"
+            "club": "Atlético de Madrid"
         },
         {
             "id": "158",
@@ -7006,6 +7006,24 @@
             "club": "Liverpool",
             "sofascore": 1005449,
             "dateOfBirthTimestamp": 976320000
+        },
+        {
+            "id": "883",
+            "label": "Gina Schuller",
+            "group": "Germany",
+            "image": "GinaSchuller.jpg",
+            "club": "Viktoria Berlin",
+            "sofascore": 1435868,
+            "dateOfBirthTimestamp": 972345600
+        },
+        {
+            "id": "884",
+            "label": "Victoria Krug",
+            "group": "Germany",
+            "image": "VictoriaKrug.jpg",
+            "club": "Leipzig",
+            "sofascore": 1066035,
+            "dateOfBirthTimestamp": 884563200
         }
     ]
 }
