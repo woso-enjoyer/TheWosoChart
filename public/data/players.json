@@ -6960,6 +6960,20 @@
             "club": "PSV",
             "sofascore": 1066990,
             "dateOfBirthTimestamp": 1046822400
+        },
+        {
+            "id": "877",
+            "label": "Marija Banusic",
+            "group": "Sweden",
+            "image": "MarijaBanusic.jpg",
+            "club": "Napoli",
+            "sofascore": 187947,
+            "dateOfBirthTimestamp": 811296000
+        },
+        {
+            "id": "878",
+            "label": "Enrica Torrente",
+            "group": "Nonplayer"
         }
     ]
 }
