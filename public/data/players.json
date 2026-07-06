@@ -7098,6 +7098,11 @@
             "club": "Brøndby IF",
             "sofascore": 936481,
             "dateOfBirthTimestamp": 921283200
+        },
+        {
+            "id": "895",
+            "label": "Veronica Petrucci",
+            "group": "Nonplayer"
         }
     ]
 }
