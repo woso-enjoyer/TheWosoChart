@@ -7162,6 +7162,20 @@
             "id": "903",
             "label": "Sofieke van Bilsen",
             "group": "Nonplayer"
+        },
+        {
+            "id": "904",
+            "label": "Luca Papp",
+            "image": "LucaPapp.jpg",
+            "group": "Hungary",
+            "club": "Wolfsburg",
+            "sofascore": 1125499,
+            "dateOfBirthTimestamp": 1014508800
+        },
+        {
+            "id": "905",
+            "label": "Reka Bordas",
+            "group": "Nonplayer"
         }
     ]
 }
