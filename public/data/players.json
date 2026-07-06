@@ -7103,6 +7103,20 @@
             "id": "895",
             "label": "Veronica Petrucci",
             "group": "Nonplayer"
+        },
+        {
+            "id": "896",
+            "label": "Eva Navarro",
+            "group": "Spain",
+            "image": "EvaNavarro.jpg",
+            "club": "Real Madrid",
+            "sofascore": 994110,
+            "dateOfBirthTimestamp": 980553600
+        },
+        {
+            "id": "897",
+            "label": "Melissa Font",
+            "group": "Nonplayer"
         }
     ]
 }
