@@ -7117,6 +7117,23 @@
             "id": "897",
             "label": "Melissa Font",
             "group": "Nonplayer"
+        },
+        {
+            "id": "898",
+            "label": "Marisa Olislagers",
+            "group": "Netherlands",
+            "image": "MarisaOlislagers.jpg",
+            "club": "Brighton",
+            "sofascore": 1135329,
+            "dateOfBirthTimestamp": 968457600
+        },
+        {
+            "id": "899",
+            "label": "Silvie van der Plas",
+            "group": "Netherlands",
+            "club": "Retired",
+            "image": "SilvieVdp.jpg",
+            "dateOfBirthTimestamp": 892991033
         }
     ]
 }
