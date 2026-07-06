@@ -7148,6 +7148,20 @@
             "id": "901",
             "label": "Ama Bdem",
             "group": "Nonplayer"
+        },
+        {
+            "id": "902",
+            "label": "Stina Johannes",
+            "group": "Germany",
+            "image": "StinaJohannes.jpg",
+            "club": "Wolfsburg",
+            "sofascore": 1008917,
+            "dateOfBirthTimestamp": 948585600
+        },
+        {
+            "id": "903",
+            "label": "Sofieke van Bilsen",
+            "group": "Nonplayer"
         }
     ]
 }
