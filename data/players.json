@@ -7194,6 +7194,24 @@
             "club": "VfB Stuttgart",
             "sofascore": 951286,
             "dateOfBirthTimestamp": 753580800
+        },
+        {
+            "id": "908",
+            "label": "Michelle Weiss",
+            "group": "Germany",
+            "image": "MichelleWeiss.jpg",
+            "club": "Werder",
+            "sofascore": 1137690,
+            "dateOfBirthTimestamp": 990921600
+        },
+        {
+            "id": "909",
+            "label": "Michelle Ulbrich",
+            "group": "Germany",
+            "image": "MichelleUlbrich.jpg",
+            "club": "Werder",
+            "sofascore": 1064664,
+            "dateOfBirthTimestamp": 846979200
         }
     ]
 }
