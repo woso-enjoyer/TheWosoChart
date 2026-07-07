@@ -7176,6 +7176,24 @@
             "id": "905",
             "label": "Reka Bordas",
             "group": "Nonplayer"
+        },
+        {
+            "id": "906",
+            "label": "Barbara Dunst",
+            "group": "Austria",
+            "image": "BarbaraDunst.jpg",
+            "club": "Bayern Munich",
+            "sofascore": 863110,
+            "dateOfBirthTimestamp": 875145600
+        },
+        {
+            "id": "907",
+            "label": "Maximiliane Rall",
+            "group": "Germany",
+            "image": "MaxiRall.jpg",
+            "club": "VfB Stuttgart",
+            "sofascore": 951286,
+            "dateOfBirthTimestamp": 753580800
         }
     ]
 }
