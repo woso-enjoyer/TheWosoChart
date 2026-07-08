@@ -7258,6 +7258,20 @@
             "id": "915",
             "label": "Olivia Louise Wilde",
             "group": "Nonplayer"
+        },
+        {
+            "id": "916",
+            "label": "Kinga Szemik",
+            "group": "Poland",
+            "image": "KingaSzemik.jpg",
+            "club": "West Ham",
+            "sofascore": 1085971,
+            "dateOfBirthTimestamp": 867196800
+        },
+        {
+            "id": "917",
+            "label": "Berenice Guills",
+            "group": "Nonplayer"
         }
     ]
 }
