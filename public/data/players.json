@@ -7364,6 +7364,24 @@
             "id": "929",
             "label": "Yamila Mendoza Marin",
             "group": "Nonplayer"
+        },
+        {
+            "id": "930",
+            "label": "Katrine Pedersen",
+            "group": "Denmark",
+            "image": "KatrinePedersen.jpg",
+            "club": "Retired",
+            "sofascore": 25719,
+            "dateOfBirthTimestamp": 229737600
+        },
+        {
+            "id": "931",
+            "label": "Maiken With Pape",
+            "group": "Denmark",
+            "image": "MaikenPape.jpg",
+            "club": "Retired",
+            "sofascore": 29109,
+            "dateOfBirthTimestamp": 256831433
         }
     ]
 }
