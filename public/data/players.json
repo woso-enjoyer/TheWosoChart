@@ -7350,6 +7350,20 @@
             "id": "927",
             "label": "April Bowers",
             "group": "Nonplayer"
+        },
+        {
+            "id": "928",
+            "label": "Gemma Font",
+            "group": "Spain",
+            "image": "GemmaFont.jpg",
+            "club": "FC Barcelona",
+            "sofascore": 981576,
+            "dateOfBirthTimestamp": 940636800
+        },
+        {
+            "id": "929",
+            "label": "Yamila Mendoza Marin",
+            "group": "Nonplayer"
         }
     ]
 }
