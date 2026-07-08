@@ -7299,6 +7299,20 @@
             "club": "Glasgow City LFC",
             "sofascore": 873691,
             "dateOfBirthTimestamp": 747100800
+        },
+        {
+            "id": "921",
+            "label": "Jenna Clark",
+            "group": "Scotland",
+            "image": "JennaClark.jpg",
+            "club": "Liverpool",
+            "sofascore": 998155,
+            "dateOfBirthTimestamp": 1001721600
+        },
+        {
+            "id": "922",
+            "label": "Molly Nicolson",
+            "group": "Nonplayer"
         }
     ]
 }
