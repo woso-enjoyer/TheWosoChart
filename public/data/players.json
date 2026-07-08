@@ -7313,6 +7313,24 @@
             "id": "922",
             "label": "Molly Nicolson",
             "group": "Nonplayer"
+        },
+        {
+            "id": "923",
+            "label": "Cornelia Kapocs",
+            "group": "Sweden",
+            "image": "CorneliaKapocs.jpg",
+            "club": "Liverpool",
+            "sofascore": 1025128,
+            "dateOfBirthTimestamp": 963446400
+        },
+        {
+            "id": "924",
+            "label": "Emilia Larsson",
+            "group": "Sweden",
+            "image": "EmiliaLarsson.jpg",
+            "club": "Newcastle United",
+            "sofascore": 793178,
+            "dateOfBirthTimestamp": 900288000
         }
     ]
 }
