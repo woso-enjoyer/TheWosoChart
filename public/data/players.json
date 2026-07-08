@@ -7244,6 +7244,20 @@
             "id": "913",
             "label": "Noa Vonk",
             "group": "Nonplayer"
+        },
+        {
+            "id": "914",
+            "label": "Kirsty Howat",
+            "group": "Scotland",
+            "image": "KirstyHowat.jpg",
+            "club": "Crystal Palace",
+            "sofascore": 952148,
+            "dateOfBirthTimestamp": 864000000
+        },
+        {
+            "id": "915",
+            "label": "Olivia Louise Wilde",
+            "group": "Nonplayer"
         }
     ]
 }
