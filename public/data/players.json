@@ -7272,6 +7272,33 @@
             "id": "917",
             "label": "Berenice Guills",
             "group": "Nonplayer"
+        },
+        {
+            "id": "918",
+            "label": "Rachel Mclauchlan",
+            "group": "Scotland",
+            "image": "RachelMclauchlan.jpg",
+            "club": "Brighton",
+            "sofascore": 886998,
+            "dateOfBirthTimestamp": 868233600
+        },
+        {
+            "id": "919",
+            "label": "Camille Lafaix",
+            "group": "USA",
+            "image": "CamilleLafaix.jpg",
+            "club": "Rangers",
+            "sofascore": 1518826,
+            "dateOfBirthTimestamp": 991094400
+        },
+        {
+            "id": "920",
+            "label": "Emma Brownlie",
+            "group": "Scotland",
+            "image": "EmmaBrownlie.jpg",
+            "club": "Glasgow City LFC",
+            "sofascore": 873691,
+            "dateOfBirthTimestamp": 747100800
         }
     ]
 }
