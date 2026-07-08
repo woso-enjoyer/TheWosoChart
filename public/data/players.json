@@ -7230,6 +7230,20 @@
             "club": "HSV",
             "sofascore": 1926960,
             "dateOfBirthTimestamp": 928540800
+        },
+        {
+            "id": "912",
+            "label": "Rosa van Gool",
+            "group": "Netherlands",
+            "image": "RosaVanGool.jpg",
+            "club": "Everton",
+            "sofascore": 1093398,
+            "dateOfBirthTimestamp": 1076284800
+        },
+        {
+            "id": "913",
+            "label": "Noa Vonk",
+            "group": "Nonplayer"
         }
     ]
 }
