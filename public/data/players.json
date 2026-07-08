@@ -7331,6 +7331,11 @@
             "club": "Newcastle United",
             "sofascore": 793178,
             "dateOfBirthTimestamp": 900288000
+        },
+        {
+            "id": "925",
+            "label": "Kim Lorena",
+            "group": "Nonplayer"
         }
     ]
 }
