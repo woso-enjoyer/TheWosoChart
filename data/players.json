@@ -7212,6 +7212,24 @@
             "club": "Werder",
             "sofascore": 1064664,
             "dateOfBirthTimestamp": 846979200
+        },
+        {
+            "id": "910",
+            "label": "Melanie Brunnthaler",
+            "group": "Austria",
+            "image": "MelanieBrunnthaler.jpg",
+            "club": "HSV",
+            "sofascore": 997981,
+            "dateOfBirthTimestamp": 970099200
+        },
+        {
+            "id": "911",
+            "label": "Annalena Wucher",
+            "group": "Austria",
+            "image": "AnnalenaWucher.jpg",
+            "club": "HSV",
+            "sofascore": 1926960,
+            "dateOfBirthTimestamp": 928540800
         }
     ]
 }
