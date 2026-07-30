@@ -1323,7 +1323,7 @@
             "image": "ValentinaGiacinti.jpg",
             "sofascore": 828578,
             "dateOfBirthTimestamp": 757382400,
-            "club": "Galatasaray"
+            "club": "FC Como"
         },
         {
             "id": "149",
@@ -1332,7 +1332,7 @@
             "image": "VerónicaBoquete.jpg",
             "sofascore": 99670,
             "dateOfBirthTimestamp": 544924800,
-            "club": "Fiorentina"
+            "club": "FC Como"
         },
         {
             "id": "150",
@@ -1846,7 +1846,7 @@
             "image": "ViolaCalligaris.png",
             "sofascore": 838487,
             "dateOfBirthTimestamp": 827020800,
-            "club": "Juventus"
+            "club": "Atlético de Madrid"
         },
         {
             "id": "208",
@@ -2139,7 +2139,7 @@
             "image": "MillieTurner.jpg",
             "sofascore": 1007185,
             "dateOfBirthTimestamp": 836697600,
-            "club": "Man Utd"
+            "club": "Birmingham"
         },
         {
             "id": "241",
@@ -2148,7 +2148,7 @@
             "image": "LisaNaalsund.jpg",
             "sofascore": 184925,
             "dateOfBirthTimestamp": 802742400,
-            "club": "Man Utd"
+            "club": "Birmingham"
         },
         {
             "id": "242",
@@ -2199,6 +2199,7 @@
             "label": "Ona Batlle",
             "group": "Spain",
             "image": "OnaBatlle.jpg",
+            "club": "Arsenal",
             "sofascore": 985242,
             "dateOfBirthTimestamp": 928972800
         },
@@ -3181,7 +3182,7 @@
             "image": "CarsonPickett.jpg",
             "sofascore": 1009452,
             "dateOfBirthTimestamp": 748051200,
-            "club": "Orlando Pride"
+            "club": "Denver Summit"
         },
         {
             "id": "427",
@@ -3603,6 +3604,7 @@
             "label": "Misa Rodriguez",
             "group": "Spain",
             "image": "MisaRodriguez.jpg",
+            "club": "Arsenal",
             "sofascore": 1142111,
             "dateOfBirthTimestamp": 932601600
         },
@@ -5626,7 +5628,7 @@
             "image": "geraldine_reuteler.png",
             "sofascore": 886995,
             "dateOfBirthTimestamp": 924652800,
-            "club": "Frankfurt"
+            "club": "Arsenal"
         },
         {
             "id": "708",
@@ -5939,7 +5941,7 @@
             "label": "Kerolin Nicoli",
             "group": "Brazil",
             "image": "KerolinNicoli.png",
-            "club": "Man City",
+            "club": "FC Barcelona",
             "sofascore": 944363,
             "dateOfBirthTimestamp": 942796800
         },
@@ -5953,7 +5955,7 @@
             "label": "Melvine Malard",
             "group": "France",
             "image": "MelvineMalard.jpg",
-            "club": "Man Utd",
+            "club": "Chelsea",
             "sofascore": 956426,
             "dateOfBirthTimestamp": 962064000
         },
@@ -6531,7 +6533,7 @@
             "label": "Barbora Votíková",
             "group": "Czech Republic",
             "image": "BarboraVotikova.jpg",
-            "club": "Arsenal",
+            "club": "Slavia Prague",
             "dateOfBirthTimestamp": 842572800,
             "sofascore": 979832
         },
@@ -6868,7 +6870,7 @@
             "label": "Kirsty Hanson",
             "group": "Scotland",
             "image": "KirstyHanson.jpg",
-            "club": "Aston Villa",
+            "club": "Tottenham",
             "sofascore": 1005024,
             "dateOfBirthTimestamp": 892771200
         },
@@ -6939,7 +6941,7 @@
             "label": "Emilie Haavi",
             "group": "Norway",
             "image": "EmilieHaavi.jpg",
-            "club": "Roma",
+            "club": "FC Como",
             "sofascore": 36345,
             "dateOfBirthTimestamp": 708652800
         },
@@ -6948,7 +6950,7 @@
             "label": "Sophie Proost",
             "group": "Netherlands",
             "image": "SophieProost.jpg",
-            "club": "FC Twente",
+            "club": "Bayern Munich",
             "sofascore": 1891905,
             "dateOfBirthTimestamp": 1173571200
         },
@@ -6957,7 +6959,7 @@
             "label": "Riola Xhemaili",
             "group": "Switzerland",
             "image": "RiolaXhemaili.jpg",
-            "club": "PSV",
+            "club": "FC Como",
             "sofascore": 1066990,
             "dateOfBirthTimestamp": 1046822400
         },
