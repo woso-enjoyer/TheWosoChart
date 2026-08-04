@@ -94,6 +94,7 @@
             "label": "Carla Armengol",
             "group": "Spain",
             "image": "CarlaArmengol.jpg",
+            "club": "Sporting",
             "sofascore": 1003454,
             "dateOfBirthTimestamp": "1998-04-02T00:00:00.000Z"
         },
@@ -253,7 +254,7 @@
             "id": "28",
             "label": "Vivianne Miedema",
             "group": "Netherlands",
-            "image": "VivianneMiedema.jpg",
+            "image": "VivianneMiedema.png",
             "sofascore": 796534,
             "dateOfBirthTimestamp": "1996-07-15T00:00:00.000Z",
             "club": "Man City"
@@ -711,7 +712,7 @@
             "id": "80",
             "label": "Nina Brüggemann",
             "group": "Germany",
-            "image": "NinaBrüggemann.jpg",
+            "image": "NinaBruggemann.jpg",
             "sofascore": 1008941,
             "dateOfBirthTimestamp": "1993-02-11T00:00:00.000Z",
             "club": "HSV"
@@ -972,7 +973,7 @@
             "id": "109",
             "label": "Ann-Katrin Berger",
             "group": "Germany",
-            "image": "Ann-KatrinBerger.jpg",
+            "image": "AnnKatrinBerger.jpg",
             "sofascore": 168415,
             "dateOfBirthTimestamp": "1990-10-09T00:00:00.000Z",
             "club": "Gotham"
@@ -1276,7 +1277,7 @@
             "id": "143",
             "label": "Nathalie Björn",
             "group": "Sweden",
-            "image": "NathalieBjörn.jpg",
+            "image": "NathalieBjorn.jpg",
             "sofascore": 953785,
             "dateOfBirthTimestamp": "1997-05-04T00:00:00.000Z",
             "club": "Chelsea"
@@ -1338,7 +1339,7 @@
             "id": "150",
             "label": "Lisa Marie Makas",
             "group": "Austria",
-            "image": "Lisa-Marie.jpg",
+            "image": "LisaMarieMakas.jpg",
             "sofascore": 114886,
             "club": "Retired",
             "dateOfBirthTimestamp": "1992-05-11T00:00:00.000Z"
@@ -1392,7 +1393,7 @@
             "id": "156",
             "label": "Julia Molin",
             "group": "Sweden",
-            "image": "JuliaMolin.jpg",
+            "image": "JuliaMolin.png",
             "sofascore": 1007130,
             "club": "Retired",
             "dateOfBirthTimestamp": "1990-05-13T00:00:00.000Z"
@@ -1401,10 +1402,10 @@
             "id": "157",
             "label": "Priscila Chinchilla",
             "group": "Costa Rica",
-            "image": "PriscilaChinchilla.jpg",
+            "image": "PriscilaChinchilla.png",
             "sofascore": 1104093,
             "dateOfBirthTimestamp": "2001-07-11T00:00:00.000Z",
-            "club": "Atlético de Madrid"
+            "club": "Pumas"
         },
         {
             "id": "158",
@@ -1439,8 +1440,7 @@
             "group": "Spain",
             "image": "EstherGonzalez.jpg",
             "sofascore": 823108,
-            "dateOfBirthTimestamp": "1992-12-08T00:00:00.000Z",
-            "club": "Gotham"
+            "dateOfBirthTimestamp": "1992-12-08T00:00:00.000Z"
         },
         {
             "id": "162",
@@ -1873,7 +1873,7 @@
             "image": "JasmineMatthews.jpg",
             "sofascore": 183861,
             "dateOfBirthTimestamp": "1993-03-24T00:00:00.000Z",
-            "club": "Burnley"
+            "club": "Wolverhampton"
         },
         {
             "id": "211",
@@ -3199,8 +3199,7 @@
             "group": "USA",
             "image": "MeredithSpeck.jpg",
             "sofascore": 1025592,
-            "dateOfBirthTimestamp": "1993-02-01T00:00:00.000Z",
-            "club": "NC Courage"
+            "dateOfBirthTimestamp": "1993-02-01T00:00:00.000Z"
         },
         {
             "id": "429",
@@ -3594,7 +3593,7 @@
             "id": "473",
             "label": "Linda Caicedo",
             "group": "Colombia",
-            "image": "LindaCaicedo.jpg",
+            "image": "LindaCaicedo.png",
             "sofascore": 1005527,
             "dateOfBirthTimestamp": "2005-02-22T00:00:00.000Z",
             "club": "Real Madrid"
@@ -4840,7 +4839,7 @@
             "id": "616",
             "label": "Jenni Hermoso",
             "group": "Spain",
-            "image": "JenniHermoso.jpg",
+            "image": "JenniHermoso.png",
             "sofascore": 135781,
             "dateOfBirthTimestamp": "1990-05-09T00:00:00.000Z",
             "club": "Tigres UANL"
@@ -5150,7 +5149,7 @@
             "id": "651",
             "label": "Grace Fisk",
             "group": "England",
-            "image": "GraceFisk.jpg",
+            "image": "GraceFisk.png",
             "sofascore": 1014701,
             "dateOfBirthTimestamp": "1998-01-05T00:00:00.000Z",
             "club": "Liverpool"
@@ -6842,7 +6841,7 @@
             "label": "Sheila García",
             "group": "Spain",
             "image": "SheilaGarcia.jpg",
-            "club": "Real Madrid",
+            "club": "Inter",
             "sofascore": 1023341,
             "dateOfBirthTimestamp": "1997-03-15T00:00:00.000Z"
         },
