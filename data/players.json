@@ -7384,6 +7384,16 @@
             "club": "Retired",
             "sofascore": 29109,
             "dateOfBirthTimestamp": 256831433
+        },
+        {
+            "id": "932",
+            "label": "Tereza Bendova",
+            "group": "Nonplayer"
+        },
+        {
+            "id": "933",
+            "label": "Carlota Fernandez Garcia",
+            "group": "Nonplayer"
         }
     ]
 }
