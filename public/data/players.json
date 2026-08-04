@@ -7394,6 +7394,20 @@
             "id": "933",
             "label": "Carlota Fernandez Garcia",
             "group": "Nonplayer"
+        },
+        {
+            "id": "934",
+            "label": "Madeline Moreau",
+            "group": "USA",
+            "image": "MaddieMoreau.jpg",
+            "club": "Bay FC",
+            "sofascore": 1828952,
+            "dateOfBirthTimestamp": 975974400
+        },
+        {
+            "id": "935",
+            "label": "Ella Frantzen",
+            "group": "Nonplayer"
         }
     ]
 }
