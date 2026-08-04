@@ -7384,6 +7384,11 @@
             "club": "Retired",
             "sofascore": 29109,
             "dateOfBirthTimestamp": 256831433
+        },
+        {
+            "id": "932",
+            "label": "Tereza Bendova",
+            "group": "Nonplayer"
         }
     ]
 }
