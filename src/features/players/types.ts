@@ -4,6 +4,6 @@ export interface Player {
     group: string
     image?: string
     sofascore?: number
-    dateOfBirthTimestamp?: number
+    dateOfBirthTimestamp?: string
     club?: string
   }

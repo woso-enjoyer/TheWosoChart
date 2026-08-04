@@ -21,13 +21,14 @@ export const PlayerComponent = () => {
     dispatch(setSelectedPlayer(other))
   }
 
-  const calculateAge = (dateOfBirthTimestamp: number) => {
+  const calculateAge = (dateOfBirthTimestamp: string) => {
     const today = new Date();
-    const birthday =  new Date(dateOfBirthTimestamp * 1000);
+    const birthday = new Date(dateOfBirthTimestamp);
+
     let age = today.getUTCFullYear() - birthday.getUTCFullYear()
 
     const m = today.getUTCMonth() - birthday.getUTCMonth();
-    if (m < 0 || (m === 0 && today.getDate() < birthday.getDate())) {
+    if (m < 0 || (m === 0 && today.getUTCDate() < birthday.getUTCDate())) {
       age--;
     }
 
