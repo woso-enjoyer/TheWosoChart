@@ -7412,6 +7412,20 @@
             "id": "936",
             "label": "Suze Klaassens",
             "group": "Nonplayer"
+        },
+        {
+            "id": "937",
+            "label": "Danique Tolhoek",
+            "group": "Netherlands",
+            "image": "DaniqueTolhoek.jpg",
+            "club": "Frankfurt",
+            "sofascore": 1512647,
+            "dateOfBirthTimestamp": "2005-03-17T00:00:00.000Z"
+        },
+        {
+            "id": "938",
+            "label": "Giselle van Riel",
+            "group": "Nonplayer"
         }
     ]
 }
