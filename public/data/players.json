@@ -7444,6 +7444,20 @@
             "club": "Tottenham",
             "sofascore": 1093425,
             "dateOfBirthTimestamp": "1999-01-30T00:00:00.00Z"
+        },
+        {
+            "id": "941",
+            "label": "Emilie Joramo",
+            "group": "Norway",
+            "image": "EmilieJoramo.jpg",
+            "club": "Brighton",
+            "sofascore": 1004078,
+            "dateOfBirthTimestamp": "2002-01-13T00:00:00.00Z"
+        },
+        {
+            "id": "942",
+            "label": "Jenny Østerås",
+            "group": "Nonplayer"
         }
     ]
 }
