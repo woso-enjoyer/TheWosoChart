@@ -7426,6 +7426,24 @@
             "id": "938",
             "label": "Giselle van Riel",
             "group": "Nonplayer"
+        },
+        {
+            "id": "939",
+            "label": "Renate Jansen",
+            "group": "Netherlands",
+            "image": "RenateJansen.jpg",
+            "club": "Retired",
+            "sofascore": 822153,
+            "dateOfBirthTimestamp": "1990-12-07T00:00:00.000Z"
+        },
+        {
+            "id": "940",
+            "label": "Caitlin Dijkstra",
+            "group": "Netherlands",
+            "image": "CaitlinDijkstra.jpg",
+            "club": "Tottenham",
+            "sofascore": 1093425,
+            "dateOfBirthTimestamp": "1999-01-30T00:00:00.00Z"
         }
     ]
 }
