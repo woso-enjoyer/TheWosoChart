@@ -1439,6 +1439,7 @@
             "label": "Esther González",
             "group": "Spain",
             "image": "EstherGonzalez.jpg",
+            "club": "Al-Qadsiah",
             "sofascore": 823108,
             "dateOfBirthTimestamp": "1992-12-08T00:00:00.000Z"
         },
@@ -1704,7 +1705,7 @@
             "image": "KristenHamilton.jpg",
             "sofascore": 1006216,
             "dateOfBirthTimestamp": "1992-04-17T00:00:00.000Z",
-            "club": "Kansas City"
+            "club": "Retired"
         },
         {
             "id": "192",
@@ -2071,7 +2072,7 @@
             "image": "LeilaOuahabi.jpg",
             "sofascore": 838441,
             "dateOfBirthTimestamp": "1993-03-21T00:00:00.000Z",
-            "club": "Chicago Stars"
+            "club": "Gotham"
         },
         {
             "id": "233",
@@ -2112,7 +2113,7 @@
             "image": "LeahGaulton.jpg",
             "sofascore": 1007191,
             "dateOfBirthTimestamp": "1994-05-24T00:00:00.000Z",
-            "club": "Man Utd"
+            "club": "Burnley"
         },
         {
             "id": "238",
@@ -4807,7 +4808,7 @@
             "image": "CortneeVine.jpg",
             "sofascore": 1006218,
             "dateOfBirthTimestamp": "1998-04-09T00:00:00.000Z",
-            "club": "NC Courage"
+            "club": "Melbourne City"
         },
         {
             "id": "613",
@@ -4963,7 +4964,7 @@
             "image": "AnnaGasper.jpg",
             "sofascore": 1009053,
             "dateOfBirthTimestamp": "1997-01-03T00:00:00.000Z",
-            "club": "Benfica"
+            "club": "Chicago Stars"
         },
         {
             "id": "631",
@@ -7457,6 +7458,48 @@
         {
             "id": "942",
             "label": "Jenny Østerås",
+            "group": "Nonplayer"
+        },
+        {
+            "id": "943",
+            "label": "Lidia Martin Postigo",
+            "group": "Nonplayer"
+        },
+        {
+            "id": "944",
+            "label": "Flora Peel",
+            "group": "Nonplayer"
+        },
+        {
+            "id": "945",
+            "label": "Clara Serrajordi",
+            "image": "ClaraSerrajordi.jpg",
+            "group": "Spain",
+            "club": "FC Barcelona",
+            "sofascore": 1858745,
+            "dateOfBirthTimestamp": "2007-12-07T00:00:00.00Z"
+        },
+        {
+            "id": "946",
+            "label": "Dudinha",
+            "group": "Brazil",
+            "image": "Dudinha.jpg",
+            "club": "San Diego Wave",
+            "sofascore": 1416628,
+            "dateOfBirthTimestamp": "2005-07-04T00:00:00.00Z"
+        },
+        {
+            "id": "947",
+            "label": "Camilinha",
+            "group": "Brazil",
+            "image": "Camilinha.jpg",
+            "club": "São Paulo",
+            "sofascore": 1123472,
+            "dateOfBirthTimestamp": "1994-10-10T00:00:00.00Z"
+        },
+        {
+            "id": "948",
+            "label": "Saskia Jonasch",
             "group": "Nonplayer"
         }
     ]
