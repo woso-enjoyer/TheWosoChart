@@ -4964,7 +4964,7 @@
             "image": "AnnaGasper.jpg",
             "sofascore": 1009053,
             "dateOfBirthTimestamp": "1997-01-03T00:00:00.000Z",
-            "club": "Benfica"
+            "club": "Chicago Stars"
         },
         {
             "id": "631",
@@ -7496,6 +7496,11 @@
             "club": "São Paulo",
             "sofascore": 1123472,
             "dateOfBirthTimestamp": "1994-10-10T00:00:00.00Z"
+        },
+        {
+            "id": "948",
+            "label": "Saskia Jonasch",
+            "group": "Nonplayer"
         }
     ]
 }
