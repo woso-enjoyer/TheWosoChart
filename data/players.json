@@ -239,7 +239,7 @@
             "image": "LiaWälti.jpg",
             "sofascore": 68299,
             "dateOfBirthTimestamp": "1993-04-19T00:00:00.000Z",
-            "club": "Juventus"
+            "club": "Brighton"
         },
         {
             "id": "27",
@@ -293,7 +293,7 @@
             "image": "VickyLosada.jpg",
             "sofascore": 91668,
             "dateOfBirthTimestamp": "1991-03-05T00:00:00.000Z",
-            "club": "Bristol City"
+            "club": "FC Badalona"
         },
         {
             "id": "33",
@@ -383,7 +383,7 @@
             "image": "SarahMayling.jpg",
             "sofascore": 1007365,
             "dateOfBirthTimestamp": "1997-03-20T00:00:00.000Z",
-            "club": "Aston Villa"
+            "club": "Leicester"
         },
         {
             "id": "43",
@@ -436,7 +436,7 @@
             "image": "EstefaniaBanini.jpg",
             "sofascore": 985611,
             "dateOfBirthTimestamp": "1990-06-21T00:00:00.000Z",
-            "club": "FC Badalona"
+            "club": "Colo Colo"
         },
         {
             "id": "49",
@@ -1030,7 +1030,7 @@
             "image": "MarenMjelde.jpg",
             "sofascore": 25728,
             "dateOfBirthTimestamp": "1989-11-06T00:00:00.000Z",
-            "club": "Everton"
+            "club": "Arna-Bjørnar"
         },
         {
             "id": "116",
@@ -1226,7 +1226,7 @@
             "image": "SaraDoorsoun.jpg",
             "sofascore": 838495,
             "dateOfBirthTimestamp": "1991-11-17T00:00:00.000Z",
-            "club": "Angel City FC"
+            "club": "Frankfurt"
         },
         {
             "id": "138",
@@ -1262,7 +1262,7 @@
             "image": "HannaBennison.jpg",
             "sofascore": 982629,
             "dateOfBirthTimestamp": "2002-10-16T00:00:00.000Z",
-            "club": "Real Madrid"
+            "club": "Frankfurt"
         },
         {
             "id": "142",
@@ -1582,7 +1582,7 @@
             "image": "AriannaCaruso.jpg",
             "sofascore": 995807,
             "dateOfBirthTimestamp": "1999-11-06T00:00:00.000Z",
-            "club": "Bayern Munich"
+            "club": "Real Madrid"
         },
         {
             "id": "178",
@@ -1838,7 +1838,7 @@
             "image": "AlbaRedondo.jpg",
             "sofascore": 861350,
             "dateOfBirthTimestamp": "1996-08-27T00:00:00.000Z",
-            "club": "Real Madrid"
+            "club": "Juventus"
         },
         {
             "id": "207",
@@ -1856,7 +1856,7 @@
             "image": "AntoniaSilva.jpg",
             "sofascore": 1022543,
             "dateOfBirthTimestamp": "1994-04-26T00:00:00.000Z",
-            "club": "Real Madrid"
+            "club": "Palmeiras"
         },
         {
             "id": "209",
@@ -3199,6 +3199,7 @@
             "label": "Meredith Speck",
             "group": "USA",
             "image": "MeredithSpeck.jpg",
+            "club": "Gotham",
             "sofascore": 1025592,
             "dateOfBirthTimestamp": "1993-02-01T00:00:00.000Z"
         },
@@ -3449,7 +3450,7 @@
             "image": "ElisaAlmeida.jpg",
             "sofascore": 1000076,
             "dateOfBirthTimestamp": "1998-01-10T00:00:00.000Z",
-            "club": "PSG"
+            "club": "Arsenal"
         },
         {
             "id": "457",
@@ -5198,7 +5199,7 @@
             "image": "KirstySmith.jpg",
             "sofascore": 863058,
             "dateOfBirthTimestamp": "1994-01-06T00:00:00.000Z",
-            "club": "Nottingham Forest"
+            "club": "Rangers"
         },
         {
             "id": "657",
@@ -5379,7 +5380,7 @@
             "image": "JanaVojtekova.jpg",
             "sofascore": 71434,
             "dateOfBirthTimestamp": "1991-08-12T00:00:00.000Z",
-            "club": "Basel"
+            "club": "Freiburg"
         },
         {
             "id": "678",
@@ -5415,7 +5416,7 @@
             "image": "MarieLevasseur.jpg",
             "sofascore": 1019099,
             "dateOfBirthTimestamp": "1997-03-10T00:00:00.000Z",
-            "club": "Montpellier"
+            "club": "Birmingham"
         },
         {
             "id": "682",
@@ -6547,7 +6548,7 @@
             "label": "Ryan Campbell",
             "group": "USA",
             "image": "RyanCampbell.jpg",
-            "club": "Gotham",
+            "club": "Lexington SC",
             "dateOfBirthTimestamp": "2002-03-18T00:00:00.000Z",
             "sofascore": 2042628
         },
