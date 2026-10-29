@@ -1439,6 +1439,7 @@
             "label": "Esther González",
             "group": "Spain",
             "image": "EstherGonzalez.jpg",
+            "club": "Al-Qadsiah",
             "sofascore": 823108,
             "dateOfBirthTimestamp": "1992-12-08T00:00:00.000Z"
         },
@@ -2071,7 +2072,7 @@
             "image": "LeilaOuahabi.jpg",
             "sofascore": 838441,
             "dateOfBirthTimestamp": "1993-03-21T00:00:00.000Z",
-            "club": "Chicago Stars"
+            "club": "Gotham"
         },
         {
             "id": "233",
@@ -7468,6 +7469,15 @@
             "id": "944",
             "label": "Flora Peel",
             "group": "Nonplayer"
+        },
+        {
+            "id": "945",
+            "label": "Clara Serrajordi",
+            "image": "ClaraSerrajordi.jpg",
+            "group": "Spain",
+            "club": "FC Barcelona",
+            "sofascore": 1858745,
+            "dateOfBirthTimestamp": "2007-12-07T00:00:00.00Z"
         }
     ]
 }
