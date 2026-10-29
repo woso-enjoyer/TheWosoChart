@@ -2113,7 +2113,7 @@
             "image": "LeahGaulton.jpg",
             "sofascore": 1007191,
             "dateOfBirthTimestamp": "1994-05-24T00:00:00.000Z",
-            "club": "Man Utd"
+            "club": "Burnley"
         },
         {
             "id": "238",
@@ -7478,6 +7478,24 @@
             "club": "FC Barcelona",
             "sofascore": 1858745,
             "dateOfBirthTimestamp": "2007-12-07T00:00:00.00Z"
+        },
+        {
+            "id": "946",
+            "label": "Dudinha",
+            "group": "Brazil",
+            "image": "Dudinha.jpg",
+            "club": "San Diego Wave",
+            "sofascore": 1416628,
+            "dateOfBirthTimestamp": "2005-07-04T00:00:00.00Z"
+        },
+        {
+            "id": "947",
+            "label": "Camilinha",
+            "group": "Brazil",
+            "image": "Camilinha.jpg",
+            "club": "São Paulo",
+            "sofascore": 1123472,
+            "dateOfBirthTimestamp": "1994-10-10T00:00:00.00Z"
         }
     ]
 }
